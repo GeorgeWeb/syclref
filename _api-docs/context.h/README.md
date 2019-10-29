@@ -6,6 +6,11 @@ classes: wide
 
 ## Classes
 
+Custom URL:
+
+{{ site.url }}/{{ page.url | replace: '/', ' ' | truncatewords: 1 | remove:'...' }}/{{ page.title | replace: ' ', '-' }}
+
+
 | :--- | :--- |
 | [cl::sycl::context]({{ site.url }}/{{ page.url | replace: '/', ' ' | truncatewords: 1 | remove:'...' }}/{{ page.title | replace: ' ', '-' }}/cl::sycl::context/README) | Interface for abstracting and interacting with an underlying cl_context object.  |
 
