@@ -1,0 +1,18 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<!--
+{% for module in site.data.modules %}
+<a href="{{ module.url }}">
+  <strong>{{ module.name }}</strong>
+</a>
+{% endfor %}
+-->
+
+
+<div class="entries-{{ page.entries_layout | default: 'grid' }}">
+  {% include documents-module.html collection=page.collection type=page.entries_layout %}
+</div>

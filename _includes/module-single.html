@@ -1,0 +1,15 @@
+{% assign name = module.name %}
+{% assign url = module.url %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ url | relative_url }}" rel="permalink">{{ name }}</a>
+    </h2>
+    {% if module.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ module.excerpt | markdownify | strip_html | truncate: 160 }}
+      </p>
+    {% endif %}
+  </article>
+</div>

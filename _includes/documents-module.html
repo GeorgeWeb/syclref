@@ -1,0 +1,5 @@
+{% assign entries = site.data.modules %}
+
+{%- for module in entries -%}
+  {% include module-single.html %}
+{%- endfor -%}

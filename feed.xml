@@ -1,0 +1,12 @@
+<feed>
+  <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
+  <updated>2019-10-29T14:29:30+00:00</updated>
+  <id>http://localhost:4000/feed.xml</id>
+  <title type="html">syclref.com</title>
+  <subtitle>
+    SYCL API Reference. You can follow the development of SYCL
+    and learn more about it on the community website sycl.tech.
+  </subtitle>
+</feed>
