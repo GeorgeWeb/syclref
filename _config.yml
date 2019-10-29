@@ -94,6 +94,13 @@ defaults:
       sidebar:
         nav: "docs"
 
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
 # handle syclref links
 collections:
   syclref:
