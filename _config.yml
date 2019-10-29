@@ -82,10 +82,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-# _syclref
+# _api-docs
   - scope:
       path: ""
-      type: syclref
+      type: api-docs
     values:
       layout: single
       author_profile: false
@@ -101,9 +101,9 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# handle syclref links
+# handle api-docs links
 collections:
-  syclref:
+  api-docs:
     output: true
     # permalink: /:collection/:path/:name:output_ext
     permalink: /:collection/:path/

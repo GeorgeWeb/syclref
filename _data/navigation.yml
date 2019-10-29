@@ -1,26 +1,26 @@
 main:
   - title: API Reference
-    url: /syclref/
+    url: /api-docs/
 
 docs:
   - title: API Classes
   # ...
   - title: context.h
-  #- url: /syclref/context.h/README/
+  #- url: /api-docs/context.h/README/
     children:
     - title: cl::sycl::context
-      url: /syclref/context.h/cl::sycl::context/README/
+      url: /api-docs/context.h/cl::sycl::context/README/
     - title: std::hash<cl::sycl::context>
-      url: /syclref/context.h/std::hash<cl::sycl::context>/README/
+      url: /api-docs/context.h/std::hash<cl::sycl::context>/README/
     - title: cl::sycl::info_convert<cl_context* ,context>
-      url: /syclref/context.h/cl::sycl::info_convert<cl_context,context>/README/
+      url: /api-docs/context.h/cl::sycl::info_convert<cl_context,context>/README/
   # ...
   - title: context2.h
-  #- url: /syclref/context2.h/README/
+  #- url: /api-docs/context2.h/README/
     children:
     - title: cl::sycl::context
-      url: /syclref/context2.h/cl::sycl::context/README/
+      url: /api-docs/context2.h/cl::sycl::context/README/
     - title: std::hash<cl::sycl::context>
-      url: /syclref/context2.h/std::hash<cl::sycl::context>/README/
+      url: /api-docs/context2.h/std::hash<cl::sycl::context>/README/
     - title: cl::sycl::info_convert<cl_context*, context>
-      url: /syclref/context2.h/cl::sycl::info_convert<cl_context,context>/README/
+      url: /api-docs/context2.h/cl::sycl::info_convert<cl_context,context>/README/

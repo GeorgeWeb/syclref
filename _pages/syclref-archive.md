@@ -1,8 +1,8 @@
 ---
 title: "API Reference"
 layout: module
-permalink: /syclref/
-collection: syclref
+permalink: /api-docs/
+collection: api-docs
 entries_layout: grid
 # show_excerpts: false
 # sort_by: title # date (default) title

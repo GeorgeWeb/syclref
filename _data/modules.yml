@@ -1,5 +1,5 @@
 - name: context.h
-  url: /syclref/context.h/README
+  url: /api-docs/context.h/README
 
 - name: context2.h
-  url: /syclref/context2.h/README
+  url: /api-docs/context2.h/README
