@@ -3,10 +3,22 @@ main:
     url: /api-docs/
 
 docs:
-  - title: API Classes
-  # ...
+  #- title: API Classes
+  # ------------------
+
+  - title: apis.h
+    children:
+    - title: cl::sycl::handler
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: buffer.h
+    children:
+    - title: cl::sycl::buffer
+      url: /api-docs/context.h/cl::sycl::context/README/
+    - title: cl::sycl::accessor
+      url: /api-docs/context.h/std::hash<cl::sycl::context>/README/
+
   - title: context.h
-  #- url: /api-docs/context.h/README/
     children:
     - title: cl::sycl::context
       url: /api-docs/context.h/cl::sycl::context/README/
@@ -14,13 +26,118 @@ docs:
       url: /api-docs/context.h/std::hash<cl::sycl::context>/README/
     - title: cl::sycl::info_convert<cl_context* ,context>
       url: /api-docs/context.h/cl::sycl::info_convert<cl_context,context>/README/
-  # ...
-  - title: context2.h
-  #- url: /api-docs/context2.h/README/
+
+  - title: device.h
     children:
-    - title: cl::sycl::context
-      url: /api-docs/context2.h/cl::sycl::context/README/
-    - title: std::hash<cl::sycl::context>
-      url: /api-docs/context2.h/std::hash<cl::sycl::context>/README/
-    - title: cl::sycl::info_convert<cl_context*, context>
-      url: /api-docs/context2.h/cl::sycl::info_convert<cl_context,context>/README/
+    - title: cl::sycl::device
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: device_event.h
+    children:
+    - title: cl::sycl::device_event
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: device_selector.h
+    children:
+    - title: cl::sycl::device_selector
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: error.h
+    children:
+    - title: cl::sycl::error
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: event.h
+    children:
+    - title: cl::sycl::event
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: half_type.h
+    children:
+    - title: cl::sycl::half_type
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: id.h
+    children:
+    - title: cl::sycl::id
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: image.h
+    children:
+    - title: cl::sycl::image
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: index_array.h
+    children:
+    - title: cl::sycl::index_array
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: info.h
+    children:
+    - title: cl::sycl::info
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: kernel.h
+    children:
+    - title: cl::sycl::kernel
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: multi_pointer.h
+    children:
+    - title: cl::sycl::multi_ptr
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: platform.h
+    children:
+    - title: cl::sycl::platform
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: private_memory.h
+    children:
+    - title: cl::sycl::private_memory
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: program.h
+    children:
+    - title: cl::sycl::program
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: property.h
+    children:
+    - title: cl::sycl::property
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: queue.h
+    children:
+    - title: cl::sycl::queue
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: range.h
+    children:
+    - title: cl::sycl::range
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: sampler.h
+    children:
+    - title: cl::sycl::sampler
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: stream.h
+    children:
+    - title: cl::sycl::stream
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: vector.h
+    children:
+    - title: cl::sycl::vec
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: types
+    children:
+    - title: cl::sycl::type
+      url: /api-docs/context.h/cl::sycl::context/README/
+
+  - title: built-ins
+    children:
+    - title: math
+      url: /api-docs/context.h/cl::sycl::context/README/

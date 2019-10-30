@@ -18,7 +18,7 @@ struct std::hash< cl::sycl::context >
 ## Member Functions
 
 | :--- | :--- |
-| [operator()]({{ page.url }}../functions/operator()/README) | enables calling an std::hash object as a function with the object to be hashed as a parameter  |
+| [operator()]({% link _api-docs/context.h/std::hash<cl::sycl::context>/functions/operator()/README.md %}) | enables calling an std::hash object as a function with the object to be hashed as a parameter  |
 
 
 ## Friend Functions

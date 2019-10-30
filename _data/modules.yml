@@ -1,5 +1,77 @@
+- name: base.h
+  url: /api-docs/context.h/README
+
+- name: buffer.h
+  url: /api-docs/context.h/README
+
 - name: context.h
   url: /api-docs/context.h/README
 
-- name: context2.h
-  url: /api-docs/context2.h/README
+- name: device.h
+  url: /api-docs/context.h/README
+
+- name: device_event.h
+  url: /api-docs/context.h/README
+
+- name: device_selector.h
+  url: /api-docs/context.h/README
+
+- name: error.h
+  url: /api-docs/context.h/README
+
+- name: event.h
+  url: /api-docs/context.h/README
+
+- name: half_type.h
+  url: /api-docs/context.h/README
+
+- name: id.h
+  url: /api-docs/context.h/README
+
+- name: image.h
+  url: /api-docs/context.h/README
+
+- name: index_array.h
+  url: /api-docs/context.h/README
+
+- name: info.h
+  url: /api-docs/context.h/README
+
+- name: kernel.h
+  url: /api-docs/context.h/README
+
+- name: multi_pointer.h
+  url: /api-docs/context.h/README
+
+- name: platform.h
+  url: /api-docs/context.h/README
+
+- name: private_memory.h
+  url: /api-docs/context.h/README
+
+- name: program.h
+  url: /api-docs/context.h/README
+
+- name: property.h
+  url: /api-docs/context.h/README
+
+- name: queue.h
+  url: /api-docs/context.h/README
+
+- name: range.h
+  url: /api-docs/context.h/README
+
+- name: sampler.h
+  url: /api-docs/context.h/README
+
+- name: stream.h
+  url: /api-docs/context.h/README
+
+- name: vector.h
+  url: /api-docs/context.h/README
+
+- name: types
+  url: /api-docs/context.h/README
+
+- name: built-ins
+  url: /api-docs/context.h/README
