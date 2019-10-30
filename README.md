@@ -4,4 +4,4 @@
 
 | Build Status  | Code Coverage |
 | ------------- |--------------:|
-| [![Build Status](https://travis-ci.com/GeorgeWeb/syclref.svg?branch=master)](https://travis-ci.com/GeorgeWeb/syclref) | [![Coverage Status](https://coveralls.io/repos/github/GeorgeWeb/syclref/badge.svg?branch=master)](https://coveralls.io/github/GeorgeWeb/syclref?branch=master) |
+| [![Build Status](https://travis-ci.com/GeorgeWeb/syclref.svg?branch=master)](https://travis-ci.com/GeorgeWeb/syclref) | *... unit tests (?)* |
