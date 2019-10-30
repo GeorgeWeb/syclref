@@ -12,10 +12,10 @@ rvm:
 
 # set executable permission
 before_script:
- - chmod +x ./scripts/cibuild.sh
+ - chmod +x ./script/cibuild.sh
 
 # run the build script
-script: ./scripts/cibuild.sh
+script: ./script/cibuild.sh
 
 branches:
   only:
