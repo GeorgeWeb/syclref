@@ -19,4 +19,4 @@ classes: wide
 
 
 | :--- | :--- |
-| [cl::sycl::info_convert< cl_context *, context >]({% link _api-docs/context.h/cl::sycl::info_convert<cl_context,context>/README.md %}) | This function converts a cl context object to a sycl context object it is used to allow get_info<cl::sycl::typename::context> to return a sycl context object.  |
+| [cl::sycl::info_convert< cl_context *, context >]({{site.baseurl}}{% link _api-docs/context.h/cl::sycl::info_convert<cl_context,context>/README.md %}) | This function converts a cl context object to a sycl context object it is used to allow get_info<cl::sycl::typename::context> to return a sycl context object.  |
