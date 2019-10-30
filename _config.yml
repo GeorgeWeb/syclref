@@ -107,3 +107,6 @@ collections:
     output: true
     # permalink: /:collection/:path/:name:output_ext
     permalink: /:collection/:path/
+
+## MODIFY DEPENDING ON ENVIRONMENT (dev or production)
+baseurl: "/syclref" # the subpath of your site, e.g. /blog/
