@@ -1,5 +1,5 @@
 ---
-title: "API Reference"
+title: "SYCL API Reference"
 layout: module
 permalink: /api-docs/
 collection: api-docs
@@ -10,4 +10,6 @@ classes: wide
 # sort_order: forward # forward (default), reverse
 sidebar:
   nav: "docs"
+---
+
 ---
