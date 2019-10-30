@@ -132,12 +132,10 @@ docs:
     - title: cl::sycl::vec
       url: /api-docs/context.h/cl::sycl::context/README/
 
-  - title: types
-    children:
-    - title: cl::sycl::type
-      url: /api-docs/context.h/cl::sycl::context/README/
+#  - title: types
+#    children:
+#    - title: cl::sycl::type
+#      url: /api-docs/context.h/cl::sycl::context/README/
 
-  - title: built-ins
-    children:
-    - title: math
-      url: /api-docs/context.h/cl::sycl::context/README/
+#  - title: built-ins
+#    children:

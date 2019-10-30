@@ -95,18 +95,6 @@ analytics:
     tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
     anonymize_ip         : true
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Create a custom list to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -197,10 +185,8 @@ exclude:
   - tmp
 keep_files:
   - .git
-  - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
 
 # Conversion
 markdown: kramdown
@@ -251,7 +237,6 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
 
 # Archives
 #  Type

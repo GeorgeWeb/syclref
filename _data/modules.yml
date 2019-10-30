@@ -70,8 +70,8 @@
 - name: vector.h
   url: /api-docs/context.h/README
 
-- name: types
-  url: /api-docs/context.h/README
+#- name: types
+#  url: /api-docs/context.h/README
 
-- name: built-ins
-  url: /api-docs/context.h/README
+#- name: built-ins
+#  url: /api-docs/context.h/README

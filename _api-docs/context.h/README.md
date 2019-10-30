@@ -6,10 +6,6 @@ classes: wide
 
 ## Classes
 
-<!--
-[test internal link]({% link _api-docs/context.h/cl::sycl::context/README.md %})
--->
-
 | :--- | :--- |
 | [cl::sycl::context]({{site.baseurl}}{% link _api-docs/context.h/cl::sycl::context/README.md %}) | Interface for abstracting and interacting with an underlying cl_context object.  |
 
