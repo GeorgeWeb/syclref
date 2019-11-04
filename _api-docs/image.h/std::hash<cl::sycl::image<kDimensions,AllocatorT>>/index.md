@@ -1,4 +1,6 @@
 ---
+title: std::hash< cl::sycl::image< kDimensions, AllocatorT > >
+classes: wide
 ---
 # std::hash< cl::sycl::image< kDimensions, AllocatorT > >
 

@@ -1,4 +1,6 @@
 ---
+title: ~program
+classes: wide
 ---
 # ~program
 

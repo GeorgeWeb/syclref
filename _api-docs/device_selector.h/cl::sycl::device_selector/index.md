@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::device_selector
+classes: wide
 ---
 # cl::sycl::device_selector
 

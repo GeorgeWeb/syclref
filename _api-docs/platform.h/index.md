@@ -1,4 +1,6 @@
 ---
+title: platform.h
+classes: wide
 ---
 ## Classes
 

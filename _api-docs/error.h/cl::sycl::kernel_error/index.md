@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::kernel_error
+classes: wide
 ---
 # cl::sycl::kernel_error
 

@@ -1,4 +1,6 @@
 ---
+title: get_offset
+classes: wide
 ---
 # get_offset
 

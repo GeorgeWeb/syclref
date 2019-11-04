@@ -1,4 +1,6 @@
 ---
+title: fetch_sub
+classes: wide
 ---
 # fetch_sub
 

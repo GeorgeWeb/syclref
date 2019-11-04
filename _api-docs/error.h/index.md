@@ -1,4 +1,6 @@
 ---
+title: error.h
+classes: wide
 ---
 ## Classes
 

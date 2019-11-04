@@ -1,4 +1,6 @@
 ---
+title: link
+classes: wide
 ---
 # link
 

@@ -1,4 +1,6 @@
 ---
+title: compile_with_source
+classes: wide
 ---
 # compile_with_source
 

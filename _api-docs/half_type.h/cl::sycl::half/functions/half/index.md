@@ -1,4 +1,6 @@
 ---
+title: half
+classes: wide
 ---
 # half
 

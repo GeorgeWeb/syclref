@@ -1,4 +1,6 @@
 ---
+title: platform
+classes: wide
 ---
 # cl::sycl::info::platform
 ## Values

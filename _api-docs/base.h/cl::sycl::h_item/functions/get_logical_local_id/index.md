@@ -1,4 +1,6 @@
 ---
+title: get_logical_local_id
+classes: wide
 ---
 # get_logical_local_id
 

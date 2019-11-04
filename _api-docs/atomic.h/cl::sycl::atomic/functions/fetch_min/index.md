@@ -1,4 +1,6 @@
 ---
+title: fetch_min
+classes: wide
 ---
 # fetch_min
 

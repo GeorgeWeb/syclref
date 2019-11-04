@@ -1,4 +1,6 @@
 ---
+title: size
+classes: wide
 ---
 # size
 

@@ -1,4 +1,6 @@
 ---
+title: is_equal
+classes: wide
 ---
 # is_equal
 

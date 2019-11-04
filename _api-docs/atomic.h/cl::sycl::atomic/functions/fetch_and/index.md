@@ -1,4 +1,6 @@
 ---
+title: fetch_and
+classes: wide
 ---
 # fetch_and
 

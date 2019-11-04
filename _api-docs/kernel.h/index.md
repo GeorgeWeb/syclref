@@ -1,4 +1,6 @@
 ---
+title: kernel.h
+classes: wide
 ---
 ## Classes
 

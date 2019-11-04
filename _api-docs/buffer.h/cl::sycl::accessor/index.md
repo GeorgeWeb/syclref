@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::accessor
+classes: wide
 ---
 # cl::sycl::accessor
 

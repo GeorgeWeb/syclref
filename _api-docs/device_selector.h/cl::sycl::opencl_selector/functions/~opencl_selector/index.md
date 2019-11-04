@@ -1,4 +1,6 @@
 ---
+title: ~opencl_selector
+classes: wide
 ---
 # ~opencl_selector
 

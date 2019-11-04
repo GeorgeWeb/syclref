@@ -1,4 +1,6 @@
 ---
+title: range.h
+classes: wide
 ---
 ## Classes
 

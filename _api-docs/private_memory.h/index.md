@@ -1,4 +1,6 @@
 ---
+title: private_memory.h
+classes: wide
 ---
 ## Classes
 

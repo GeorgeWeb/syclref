@@ -1,4 +1,6 @@
 ---
+title: device
+classes: wide
 ---
 # cl::sycl::info::device
 ## Values

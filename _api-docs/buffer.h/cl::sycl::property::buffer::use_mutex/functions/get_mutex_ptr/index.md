@@ -1,4 +1,6 @@
 ---
+title: get_mutex_ptr
+classes: wide
 ---
 # get_mutex_ptr
 

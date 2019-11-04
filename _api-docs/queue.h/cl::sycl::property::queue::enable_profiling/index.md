@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::property::queue::enable_profiling
+classes: wide
 ---
 # cl::sycl::property::queue::enable_profiling
 

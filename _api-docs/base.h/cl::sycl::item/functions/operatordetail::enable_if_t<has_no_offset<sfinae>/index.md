@@ -1,4 +1,6 @@
 ---
+title: operator detail::enable_if_t< has_no_offset< sfinae >
+classes: wide
 ---
 # operator detail::enable_if_t< has_no_offset< sfinae >
 

@@ -1,4 +1,6 @@
 ---
+title: atomic
+classes: wide
 ---
 # atomic
 

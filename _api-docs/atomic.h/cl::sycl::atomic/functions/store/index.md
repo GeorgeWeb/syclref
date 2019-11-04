@@ -1,4 +1,6 @@
 ---
+title: store
+classes: wide
 ---
 # store
 

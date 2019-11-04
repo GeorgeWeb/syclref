@@ -1,4 +1,6 @@
 ---
+title: get_access
+classes: wide
 ---
 # get_access
 

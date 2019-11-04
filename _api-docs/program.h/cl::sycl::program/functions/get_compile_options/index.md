@@ -1,4 +1,6 @@
 ---
+title: get_compile_options
+classes: wide
 ---
 # get_compile_options
 

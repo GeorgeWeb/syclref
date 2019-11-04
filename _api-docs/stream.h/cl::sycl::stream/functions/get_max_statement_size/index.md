@@ -1,4 +1,6 @@
 ---
+title: get_max_statement_size
+classes: wide
 ---
 # get_max_statement_size
 

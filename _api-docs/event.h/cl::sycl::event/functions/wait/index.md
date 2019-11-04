@@ -1,4 +1,6 @@
 ---
+title: wait
+classes: wide
 ---
 # wait
 

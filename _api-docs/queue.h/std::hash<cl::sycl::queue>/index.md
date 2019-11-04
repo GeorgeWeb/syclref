@@ -1,4 +1,6 @@
 ---
+title: std::hash< cl::sycl::queue >
+classes: wide
 ---
 # std::hash< cl::sycl::queue >
 

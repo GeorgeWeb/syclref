@@ -1,4 +1,6 @@
 ---
+title: get_local_range
+classes: wide
 ---
 # get_local_range
 

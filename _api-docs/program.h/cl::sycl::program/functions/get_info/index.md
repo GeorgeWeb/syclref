@@ -1,4 +1,6 @@
 ---
+title: get_info
+classes: wide
 ---
 # get_info
 

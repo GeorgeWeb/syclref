@@ -1,4 +1,6 @@
 ---
+title: append_chars
+classes: wide
 ---
 # append_chars
 

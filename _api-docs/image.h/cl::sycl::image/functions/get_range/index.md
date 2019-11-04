@@ -1,4 +1,6 @@
 ---
+title: get_range
+classes: wide
 ---
 # get_range
 

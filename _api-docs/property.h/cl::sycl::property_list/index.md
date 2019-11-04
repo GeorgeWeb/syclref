@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::property_list
+classes: wide
 ---
 # cl::sycl::property_list
 

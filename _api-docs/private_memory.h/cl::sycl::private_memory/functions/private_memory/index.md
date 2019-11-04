@@ -1,4 +1,6 @@
 ---
+title: private_memory
+classes: wide
 ---
 # private_memory
 

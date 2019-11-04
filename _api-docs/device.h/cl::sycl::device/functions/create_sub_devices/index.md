@@ -1,4 +1,6 @@
 ---
+title: create_sub_devices
+classes: wide
 ---
 # create_sub_devices
 

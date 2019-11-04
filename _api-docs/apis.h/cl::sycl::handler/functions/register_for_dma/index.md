@@ -1,4 +1,6 @@
 ---
+title: register_for_dma
+classes: wide
 ---
 # register_for_dma
 

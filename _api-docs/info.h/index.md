@@ -1,4 +1,6 @@
 ---
+title: info.h
+classes: wide
 ---
 ## Classes
 

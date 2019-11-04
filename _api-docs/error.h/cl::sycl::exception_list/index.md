@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::exception_list
+classes: wide
 ---
 # cl::sycl::exception_list
 

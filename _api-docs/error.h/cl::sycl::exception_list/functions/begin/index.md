@@ -1,4 +1,6 @@
 ---
+title: begin
+classes: wide
 ---
 # begin
 

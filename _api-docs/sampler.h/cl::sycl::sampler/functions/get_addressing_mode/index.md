@@ -1,4 +1,6 @@
 ---
+title: get_addressing_mode
+classes: wide
 ---
 # get_addressing_mode
 

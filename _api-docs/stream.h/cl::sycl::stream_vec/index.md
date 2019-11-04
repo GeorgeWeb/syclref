@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::stream_vec
+classes: wide
 ---
 # cl::sycl::stream_vec
 

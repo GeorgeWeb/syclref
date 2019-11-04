@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::precision_manipulator
+classes: wide
 ---
 # cl::sycl::precision_manipulator
 

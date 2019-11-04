@@ -1,4 +1,6 @@
 ---
+title: cpu_selector
+classes: wide
 ---
 # cpu_selector
 

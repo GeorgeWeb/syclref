@@ -1,4 +1,6 @@
 ---
+title: group< 1 >
+classes: wide
 ---
 # group< 1 >
 

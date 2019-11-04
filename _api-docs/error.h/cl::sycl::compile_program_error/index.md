@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::compile_program_error
+classes: wide
 ---
 # cl::sycl::compile_program_error
 

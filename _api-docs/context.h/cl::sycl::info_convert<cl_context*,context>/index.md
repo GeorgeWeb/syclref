@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::info_convert< cl_context *, context >
+classes: wide
 ---
 # cl::sycl::info_convert< cl_context *, context >
 

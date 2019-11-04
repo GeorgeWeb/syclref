@@ -1,4 +1,6 @@
 ---
+title: fetch_add
+classes: wide
 ---
 # fetch_add
 

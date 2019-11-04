@@ -1,4 +1,6 @@
 ---
+title: multi_ptr
+classes: wide
 ---
 # multi_ptr
 

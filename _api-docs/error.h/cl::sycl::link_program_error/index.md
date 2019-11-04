@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::link_program_error
+classes: wide
 ---
 # cl::sycl::link_program_error
 

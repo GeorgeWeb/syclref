@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::feature_not_supported
+classes: wide
 ---
 # cl::sycl::feature_not_supported
 

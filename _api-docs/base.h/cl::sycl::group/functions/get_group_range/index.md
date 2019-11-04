@@ -1,4 +1,6 @@
 ---
+title: get_group_range
+classes: wide
 ---
 # get_group_range
 

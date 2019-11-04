@@ -1,4 +1,6 @@
 ---
+title: group
+classes: wide
 ---
 # group
 

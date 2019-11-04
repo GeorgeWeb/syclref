@@ -1,4 +1,6 @@
 ---
+title: device_selector.h
+classes: wide
 ---
 ## Classes
 

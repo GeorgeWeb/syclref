@@ -1,4 +1,6 @@
 ---
+title: enable_profiling
+classes: wide
 ---
 # enable_profiling
 

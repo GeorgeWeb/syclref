@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::exception
+classes: wide
 ---
 # cl::sycl::exception
 

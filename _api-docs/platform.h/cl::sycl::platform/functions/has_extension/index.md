@@ -1,4 +1,6 @@
 ---
+title: has_extension
+classes: wide
 ---
 # has_extension
 

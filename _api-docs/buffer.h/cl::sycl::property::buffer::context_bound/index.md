@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::property::buffer::context_bound
+classes: wide
 ---
 # cl::sycl::property::buffer::context_bound
 

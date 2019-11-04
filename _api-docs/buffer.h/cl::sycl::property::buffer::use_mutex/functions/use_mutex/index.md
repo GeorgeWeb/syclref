@@ -1,4 +1,6 @@
 ---
+title: use_mutex
+classes: wide
 ---
 # use_mutex
 

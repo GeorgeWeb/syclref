@@ -1,4 +1,6 @@
 ---
+title: nd_item
+classes: wide
 ---
 # nd_item
 

@@ -1,4 +1,6 @@
 ---
+title: half_type.h
+classes: wide
 ---
 ## Classes
 

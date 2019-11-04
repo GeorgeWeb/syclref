@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::accessor_error
+classes: wide
 ---
 # cl::sycl::accessor_error
 

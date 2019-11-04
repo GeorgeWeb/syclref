@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::accelerator_selector
+classes: wide
 ---
 # cl::sycl::accelerator_selector
 

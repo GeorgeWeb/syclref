@@ -1,4 +1,6 @@
 ---
+title: context_bound
+classes: wide
 ---
 # context_bound
 

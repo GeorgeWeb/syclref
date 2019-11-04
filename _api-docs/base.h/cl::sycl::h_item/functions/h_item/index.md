@@ -1,4 +1,6 @@
 ---
+title: h_item
+classes: wide
 ---
 # h_item
 

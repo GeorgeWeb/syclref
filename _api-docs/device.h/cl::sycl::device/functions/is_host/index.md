@@ -1,4 +1,6 @@
 ---
+title: is_host
+classes: wide
 ---
 # is_host
 

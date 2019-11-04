@@ -1,4 +1,6 @@
 ---
+title: create_from_built_in_kernel
+classes: wide
 ---
 # create_from_built_in_kernel
 

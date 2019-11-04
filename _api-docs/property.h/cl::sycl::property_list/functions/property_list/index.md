@@ -1,4 +1,6 @@
 ---
+title: property_list
+classes: wide
 ---
 # property_list
 

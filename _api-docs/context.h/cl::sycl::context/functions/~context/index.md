@@ -1,4 +1,6 @@
 ---
+title: ~context
+classes: wide
 ---
 # ~context
 

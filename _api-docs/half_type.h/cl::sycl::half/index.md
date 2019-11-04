@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::half
+classes: wide
 ---
 # cl::sycl::half
 

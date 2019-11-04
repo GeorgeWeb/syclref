@@ -1,4 +1,6 @@
 ---
+title: set_arg
+classes: wide
 ---
 # set_arg
 

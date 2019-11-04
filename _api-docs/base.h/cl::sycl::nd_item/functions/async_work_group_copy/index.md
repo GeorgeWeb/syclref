@@ -1,4 +1,6 @@
 ---
+title: async_work_group_copy
+classes: wide
 ---
 # async_work_group_copy
 

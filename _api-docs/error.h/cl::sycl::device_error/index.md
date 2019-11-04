@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::device_error
+classes: wide
 ---
 # cl::sycl::device_error
 

@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::default_selector
+classes: wide
 ---
 # cl::sycl::default_selector
 

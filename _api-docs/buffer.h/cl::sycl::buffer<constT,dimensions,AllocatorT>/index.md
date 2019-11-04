@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::buffer< const T, dimensions, AllocatorT >
+classes: wide
 ---
 # cl::sycl::buffer< const T, dimensions, AllocatorT >
 

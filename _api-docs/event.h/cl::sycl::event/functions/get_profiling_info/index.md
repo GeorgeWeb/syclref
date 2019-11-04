@@ -1,4 +1,6 @@
 ---
+title: get_profiling_info
+classes: wide
 ---
 # get_profiling_info
 

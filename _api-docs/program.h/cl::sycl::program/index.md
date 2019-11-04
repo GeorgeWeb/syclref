@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::program
+classes: wide
 ---
 # cl::sycl::program
 

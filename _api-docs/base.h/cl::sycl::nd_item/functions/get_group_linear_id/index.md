@@ -1,4 +1,6 @@
 ---
+title: get_group_linear_id
+classes: wide
 ---
 # get_group_linear_id
 

@@ -1,4 +1,6 @@
 ---
+title: precision_manipulator
+classes: wide
 ---
 # precision_manipulator
 

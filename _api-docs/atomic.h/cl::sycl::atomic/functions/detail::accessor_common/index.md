@@ -1,4 +1,6 @@
 ---
+title: detail::accessor_common
+classes: wide
 ---
 # detail::accessor_common
 

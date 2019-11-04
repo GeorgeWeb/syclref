@@ -1,4 +1,6 @@
 ---
+title: get_local
+classes: wide
 ---
 # get_local
 

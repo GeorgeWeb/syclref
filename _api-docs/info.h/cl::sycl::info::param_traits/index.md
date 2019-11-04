@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::info::param_traits
+classes: wide
 ---
 # cl::sycl::info::param_traits
 

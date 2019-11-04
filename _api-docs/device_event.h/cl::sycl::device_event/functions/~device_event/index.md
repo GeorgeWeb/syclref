@@ -1,4 +1,6 @@
 ---
+title: ~device_event
+classes: wide
 ---
 # ~device_event
 

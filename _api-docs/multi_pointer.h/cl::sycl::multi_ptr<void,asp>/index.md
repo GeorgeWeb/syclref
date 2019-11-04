@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::multi_ptr< void, asp >
+classes: wide
 ---
 # cl::sycl::multi_ptr< void, asp >
 

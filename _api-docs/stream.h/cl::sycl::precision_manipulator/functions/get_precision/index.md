@@ -1,4 +1,6 @@
 ---
+title: get_precision
+classes: wide
 ---
 # get_precision
 

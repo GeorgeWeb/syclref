@@ -1,4 +1,6 @@
 ---
+title: accelerator_selector
+classes: wide
 ---
 # accelerator_selector
 

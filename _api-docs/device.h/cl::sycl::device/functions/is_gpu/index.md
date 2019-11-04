@@ -1,4 +1,6 @@
 ---
+title: is_gpu
+classes: wide
 ---
 # is_gpu
 

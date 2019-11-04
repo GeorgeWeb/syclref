@@ -1,4 +1,6 @@
 ---
+title: has_property
+classes: wide
 ---
 # has_property
 

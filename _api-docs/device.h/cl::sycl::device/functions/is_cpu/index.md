@@ -1,4 +1,6 @@
 ---
+title: is_cpu
+classes: wide
 ---
 # is_cpu
 

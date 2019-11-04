@@ -1,4 +1,6 @@
 ---
+title: codeplay_await_dma_transfer
+classes: wide
 ---
 # codeplay_await_dma_transfer
 

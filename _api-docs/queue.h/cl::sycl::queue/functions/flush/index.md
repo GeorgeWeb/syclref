@@ -1,4 +1,6 @@
 ---
+title: flush
+classes: wide
 ---
 # flush
 

@@ -1,4 +1,6 @@
 ---
+title: get_allocator
+classes: wide
 ---
 # get_allocator
 

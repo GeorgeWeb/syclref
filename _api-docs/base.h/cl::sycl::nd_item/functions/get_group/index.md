@@ -1,4 +1,6 @@
 ---
+title: get_group
+classes: wide
 ---
 # get_group
 

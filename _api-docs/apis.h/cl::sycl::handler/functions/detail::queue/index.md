@@ -1,4 +1,6 @@
 ---
+title: detail::queue
+classes: wide
 ---
 # detail::queue
 

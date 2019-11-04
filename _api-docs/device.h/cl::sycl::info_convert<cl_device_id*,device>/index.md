@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::info_convert< cl_device_id *, device >
+classes: wide
 ---
 # cl::sycl::info_convert< cl_device_id *, device >
 

@@ -1,4 +1,6 @@
 ---
+title: buffer.h
+classes: wide
 ---
 ## Classes
 

@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::multi_ptr
+classes: wide
 ---
 # cl::sycl::multi_ptr
 

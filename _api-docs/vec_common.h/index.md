@@ -1,4 +1,6 @@
 ---
+title: vec_common.h
+classes: wide
 ---
 ## Classes
 

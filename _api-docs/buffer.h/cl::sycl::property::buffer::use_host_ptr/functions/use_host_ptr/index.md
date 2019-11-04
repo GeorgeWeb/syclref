@@ -1,4 +1,6 @@
 ---
+title: use_host_ptr
+classes: wide
 ---
 # use_host_ptr
 

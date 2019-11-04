@@ -1,4 +1,6 @@
 ---
+title: get_filtering_mode
+classes: wide
 ---
 # get_filtering_mode
 

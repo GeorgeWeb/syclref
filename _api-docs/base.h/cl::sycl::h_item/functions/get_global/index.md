@@ -1,4 +1,6 @@
 ---
+title: get_global
+classes: wide
 ---
 # get_global
 

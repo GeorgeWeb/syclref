@@ -1,4 +1,6 @@
 ---
+title: ~kernel
+classes: wide
 ---
 # ~kernel
 

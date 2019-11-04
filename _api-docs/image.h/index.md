@@ -1,4 +1,6 @@
 ---
+title: image.h
+classes: wide
 ---
 ## Classes
 

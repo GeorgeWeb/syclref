@@ -1,4 +1,6 @@
 ---
+title: id
+classes: wide
 ---
 # id
 

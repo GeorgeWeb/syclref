@@ -1,4 +1,6 @@
 ---
+title: base.h
+classes: wide
 ---
 ## Classes
 

@@ -1,4 +1,6 @@
 ---
+title: get_state
+classes: wide
 ---
 # get_state
 

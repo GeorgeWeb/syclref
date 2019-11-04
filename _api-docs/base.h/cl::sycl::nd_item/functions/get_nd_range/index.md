@@ -1,4 +1,6 @@
 ---
+title: get_nd_range
+classes: wide
 ---
 # get_nd_range
 

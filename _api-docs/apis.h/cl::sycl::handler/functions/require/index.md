@@ -1,4 +1,6 @@
 ---
+title: require
+classes: wide
 ---
 # require
 

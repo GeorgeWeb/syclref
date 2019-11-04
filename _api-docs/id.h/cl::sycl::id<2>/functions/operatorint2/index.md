@@ -1,4 +1,6 @@
 ---
+title: operator int2
+classes: wide
 ---
 # operator int2
 

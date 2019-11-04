@@ -1,4 +1,6 @@
 ---
+title: get_devices
+classes: wide
 ---
 # get_devices
 

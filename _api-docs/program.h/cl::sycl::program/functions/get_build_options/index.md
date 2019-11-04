@@ -1,4 +1,6 @@
 ---
+title: get_build_options
+classes: wide
 ---
 # get_build_options
 

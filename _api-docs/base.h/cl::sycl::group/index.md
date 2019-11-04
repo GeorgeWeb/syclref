@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::group
+classes: wide
 ---
 # cl::sycl::group
 

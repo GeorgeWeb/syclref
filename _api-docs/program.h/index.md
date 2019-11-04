@@ -1,4 +1,6 @@
 ---
+title: program.h
+classes: wide
 ---
 ## Classes
 

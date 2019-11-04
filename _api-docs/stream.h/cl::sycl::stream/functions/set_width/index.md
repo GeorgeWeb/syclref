@@ -1,4 +1,6 @@
 ---
+title: set_width
+classes: wide
 ---
 # set_width
 

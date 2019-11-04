@@ -1,4 +1,6 @@
 ---
+title: sampler.h
+classes: wide
 ---
 ## Classes
 

@@ -1,4 +1,6 @@
 ---
+title: operator multi_ptr< ElementType, asp >
+classes: wide
 ---
 # operator multi_ptr< ElementType, asp >
 

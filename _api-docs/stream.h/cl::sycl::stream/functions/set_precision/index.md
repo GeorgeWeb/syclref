@@ -1,4 +1,6 @@
 ---
+title: set_precision
+classes: wide
 ---
 # set_precision
 

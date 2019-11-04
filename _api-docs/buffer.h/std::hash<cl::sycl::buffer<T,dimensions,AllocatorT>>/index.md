@@ -1,4 +1,6 @@
 ---
+title: std::hash< cl::sycl::buffer< T, dimensions, AllocatorT > >
+classes: wide
 ---
 # std::hash< cl::sycl::buffer< T, dimensions, AllocatorT > >
 

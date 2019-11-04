@@ -1,4 +1,6 @@
 ---
+title: codeplay::host_handler
+classes: wide
 ---
 # codeplay::host_handler
 

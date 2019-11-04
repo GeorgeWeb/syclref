@@ -1,4 +1,6 @@
 ---
+title: target
+classes: wide
 ---
 # cl::sycl::access::target
 ## Values

@@ -1,4 +1,6 @@
 ---
+title: kernel_work_group
+classes: wide
 ---
 # cl::sycl::info::kernel_work_group
 ## Values

@@ -1,4 +1,6 @@
 ---
+title: index_array.h
+classes: wide
 ---
 ## Classes
 

@@ -1,4 +1,6 @@
 ---
+title: mode
+classes: wide
 ---
 # cl::sycl::access::mode
 ## Values

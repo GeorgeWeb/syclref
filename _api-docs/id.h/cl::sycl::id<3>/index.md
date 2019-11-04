@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::id< 3 >
+classes: wide
 ---
 # cl::sycl::id< 3 >
 

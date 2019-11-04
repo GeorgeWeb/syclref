@@ -1,4 +1,6 @@
 ---
+title: supports_backend
+classes: wide
 ---
 # supports_backend
 

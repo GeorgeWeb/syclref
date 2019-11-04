@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::event_error
+classes: wide
 ---
 # cl::sycl::event_error
 

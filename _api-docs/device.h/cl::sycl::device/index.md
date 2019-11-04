@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::device
+classes: wide
 ---
 # cl::sycl::device
 

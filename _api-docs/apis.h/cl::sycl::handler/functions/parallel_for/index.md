@@ -1,4 +1,6 @@
 ---
+title: parallel_for
+classes: wide
 ---
 # parallel_for
 

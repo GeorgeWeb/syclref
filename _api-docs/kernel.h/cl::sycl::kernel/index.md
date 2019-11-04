@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::kernel
+classes: wide
 ---
 # cl::sycl::kernel
 

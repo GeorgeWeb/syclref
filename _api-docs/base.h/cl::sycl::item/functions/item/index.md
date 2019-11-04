@@ -1,4 +1,6 @@
 ---
+title: item
+classes: wide
 ---
 # item
 

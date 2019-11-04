@@ -1,4 +1,6 @@
 ---
+title: load
+classes: wide
 ---
 # load
 

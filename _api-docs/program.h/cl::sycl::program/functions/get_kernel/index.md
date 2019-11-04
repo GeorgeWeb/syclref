@@ -1,4 +1,6 @@
 ---
+title: get_kernel
+classes: wide
 ---
 # get_kernel
 

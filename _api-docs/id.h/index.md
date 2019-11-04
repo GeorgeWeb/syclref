@@ -1,4 +1,6 @@
 ---
+title: id.h
+classes: wide
 ---
 ## Classes
 

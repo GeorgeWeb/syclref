@@ -1,4 +1,6 @@
 ---
+title: nd_range
+classes: wide
 ---
 # nd_range
 

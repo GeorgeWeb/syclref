@@ -1,4 +1,6 @@
 ---
+title: parallel_for_work_item
+classes: wide
 ---
 # parallel_for_work_item
 

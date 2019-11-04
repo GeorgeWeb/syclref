@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::atomic
+classes: wide
 ---
 # cl::sycl::atomic
 

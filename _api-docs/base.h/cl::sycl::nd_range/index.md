@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::nd_range
+classes: wide
 ---
 # cl::sycl::nd_range
 

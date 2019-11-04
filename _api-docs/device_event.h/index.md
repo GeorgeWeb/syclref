@@ -1,4 +1,6 @@
 ---
+title: device_event.h
+classes: wide
 ---
 ## Classes
 

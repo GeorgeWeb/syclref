@@ -1,4 +1,6 @@
 ---
+title: event.h
+classes: wide
 ---
 ## Classes
 

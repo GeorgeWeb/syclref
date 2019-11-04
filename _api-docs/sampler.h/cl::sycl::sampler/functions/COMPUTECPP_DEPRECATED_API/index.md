@@ -1,4 +1,6 @@
 ---
+title: COMPUTECPP_DEPRECATED_API
+classes: wide
 ---
 # COMPUTECPP_DEPRECATED_API
 

@@ -1,4 +1,6 @@
 ---
+title: operator index_array
+classes: wide
 ---
 # operator index_array
 

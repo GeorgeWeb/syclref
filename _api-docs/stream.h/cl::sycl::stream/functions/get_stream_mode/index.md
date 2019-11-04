@@ -1,4 +1,6 @@
 ---
+title: get_stream_mode
+classes: wide
 ---
 # get_stream_mode
 

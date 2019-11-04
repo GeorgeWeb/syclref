@@ -1,4 +1,6 @@
 ---
+title: exchange
+classes: wide
 ---
 # exchange
 

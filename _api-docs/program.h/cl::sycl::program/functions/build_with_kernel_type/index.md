@@ -1,4 +1,6 @@
 ---
+title: build_with_kernel_type
+classes: wide
 ---
 # build_with_kernel_type
 

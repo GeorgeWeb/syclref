@@ -1,4 +1,6 @@
 ---
+title: ~buffer
+classes: wide
 ---
 # ~buffer
 

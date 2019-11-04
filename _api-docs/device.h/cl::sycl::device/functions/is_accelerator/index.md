@@ -1,4 +1,6 @@
 ---
+title: is_accelerator
+classes: wide
 ---
 # is_accelerator
 

@@ -1,4 +1,6 @@
 ---
+title: atomic.h
+classes: wide
 ---
 ## Classes
 

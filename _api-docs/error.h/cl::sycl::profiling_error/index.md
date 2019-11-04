@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::profiling_error
+classes: wide
 ---
 # cl::sycl::profiling_error
 

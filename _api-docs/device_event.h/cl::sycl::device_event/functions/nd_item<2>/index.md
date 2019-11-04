@@ -1,4 +1,6 @@
 ---
+title: nd_item< 2 >
+classes: wide
 ---
 # nd_item< 2 >
 

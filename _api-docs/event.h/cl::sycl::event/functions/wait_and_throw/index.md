@@ -1,4 +1,6 @@
 ---
+title: wait_and_throw
+classes: wide
 ---
 # wait_and_throw
 

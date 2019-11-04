@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::private_memory
+classes: wide
 ---
 # cl::sycl::private_memory
 

@@ -1,4 +1,6 @@
 ---
+title: queue
+classes: wide
 ---
 # queue
 

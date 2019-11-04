@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::stream_vec< 4, true, elementT, kDimensions >
+classes: wide
 ---
 # cl::sycl::stream_vec< 4, true, elementT, kDimensions >
 

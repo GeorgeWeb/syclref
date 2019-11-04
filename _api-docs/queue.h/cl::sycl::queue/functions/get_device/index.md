@@ -1,4 +1,6 @@
 ---
+title: get_device
+classes: wide
 ---
 # get_device
 

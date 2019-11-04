@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::runtime_error
+classes: wide
 ---
 # cl::sycl::runtime_error
 

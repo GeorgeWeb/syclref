@@ -1,4 +1,6 @@
 ---
+title: is_linked
+classes: wide
 ---
 # is_linked
 

@@ -1,4 +1,6 @@
 ---
+title: get_coordinate_normalization_mode
+classes: wide
 ---
 # get_coordinate_normalization_mode
 

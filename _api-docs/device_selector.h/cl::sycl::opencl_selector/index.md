@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::opencl_selector
+classes: wide
 ---
 # cl::sycl::opencl_selector
 

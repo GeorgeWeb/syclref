@@ -1,4 +1,6 @@
 ---
+title: get_platforms
+classes: wide
 ---
 # get_platforms
 

@@ -1,4 +1,6 @@
 ---
+title: queue.h
+classes: wide
 ---
 ## Classes
 

@@ -1,4 +1,6 @@
 ---
+title: get_link_options
+classes: wide
 ---
 # get_link_options
 

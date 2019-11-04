@@ -1,4 +1,6 @@
 ---
+title: codeplay::handler
+classes: wide
 ---
 # codeplay::handler
 

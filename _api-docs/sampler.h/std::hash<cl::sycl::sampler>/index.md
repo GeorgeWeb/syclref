@@ -1,4 +1,6 @@
 ---
+title: std::hash< cl::sycl::sampler >
+classes: wide
 ---
 # std::hash< cl::sycl::sampler >
 

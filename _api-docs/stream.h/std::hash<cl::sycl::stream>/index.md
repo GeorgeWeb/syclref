@@ -1,4 +1,6 @@
 ---
+title: std::hash< cl::sycl::stream >
+classes: wide
 ---
 # std::hash< cl::sycl::stream >
 

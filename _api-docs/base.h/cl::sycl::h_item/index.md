@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::h_item
+classes: wide
 ---
 # cl::sycl::h_item
 

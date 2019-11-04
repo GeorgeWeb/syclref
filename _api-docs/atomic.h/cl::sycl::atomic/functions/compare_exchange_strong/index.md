@@ -1,4 +1,6 @@
 ---
+title: compare_exchange_strong
+classes: wide
 ---
 # compare_exchange_strong
 

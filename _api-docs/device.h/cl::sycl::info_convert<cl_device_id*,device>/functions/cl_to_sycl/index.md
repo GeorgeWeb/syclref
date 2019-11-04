@@ -1,4 +1,6 @@
 ---
+title: cl_to_sycl
+classes: wide
 ---
 # cl_to_sycl
 

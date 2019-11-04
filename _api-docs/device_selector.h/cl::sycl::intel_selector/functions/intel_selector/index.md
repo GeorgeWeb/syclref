@@ -1,4 +1,6 @@
 ---
+title: intel_selector
+classes: wide
 ---
 # intel_selector
 

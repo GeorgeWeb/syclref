@@ -1,4 +1,6 @@
 ---
+title: image
+classes: wide
 ---
 # image
 

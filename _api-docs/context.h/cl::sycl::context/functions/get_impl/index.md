@@ -1,4 +1,6 @@
 ---
+title: get_impl
+classes: wide
 ---
 # get_impl
 

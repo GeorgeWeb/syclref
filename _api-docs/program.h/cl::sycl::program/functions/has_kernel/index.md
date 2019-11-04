@@ -1,4 +1,6 @@
 ---
+title: has_kernel
+classes: wide
 ---
 # has_kernel
 

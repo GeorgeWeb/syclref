@@ -1,4 +1,6 @@
 ---
+title: fetch_or
+classes: wide
 ---
 # fetch_or
 

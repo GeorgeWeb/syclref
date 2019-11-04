@@ -1,4 +1,6 @@
 ---
+title: get_id
+classes: wide
 ---
 # get_id
 

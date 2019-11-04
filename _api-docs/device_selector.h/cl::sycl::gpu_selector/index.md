@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::gpu_selector
+classes: wide
 ---
 # cl::sycl::gpu_selector
 

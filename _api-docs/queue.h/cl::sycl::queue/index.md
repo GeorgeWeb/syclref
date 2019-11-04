@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::queue
+classes: wide
 ---
 # cl::sycl::queue
 

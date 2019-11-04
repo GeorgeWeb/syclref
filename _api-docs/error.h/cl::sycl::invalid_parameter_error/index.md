@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::invalid_parameter_error
+classes: wide
 ---
 # cl::sycl::invalid_parameter_error
 

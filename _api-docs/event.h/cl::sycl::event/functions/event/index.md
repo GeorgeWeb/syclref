@@ -1,4 +1,6 @@
 ---
+title: event
+classes: wide
 ---
 # event
 

@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::event
+classes: wide
 ---
 # cl::sycl::event
 

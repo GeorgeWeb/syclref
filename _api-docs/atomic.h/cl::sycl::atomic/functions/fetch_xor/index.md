@@ -1,4 +1,6 @@
 ---
+title: fetch_xor
+classes: wide
 ---
 # fetch_xor
 

@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::context
+classes: wide
 ---
 # cl::sycl::context
 

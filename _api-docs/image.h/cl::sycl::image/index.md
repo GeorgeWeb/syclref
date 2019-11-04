@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::image
+classes: wide
 ---
 # cl::sycl::image
 

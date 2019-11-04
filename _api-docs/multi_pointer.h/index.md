@@ -1,4 +1,6 @@
 ---
+title: multi_pointer.h
+classes: wide
 ---
 ## Classes
 

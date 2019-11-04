@@ -1,4 +1,6 @@
 ---
+title: event
+classes: wide
 ---
 # cl::sycl::info::event
 ## Values

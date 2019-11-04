@@ -1,4 +1,6 @@
 ---
+title: throw_asynchronous
+classes: wide
 ---
 # throw_asynchronous
 

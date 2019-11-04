@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::stream
+classes: wide
 ---
 # cl::sycl::stream
 

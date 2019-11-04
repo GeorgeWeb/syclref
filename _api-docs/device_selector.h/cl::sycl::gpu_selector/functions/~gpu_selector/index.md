@@ -1,4 +1,6 @@
 ---
+title: ~gpu_selector
+classes: wide
 ---
 # ~gpu_selector
 

@@ -1,4 +1,6 @@
 ---
+title: platform
+classes: wide
 ---
 # platform
 

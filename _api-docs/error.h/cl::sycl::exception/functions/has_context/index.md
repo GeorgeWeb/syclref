@@ -1,4 +1,6 @@
 ---
+title: has_context
+classes: wide
 ---
 # has_context
 

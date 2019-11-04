@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::nd_range_error
+classes: wide
 ---
 # cl::sycl::nd_range_error
 

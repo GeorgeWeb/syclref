@@ -1,4 +1,6 @@
 ---
+title: compile_with_kernel_type
+classes: wide
 ---
 # compile_with_kernel_type
 

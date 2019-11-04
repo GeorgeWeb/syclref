@@ -1,4 +1,6 @@
 ---
+title: stream.h
+classes: wide
 ---
 ## Classes
 

@@ -1,4 +1,6 @@
 ---
+title: ~default_selector
+classes: wide
 ---
 # ~default_selector
 

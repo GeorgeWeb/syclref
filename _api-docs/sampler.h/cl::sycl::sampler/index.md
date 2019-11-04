@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::sampler
+classes: wide
 ---
 # cl::sycl::sampler
 

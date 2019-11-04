@@ -1,4 +1,6 @@
 ---
+title: get_buffer
+classes: wide
 ---
 # get_buffer
 

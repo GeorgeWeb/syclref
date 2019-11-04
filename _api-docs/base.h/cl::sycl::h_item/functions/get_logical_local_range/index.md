@@ -1,4 +1,6 @@
 ---
+title: get_logical_local_range
+classes: wide
 ---
 # get_logical_local_range
 

@@ -1,4 +1,6 @@
 ---
+title: std::hash< cl::sycl::context >
+classes: wide
 ---
 # std::hash< cl::sycl::context >
 

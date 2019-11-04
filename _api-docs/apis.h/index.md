@@ -1,4 +1,6 @@
 ---
+title: apis.h
+classes: wide
 ---
 ## Classes
 

@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::device_event
+classes: wide
 ---
 # cl::sycl::device_event
 

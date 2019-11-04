@@ -1,4 +1,6 @@
 ---
+title: partition_property
+classes: wide
 ---
 # cl::sycl::info::partition_property
 ## Values

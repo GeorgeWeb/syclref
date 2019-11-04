@@ -1,4 +1,6 @@
 ---
+title: ~stream
+classes: wide
 ---
 # ~stream
 

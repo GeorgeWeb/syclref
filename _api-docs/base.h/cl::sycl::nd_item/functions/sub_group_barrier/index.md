@@ -1,4 +1,6 @@
 ---
+title: sub_group_barrier
+classes: wide
 ---
 # sub_group_barrier
 

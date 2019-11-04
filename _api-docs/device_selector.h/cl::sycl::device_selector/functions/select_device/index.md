@@ -1,4 +1,6 @@
 ---
+title: select_device
+classes: wide
 ---
 # select_device
 

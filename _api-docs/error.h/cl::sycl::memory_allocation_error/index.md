@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::memory_allocation_error
+classes: wide
 ---
 # cl::sycl::memory_allocation_error
 

@@ -1,4 +1,6 @@
 ---
+title: set_stream_mode
+classes: wide
 ---
 # set_stream_mode
 

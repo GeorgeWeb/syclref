@@ -1,4 +1,6 @@
 ---
+title: submit
+classes: wide
 ---
 # submit
 

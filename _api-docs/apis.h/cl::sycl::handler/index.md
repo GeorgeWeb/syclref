@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::handler
+classes: wide
 ---
 # cl::sycl::handler
 

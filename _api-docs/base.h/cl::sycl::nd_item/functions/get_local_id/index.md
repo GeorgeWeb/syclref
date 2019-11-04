@@ -1,4 +1,6 @@
 ---
+title: get_local_id
+classes: wide
 ---
 # get_local_id
 

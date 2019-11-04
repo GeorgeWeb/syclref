@@ -1,4 +1,6 @@
 ---
+title: ~handler
+classes: wide
 ---
 # ~handler
 

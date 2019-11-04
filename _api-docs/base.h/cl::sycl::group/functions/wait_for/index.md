@@ -1,4 +1,6 @@
 ---
+title: wait_for
+classes: wide
 ---
 # wait_for
 

@@ -1,4 +1,6 @@
 ---
+title: update_host
+classes: wide
 ---
 # update_host
 

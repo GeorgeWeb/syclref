@@ -1,4 +1,6 @@
 ---
+title: device_selector
+classes: wide
 ---
 # device_selector
 

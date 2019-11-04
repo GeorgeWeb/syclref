@@ -1,4 +1,6 @@
 ---
+title: device.h
+classes: wide
 ---
 ## Classes
 

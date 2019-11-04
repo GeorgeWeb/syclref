@@ -1,4 +1,6 @@
 ---
+title: copy
+classes: wide
 ---
 # copy
 

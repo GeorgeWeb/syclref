@@ -1,4 +1,6 @@
 ---
+title: amd_selector
+classes: wide
 ---
 # amd_selector
 

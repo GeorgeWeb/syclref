@@ -1,4 +1,6 @@
 ---
+title: get_work_group_info
+classes: wide
 ---
 # get_work_group_info
 

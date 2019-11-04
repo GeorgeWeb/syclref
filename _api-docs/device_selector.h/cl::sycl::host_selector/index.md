@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::host_selector
+classes: wide
 ---
 # cl::sycl::host_selector
 

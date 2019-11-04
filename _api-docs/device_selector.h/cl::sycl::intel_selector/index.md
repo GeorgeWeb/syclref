@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::intel_selector
+classes: wide
 ---
 # cl::sycl::intel_selector
 

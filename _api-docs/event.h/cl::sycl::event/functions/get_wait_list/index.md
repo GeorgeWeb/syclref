@@ -1,4 +1,6 @@
 ---
+title: get_wait_list
+classes: wide
 ---
 # get_wait_list
 

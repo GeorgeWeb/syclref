@@ -1,4 +1,6 @@
 ---
+title: get_binaries
+classes: wide
 ---
 # get_binaries
 

@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::buffer
+classes: wide
 ---
 # cl::sycl::buffer
 

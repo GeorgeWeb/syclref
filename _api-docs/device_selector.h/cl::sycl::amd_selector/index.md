@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::amd_selector
+classes: wide
 ---
 # cl::sycl::amd_selector
 

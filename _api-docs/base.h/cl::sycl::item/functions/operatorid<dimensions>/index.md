@@ -1,4 +1,6 @@
 ---
+title: operator id< dimensions >
+classes: wide
 ---
 # operator id< dimensions >
 

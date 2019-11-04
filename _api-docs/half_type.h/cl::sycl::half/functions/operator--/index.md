@@ -1,4 +1,6 @@
 ---
+title: operator--
+classes: wide
 ---
 # operator--
 

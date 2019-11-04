@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::info_convert< size_t *, range< 3 > >
+classes: wide
 ---
 # cl::sycl::info_convert< size_t *, range< 3 > >
 

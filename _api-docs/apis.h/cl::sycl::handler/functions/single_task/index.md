@@ -1,4 +1,6 @@
 ---
+title: single_task
+classes: wide
 ---
 # single_task
 

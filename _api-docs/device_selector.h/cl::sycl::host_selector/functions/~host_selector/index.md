@@ -1,4 +1,6 @@
 ---
+title: ~host_selector
+classes: wide
 ---
 # ~host_selector
 

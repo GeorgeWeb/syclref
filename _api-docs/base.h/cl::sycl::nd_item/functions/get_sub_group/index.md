@@ -1,4 +1,6 @@
 ---
+title: get_sub_group
+classes: wide
 ---
 # get_sub_group
 

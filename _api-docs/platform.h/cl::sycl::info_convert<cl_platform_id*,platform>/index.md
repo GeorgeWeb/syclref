@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::info_convert< cl_platform_id *, platform >
+classes: wide
 ---
 # cl::sycl::info_convert< cl_platform_id *, platform >
 

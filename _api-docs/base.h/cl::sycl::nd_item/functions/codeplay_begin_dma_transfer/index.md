@@ -1,4 +1,6 @@
 ---
+title: codeplay_begin_dma_transfer
+classes: wide
 ---
 # codeplay_begin_dma_transfer
 

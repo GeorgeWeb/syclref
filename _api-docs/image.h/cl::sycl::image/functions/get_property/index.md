@@ -1,4 +1,6 @@
 ---
+title: get_property
+classes: wide
 ---
 # get_property
 

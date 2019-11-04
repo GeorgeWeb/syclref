@@ -1,4 +1,6 @@
 ---
+title: what
+classes: wide
 ---
 # what
 

@@ -1,4 +1,6 @@
 ---
+title: range
+classes: wide
 ---
 # range
 

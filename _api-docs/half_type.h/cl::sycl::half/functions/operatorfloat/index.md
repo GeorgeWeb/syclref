@@ -1,4 +1,6 @@
 ---
+title: operator float
+classes: wide
 ---
 # operator float
 

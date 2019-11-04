@@ -1,4 +1,6 @@
 ---
+title: has_type_flag
+classes: wide
 ---
 # has_type_flag
 

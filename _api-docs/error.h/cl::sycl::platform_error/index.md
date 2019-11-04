@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::platform_error
+classes: wide
 ---
 # cl::sycl::platform_error
 

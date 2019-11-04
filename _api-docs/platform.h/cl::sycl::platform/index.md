@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::platform
+classes: wide
 ---
 # cl::sycl::platform
 

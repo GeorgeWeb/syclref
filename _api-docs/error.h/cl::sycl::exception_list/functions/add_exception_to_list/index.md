@@ -1,4 +1,6 @@
 ---
+title: add_exception_to_list
+classes: wide
 ---
 # add_exception_to_list
 

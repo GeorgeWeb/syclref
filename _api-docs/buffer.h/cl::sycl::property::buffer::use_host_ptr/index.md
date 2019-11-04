@@ -1,4 +1,6 @@
 ---
+title: cl::sycl::property::buffer::use_host_ptr
+classes: wide
 ---
 # cl::sycl::property::buffer::use_host_ptr
 

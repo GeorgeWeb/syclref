@@ -1,4 +1,6 @@
 ---
+title: fetch_max
+classes: wide
 ---
 # fetch_max
 
