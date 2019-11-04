@@ -17,14 +17,17 @@ class cl::sycl::private_memory
 
 ## Member Functions
 
+   |   |
+| :--- | :--- |
 | [COMPUTECPP_DEPRECATED_API]({{site.baseurl}}{% link _api-docs/private_memory.h/cl::sycl::private_memory/functions/COMPUTECPP_DEPRECATED_API/index.md %}) | Return the allocated private memory for the work item.  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator()]({{site.baseurl}}{% link _api-docs/private_memory.h/cl::sycl::private_memory/functions/operator()/index.md %}) | Return the allocated private memory for the work item.  |
-| :--- | :--- |
 
-| [private_memory]({{site.baseurl}}{% link _api-docs/private_memory.h/cl::sycl::private_memory/functions/private_memory/index.md %}) | Allocate private memory based on the group range.  |
+   |   |
 | :--- | :--- |
+| [private_memory]({{site.baseurl}}{% link _api-docs/private_memory.h/cl::sycl::private_memory/functions/private_memory/index.md %}) | Allocate private memory based on the group range.  |
 
 
 ## Friend Functions

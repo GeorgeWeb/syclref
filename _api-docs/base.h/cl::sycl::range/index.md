@@ -20,6 +20,7 @@ class cl::sycl::range
 
 ## Friend Functions
 
-| [nd_range]({{site.baseurl}}{% link _api-docs/base.h/cl::sycl::range/functions/nd_range/index.md %}) | No description. |
+   |   |
 | :--- | :--- |
+| [nd_range]({{site.baseurl}}{% link _api-docs/base.h/cl::sycl::range/functions/nd_range/index.md %}) | No description. |
 

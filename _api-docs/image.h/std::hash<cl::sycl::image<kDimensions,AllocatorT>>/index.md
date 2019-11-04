@@ -17,8 +17,9 @@ struct std::hash< cl::sycl::image< kDimensions, AllocatorT > >
 
 ## Member Functions
 
-| [operator()]({{site.baseurl}}{% link _api-docs/image.h/std::hash<cl::sycl::image<kDimensions,AllocatorT>>/functions/operator()/index.md %}) | enables calling an std::hash object as a function with the object to be hashed as a parameter  |
+   |   |
 | :--- | :--- |
+| [operator()]({{site.baseurl}}{% link _api-docs/image.h/std::hash<cl::sycl::image<kDimensions,AllocatorT>>/functions/operator()/index.md %}) | enables calling an std::hash object as a function with the object to be hashed as a parameter  |
 
 
 ## Friend Functions

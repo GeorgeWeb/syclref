@@ -16,14 +16,17 @@ class cl::sycl::opencl_selector
 
 ## Member Functions
 
+   |   |
+| :--- | :--- |
 | [opencl_selector]({{site.baseurl}}{% link _api-docs/device_selector.h/cl::sycl::opencl_selector/functions/opencl_selector/index.md %}) | Default constructor.  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator()]({{site.baseurl}}{% link _api-docs/device_selector.h/cl::sycl::opencl_selector/functions/operator()/index.md %}) | Overload that scores both CPUs and GPUs positive if they have SPIR support, GPUs are scored higher.  |
-| :--- | :--- |
 
-| [~opencl_selector]({{site.baseurl}}{% link _api-docs/device_selector.h/cl::sycl::opencl_selector/functions/~opencl_selector/index.md %}) | Empty destructor.  |
+   |   |
 | :--- | :--- |
+| [~opencl_selector]({{site.baseurl}}{% link _api-docs/device_selector.h/cl::sycl::opencl_selector/functions/~opencl_selector/index.md %}) | Empty destructor.  |
 
 
 ## Friend Functions

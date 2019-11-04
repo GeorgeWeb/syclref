@@ -16,14 +16,17 @@ class cl::sycl::amd_selector
 
 ## Member Functions
 
+   |   |
+| :--- | :--- |
 | [amd_selector]({{site.baseurl}}{% link _api-docs/device_selector.h/cl::sycl::amd_selector/functions/amd_selector/index.md %}) | Default constructor.  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator()]({{site.baseurl}}{% link _api-docs/device_selector.h/cl::sycl::amd_selector/functions/operator()/index.md %}) | Overload that scores devices with an AMD platform positive if they have SPIR support.  |
-| :--- | :--- |
 
-| [~amd_selector]({{site.baseurl}}{% link _api-docs/device_selector.h/cl::sycl::amd_selector/functions/~amd_selector/index.md %}) | Empty destructor.  |
+   |   |
 | :--- | :--- |
+| [~amd_selector]({{site.baseurl}}{% link _api-docs/device_selector.h/cl::sycl::amd_selector/functions/~amd_selector/index.md %}) | Empty destructor.  |
 
 
 ## Friend Functions

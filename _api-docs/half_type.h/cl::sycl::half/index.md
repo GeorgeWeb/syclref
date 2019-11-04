@@ -16,53 +16,69 @@ class cl::sycl::half
 
 ## Member Functions
 
+   |   |
+| :--- | :--- |
 | [half]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/half/index.md %}) | This member has (2) overloads |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator &&]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operator&&/index.md %}) | operator&&(half)  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator float]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operatorfloat/index.md %}) | Implicit cast to float Converts the 16 bit half back to a 32 bit float for perfoming the actual computation.  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator!=]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operator!=/index.md %}) | operator!=(half)  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator*=]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operator*=/index.md %}) | operator*=(half)  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator++]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operator++/index.md %}) | This member has (2) overloads |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator+=]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operator+=/index.md %}) | operator+=(half)  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator--]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operator--/index.md %}) | This member has (2) overloads |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator-=]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operator-=/index.md %}) | operator-=(half)  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator/=]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operatord=/index.md %}) | operator/=(half)  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator<]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operator</index.md %}) | operator<(half)  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator<=]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operator<=/index.md %}) | operator<=(half)  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator==]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operator==/index.md %}) | operator==(half)  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator>]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operator>/index.md %}) | operator>(half)  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator>=]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operator>=/index.md %}) | operator>=(half)  |
-| :--- | :--- |
 
-| [operator||]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operator||/index.md %}) | operator||(half)  |
+   |   |
 | :--- | :--- |
+| [operator||]({{site.baseurl}}{% link _api-docs/half_type.h/cl::sycl::half/functions/operator||/index.md %}) | operator||(half)  |
 
 
 ## Friend Functions

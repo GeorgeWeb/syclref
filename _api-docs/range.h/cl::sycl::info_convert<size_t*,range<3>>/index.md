@@ -16,8 +16,9 @@ struct cl::sycl::info_convert< size_t *, range< 3 > >
 
 ## Member Functions
 
-| [cl_to_sycl]({{site.baseurl}}{% link _api-docs/range.h/cl::sycl::info_convert<size_t*,range<3>>/functions/cl_to_sycl/index.md %}) | No description. |
+   |   |
 | :--- | :--- |
+| [cl_to_sycl]({{site.baseurl}}{% link _api-docs/range.h/cl::sycl::info_convert<size_t*,range<3>>/functions/cl_to_sycl/index.md %}) | No description. |
 
 
 ## Friend Functions

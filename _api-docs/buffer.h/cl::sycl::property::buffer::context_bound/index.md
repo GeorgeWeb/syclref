@@ -16,11 +16,13 @@ class cl::sycl::property::buffer::context_bound
 
 ## Member Functions
 
+   |   |
+| :--- | :--- |
 | [context_bound]({{site.baseurl}}{% link _api-docs/buffer.h/cl::sycl::property::buffer::context_bound/functions/context_bound/index.md %}) | Constructs a SYCL  property instance with a copy of a SYCL context. context_bound |
-| :--- | :--- |
 
-| [get_context]({{site.baseurl}}{% link _api-docs/buffer.h/cl::sycl::property::buffer::context_bound/functions/get_context/index.md %}) | Retrieves the context provided on construction.  |
+   |   |
 | :--- | :--- |
+| [get_context]({{site.baseurl}}{% link _api-docs/buffer.h/cl::sycl::property::buffer::context_bound/functions/get_context/index.md %}) | Retrieves the context provided on construction.  |
 
 
 ## Friend Functions

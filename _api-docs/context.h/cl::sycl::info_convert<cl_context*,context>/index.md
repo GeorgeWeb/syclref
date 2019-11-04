@@ -16,8 +16,9 @@ struct cl::sycl::info_convert< cl_context *, context >
 
 ## Member Functions
 
-| [cl_to_sycl]({{site.baseurl}}{% link _api-docs/context.h/cl::sycl::info_convert<cl_context*,context>/functions/cl_to_sycl/index.md %}) | No description. |
+   |   |
 | :--- | :--- |
+| [cl_to_sycl]({{site.baseurl}}{% link _api-docs/context.h/cl::sycl::info_convert<cl_context*,context>/functions/cl_to_sycl/index.md %}) | No description. |
 
 
 ## Friend Functions

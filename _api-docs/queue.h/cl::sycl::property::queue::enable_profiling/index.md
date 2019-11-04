@@ -16,8 +16,9 @@ class cl::sycl::property::queue::enable_profiling
 
 ## Member Functions
 
-| [enable_profiling]({{site.baseurl}}{% link _api-docs/queue.h/cl::sycl::property::queue::enable_profiling/functions/enable_profiling/index.md %}) | No description. |
+   |   |
 | :--- | :--- |
+| [enable_profiling]({{site.baseurl}}{% link _api-docs/queue.h/cl::sycl::property::queue::enable_profiling/functions/enable_profiling/index.md %}) | No description. |
 
 
 ## Friend Functions

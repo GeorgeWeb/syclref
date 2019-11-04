@@ -16,8 +16,9 @@ struct cl::sycl::info_convert< cl_device_id *, device >
 
 ## Member Functions
 
-| [cl_to_sycl]({{site.baseurl}}{% link _api-docs/device.h/cl::sycl::info_convert<cl_device_id*,device>/functions/cl_to_sycl/index.md %}) | Convert the pointer to the OpenCL type to the corresponding SYCL type.  |
+   |   |
 | :--- | :--- |
+| [cl_to_sycl]({{site.baseurl}}{% link _api-docs/device.h/cl::sycl::info_convert<cl_device_id*,device>/functions/cl_to_sycl/index.md %}) | Convert the pointer to the OpenCL type to the corresponding SYCL type.  |
 
 
 ## Friend Functions

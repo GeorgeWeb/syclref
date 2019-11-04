@@ -16,8 +16,9 @@ class cl::sycl::id< 1 >
 
 ## Member Functions
 
-| [id]({{site.baseurl}}{% link _api-docs/id.h/cl::sycl::id<1>/functions/id/index.md %}) | This member has (4) overloads |
+   |   |
 | :--- | :--- |
+| [id]({{site.baseurl}}{% link _api-docs/id.h/cl::sycl::id<1>/functions/id/index.md %}) | This member has (4) overloads |
 
 
 ## Friend Functions

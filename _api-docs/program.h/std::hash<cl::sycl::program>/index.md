@@ -16,8 +16,9 @@ struct std::hash< cl::sycl::program >
 
 ## Member Functions
 
-| [operator()]({{site.baseurl}}{% link _api-docs/program.h/std::hash<cl::sycl::program>/functions/operator()/index.md %}) | enables calling an std::hash object as a function with the object to be hashed as a parameter  |
+   |   |
 | :--- | :--- |
+| [operator()]({{site.baseurl}}{% link _api-docs/program.h/std::hash<cl::sycl::program>/functions/operator()/index.md %}) | enables calling an std::hash object as a function with the object to be hashed as a parameter  |
 
 
 ## Friend Functions

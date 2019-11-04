@@ -13,11 +13,13 @@ struct cl::sycl::device_type
 
 ## Types
 
+   |   |   |
+| :--- | :--- | :--- |
 | underlying_t | elemT | Underlying type of the device pointer.  |
-| :--- | :--- | :--- |
 
-| ptr_t |  | Pointer type used on device.  |
+   |   |   |
 | :--- | :--- | :--- |
+| ptr_t |  | Pointer type used on device.  |
 
 ## Enumerations
 

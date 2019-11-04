@@ -16,14 +16,17 @@ class cl::sycl::host_selector
 
 ## Member Functions
 
+   |   |
+| :--- | :--- |
 | [host_selector]({{site.baseurl}}{% link _api-docs/device_selector.h/cl::sycl::host_selector/functions/host_selector/index.md %}) | Default constructor.  |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [operator()]({{site.baseurl}}{% link _api-docs/device_selector.h/cl::sycl::host_selector/functions/operator()/index.md %}) | Overload that scores host mode devices positively.  |
-| :--- | :--- |
 
-| [~host_selector]({{site.baseurl}}{% link _api-docs/device_selector.h/cl::sycl::host_selector/functions/~host_selector/index.md %}) | Empty destructor.  |
+   |   |
 | :--- | :--- |
+| [~host_selector]({{site.baseurl}}{% link _api-docs/device_selector.h/cl::sycl::host_selector/functions/~host_selector/index.md %}) | Empty destructor.  |
 
 
 ## Friend Functions

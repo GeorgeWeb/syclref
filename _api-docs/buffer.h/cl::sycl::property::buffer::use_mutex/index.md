@@ -16,11 +16,13 @@ class cl::sycl::property::buffer::use_mutex
 
 ## Member Functions
 
+   |   |
+| :--- | :--- |
 | [get_mutex_ptr]({{site.baseurl}}{% link _api-docs/buffer.h/cl::sycl::property::buffer::use_mutex/functions/get_mutex_ptr/index.md %}) | Retrieve the mutex provided on construction.  |
-| :--- | :--- |
 
-| [use_mutex]({{site.baseurl}}{% link _api-docs/buffer.h/cl::sycl::property::buffer::use_mutex/functions/use_mutex/index.md %}) | Constructs a SYCL  property instance with a reference to mutexRef parameter provided. use_mutex |
+   |   |
 | :--- | :--- |
+| [use_mutex]({{site.baseurl}}{% link _api-docs/buffer.h/cl::sycl::property::buffer::use_mutex/functions/use_mutex/index.md %}) | Constructs a SYCL  property instance with a reference to mutexRef parameter provided. use_mutex |
 
 
 ## Friend Functions

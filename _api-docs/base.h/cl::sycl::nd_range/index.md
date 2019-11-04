@@ -17,30 +17,38 @@ class cl::sycl::nd_range
 
 ## Member Functions
 
+   |   |
+| :--- | :--- |
 | [COMPUTECPP_DEPRECATED_API]({{site.baseurl}}{% link _api-docs/base.h/cl::sycl::nd_range/functions/COMPUTECPP_DEPRECATED_API/index.md %}) | This member has (3) overloads |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [get_global_range]({{site.baseurl}}{% link _api-docs/base.h/cl::sycl::nd_range/functions/get_global_range/index.md %}) | Return the global . range |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [get_group_range]({{site.baseurl}}{% link _api-docs/base.h/cl::sycl::nd_range/functions/get_group_range/index.md %}) | Compute the group . range |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [get_local_range]({{site.baseurl}}{% link _api-docs/base.h/cl::sycl::nd_range/functions/get_local_range/index.md %}) | Return the local . range |
-| :--- | :--- |
 
+   |   |
+| :--- | :--- |
 | [get_offset]({{site.baseurl}}{% link _api-docs/base.h/cl::sycl::nd_range/functions/get_offset/index.md %}) | Return the queue offset.  |
-| :--- | :--- |
 
-| [nd_range]({{site.baseurl}}{% link _api-docs/base.h/cl::sycl::nd_range/functions/nd_range/index.md %}) | This member has (2) overloads |
+   |   |
 | :--- | :--- |
+| [nd_range]({{site.baseurl}}{% link _api-docs/base.h/cl::sycl::nd_range/functions/nd_range/index.md %}) | This member has (2) overloads |
 
 
 ## Friend Functions
 
+   |   |
+| :--- | :--- |
 | [operator!=]({{site.baseurl}}{% link _api-docs/base.h/cl::sycl::nd_range/functions/operator!=/index.md %}) | Non-equality operator.  |
-| :--- | :--- |
 
-| [operator==]({{site.baseurl}}{% link _api-docs/base.h/cl::sycl::nd_range/functions/operator==/index.md %}) | Equality operator.  |
+   |   |
 | :--- | :--- |
+| [operator==]({{site.baseurl}}{% link _api-docs/base.h/cl::sycl::nd_range/functions/operator==/index.md %}) | Equality operator.  |
 

@@ -16,8 +16,9 @@ class cl::sycl::property_list
 
 ## Member Functions
 
-| [property_list]({{site.baseurl}}{% link _api-docs/property.h/cl::sycl::property_list/functions/property_list/index.md %}) | This member has (2) overloads |
+   |   |
 | :--- | :--- |
+| [property_list]({{site.baseurl}}{% link _api-docs/property.h/cl::sycl::property_list/functions/property_list/index.md %}) | This member has (2) overloads |
 
 
 ## Friend Functions

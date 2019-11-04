@@ -16,8 +16,9 @@ struct cl::sycl::info_convert< cl_platform_id *, platform >
 
 ## Member Functions
 
-| [cl_to_sycl]({{site.baseurl}}{% link _api-docs/platform.h/cl::sycl::info_convert<cl_platform_id*,platform>/functions/cl_to_sycl/index.md %}) | No description. |
+   |   |
 | :--- | :--- |
+| [cl_to_sycl]({{site.baseurl}}{% link _api-docs/platform.h/cl::sycl::info_convert<cl_platform_id*,platform>/functions/cl_to_sycl/index.md %}) | No description. |
 
 
 ## Friend Functions

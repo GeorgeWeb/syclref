@@ -16,8 +16,9 @@ class cl::sycl::property::buffer::use_host_ptr
 
 ## Member Functions
 
-| [use_host_ptr]({{site.baseurl}}{% link _api-docs/buffer.h/cl::sycl::property::buffer::use_host_ptr/functions/use_host_ptr/index.md %}) | No description. |
+   |   |
 | :--- | :--- |
+| [use_host_ptr]({{site.baseurl}}{% link _api-docs/buffer.h/cl::sycl::property::buffer::use_host_ptr/functions/use_host_ptr/index.md %}) | No description. |
 
 
 ## Friend Functions
