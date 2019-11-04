@@ -1,77 +1,83 @@
+- name: apis.h
+  url: /api-docs/apis.h/index
+
+- name: atomic.h
+  url: /api-docs/atomic.h/index
+
 - name: base.h
-  url: /api-docs/context.h/README
+  url: /api-docs/base.h/index
 
 - name: buffer.h
-  url: /api-docs/context.h/README
+  url: /api-docs/buffer.h/index
 
 - name: context.h
-  url: /api-docs/context.h/README
+  url: /api-docs/context.h/index
 
 - name: device.h
-  url: /api-docs/context.h/README
+  url: /api-docs/device.h/index
 
 - name: device_event.h
-  url: /api-docs/context.h/README
+  url: /api-docs/device_event.h/index
 
 - name: device_selector.h
-  url: /api-docs/context.h/README
+  url: /api-docs/device_selector.h/index
 
 - name: error.h
-  url: /api-docs/context.h/README
+  url: /api-docs/error.h/index
 
 - name: event.h
-  url: /api-docs/context.h/README
+  url: /api-docs/event.h/index
 
 - name: half_type.h
-  url: /api-docs/context.h/README
+  url: /api-docs/half_type.h/index
 
 - name: id.h
-  url: /api-docs/context.h/README
+  url: /api-docs/id.h/index
 
 - name: image.h
-  url: /api-docs/context.h/README
+  url: /api-docs/image.h/index
 
 - name: index_array.h
-  url: /api-docs/context.h/README
+  url: /api-docs/index_array.h/index
 
 - name: info.h
-  url: /api-docs/context.h/README
+  url: /api-docs/info.h/index
 
 - name: kernel.h
-  url: /api-docs/context.h/README
+  url: /api-docs/kernel.h/index
 
 - name: multi_pointer.h
-  url: /api-docs/context.h/README
+  url: /api-docs/multi_pointer.h/index
 
 - name: platform.h
-  url: /api-docs/context.h/README
+  url: /api-docs/platform.h/index
 
 - name: private_memory.h
-  url: /api-docs/context.h/README
+  url: /api-docs/private_memory.h/index
 
 - name: program.h
-  url: /api-docs/context.h/README
+  url: /api-docs/program.h/index
 
 - name: property.h
-  url: /api-docs/context.h/README
+  url: /api-docs/property.h/index
 
 - name: queue.h
-  url: /api-docs/context.h/README
+  url: /api-docs/queue.h/index
 
 - name: range.h
-  url: /api-docs/context.h/README
+  url: /api-docs/range.h/index
 
 - name: sampler.h
-  url: /api-docs/context.h/README
+  url: /api-docs/sampler.h/index
 
 - name: stream.h
-  url: /api-docs/context.h/README
+  url: /api-docs/stream.h/index
 
-- name: vector.h
-  url: /api-docs/context.h/README
+- name: vec_common.h
+  url: /api-docs/vec_common.h/index
 
-#- name: types
-#  url: /api-docs/context.h/README
+# - name: types
+#  url: /api-docs/types.h/index
 
-#- name: built-ins
-#  url: /api-docs/context.h/README
+# - name: built-ins
+#  url: /api-docs/built_ins.h/index
