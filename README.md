@@ -2,9 +2,9 @@
 
 SYCL API reference - high-level C++ Interface for programming on heterogeneous devices.
 
-| Technology | Status |
-| ------------- |--------------:|
-| [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com) | [![Build Status](https://travis-ci.com/GeorgeWeb/syclref.svg?branch=master)](https://travis-ci.com/GeorgeWeb/syclref) |
+| Technology | Status | Subscribe |
+|:------------- |:--------------:| --------------:|
+| [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com) | [![Build Status](https://travis-ci.com/GeorgeWeb/syclref.svg?branch=master)](https://travis-ci.com/GeorgeWeb/syclref) | [**RSS feed**](https://georgeweb.github.io/syclref/feed.xml) |
 
 ---
 
@@ -74,7 +74,9 @@ You can check the validity/correctness of the generated HTML from added/modified
 // TODO
 ```
 
-The test script runs the HTMLProofer tool - a set of tests to validate your HTML output. These tests check if your image references are legitimate, if they have alt tags, if your internal links are working, and so on. It's intended to be an all-in-one checker for your output.
+The test script runs the HTMLProofer tool - a set of tests to validate your HTML output.
+
+These tests check if your image references are legitimate, if they have alt tags, if your internal links are working, and so on. It's intended to be an all-in-one checker for your output.
 
 [syclref.com]: https://georgeweb.github.io/syclref
 [Contributing Page]: ./CONTRIBUTING.md
