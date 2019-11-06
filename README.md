@@ -22,6 +22,8 @@ SYCL API reference - high-level C++ Interface for programming on heterogeneous d
 
 *Work-In-Progress*
 
+Visit the [Contributing Page].
+
 ### Building a local version
 
 ##### 1. Getting the project
@@ -75,3 +77,4 @@ You can check the validity/correctness of the generated HTML from added/modified
 The test script runs the HTMLProofer tool - a set of tests to validate your HTML output. These tests check if your image references are legitimate, if they have alt tags, if your internal links are working, and so on. It's intended to be an all-in-one checker for your output.
 
 [syclref.com]: https://georgeweb.github.io/syclref
+[Contributing Page]: ./CONTRIBUTING.md
