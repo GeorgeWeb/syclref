@@ -64,8 +64,8 @@ docs:
 
   - title: half_type.h
     children:
-    - title: cl::sycl::half_type
-      url: /api-docs/half_type.h/cl::sycl::half_type/index/
+    - title: cl::sycl::half
+      url: /api-docs/half_type.h/cl::sycl::half/index/
 
   - title: id.h
     children:
