@@ -14,8 +14,8 @@ title_separator          : "-"
 subtitle                 : "SYCL API Reference"
 name                     : &name "syclref.com" # &name is a YAML anchor which can be *referenced later
 description              : &description "SYCL API Reference."
-# url                      : https://georgeweb.github.io # the base hostname & protocol for your site e.g. "https://organization.github.io"
-# baseurl                  : "/syclref" # the subpath of your site, e.g. "/blog"
+url                      : https://georgeweb.github.io # the base hostname & protocol for your site e.g. "https://organization.github.io"
+baseurl                  : "/syclref" # the subpath of your site, e.g. "/blog"
 repository               : "GeorgeWeb/syclref"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -176,6 +176,7 @@ exclude:
   - CHANGELOG
   - Capfile
   - Rakefile
+  - Gemfile.lock
   - config
   - Gemfile
   - Gruntfile.js
