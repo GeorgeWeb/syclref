@@ -1,3 +1,4 @@
+abort('Please run this using `bundle exec rake`') unless ENV["BUNDLE_BIN_PATH"]
 require 'html-proofer'
 require 'jekyll'
 require 'jemoji'
