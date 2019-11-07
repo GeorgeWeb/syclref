@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+# halt script on error
+set -e
+
+# run tests
+script/build --config _config.yml,test/_config.yml
+# bundle exec rake
+
+# don't halt script on error
+set +e
+
+# run html-proofer testing tool
+script/html-proofer
+HTML_PROOFER_EXIT="$?"

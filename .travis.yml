@@ -1,40 +1,40 @@
 language: ruby
 rvm:
-  - 2.5.3 # ruby-2.5.3 is pre-installed on travis
-
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
-#
-# install: gem install jekyll html-proofer
-# script: jekyll build --incremental ## && htmlproofer ./_site
-#
-# Or use a custom script as follows.
+  - 2.5.3 # ruby-2.5.3 is pre-installed on Travis
 
 # set executable permission
-before_script:
- - chmod +x ./script/cibuild.sh
+#before_script:
+# - chmod +x ./script/build
+# - chmod +x ./script/html-proofer
+# - chmod +x ./script/test
 
 # run the build script
-script: ./script/cibuild.sh
+#script:
+#  - ./script/test
 
-branches:
-  only:
-    - master
+# run the build script
+script:
+ - bundle exec rake test
 
-# uncomment when eventually vaidating the final site using html-proofer
-# env:
-#  global:
-#  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+# Optional: disable email notifications about the outcome of your builds
+notifications:
+  email: false
+
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 
 addons:
   apt:
     packages:
     - libcurl4-openssl-dev
 
-sudo: false # route your build to the container-based infrastructure for a faster build
+# route your build to the container-based infrastructure for a faster build
+sudo: false
 
-cache: bundler # caching bundler gem packages will speed up build
+# caching bundler gem packages will speed up build
+cache: bundler
 
-# Optional: disable email notifications about the outcome of your builds
-notifications:
-  email: false
+branches:
+  only:
+    - master

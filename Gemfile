@@ -14,6 +14,18 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
-  # gem "html-proofer", require: false
   # gem 'coveralls', require: false
+end
+
+group :test do
+  gem "rake"
+  gem "html-proofer"
+  gem "jemoji"
+  gem "jekyll"
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jekyll-include-cache"
+  gem "jekyll-algolia"
 end

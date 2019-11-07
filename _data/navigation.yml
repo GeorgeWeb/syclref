@@ -12,139 +12,139 @@ docs:
       url: /api-docs/apis.h/cl::sycl::handler/index/
 
   - title: atomic.h
-    children:
-    - title: cl::sycl::atomic
-      url: /api-docs/atomic.h/cl::sycl::atomic/index/
+#    children:
+#    - title: cl::sycl::atomic
+#      url: /api-docs/atomic.h/cl::sycl::atomic/index/
 
   - title: base.h
-    children:
-    - title: cl::sycl::group
-      url: /api-docs/base.h/cl::sycl::group/index/
+#    children:
+#    - title: cl::sycl::group
+#      url: /api-docs/base.h/cl::sycl::group/index/
 
   - title: buffer.h
-    children:
-    - title: cl::sycl::buffer
-      url: /api-docs/buffer.h/cl::sycl::buffer/index/
-    - title: cl::sycl::accessor
-      url: /api-docs/buffer.h/cl::sycl::accessor/index/
+#    children:
+#    - title: cl::sycl::buffer
+#      url: /api-docs/buffer.h/cl::sycl::buffer/index/
+#    - title: cl::sycl::accessor
+#      url: /api-docs/buffer.h/cl::sycl::accessor/index/
 
   - title: context.h
-    children:
-    - title: cl::sycl::context
-      url: /api-docs/context.h/cl::sycl::context/index/
-    - title: std::hash<cl::sycl::context>
-      url: /api-docs/context.h/std::hash<cl::sycl::context>/index/
-    - title: cl::sycl::info_convert<cl_context* ,context>
-      url: /api-docs/context.h/cl::sycl::info_convert<cl_context,context>/index/
+#    children:
+#    - title: cl::sycl::context
+#      url: /api-docs/context.h/cl::sycl::context/index/
+#    - title: std::hash<cl::sycl::context>
+#      url: /api-docs/context.h/std::hash<cl::sycl::context>/index/
+#    - title: cl::sycl::info_convert<cl_context* ,context>
+#      url: /api-docs/context.h/cl::sycl::info_convert<cl_context,context>/index/
 
   - title: device.h
-    children:
-    - title: cl::sycl::device
-      url: /api-docs/device.h/cl::sycl::device/index/
+#    children:
+#    - title: cl::sycl::device
+#      url: /api-docs/device.h/cl::sycl::device/index/
 
   - title: device_event.h
-    children:
-    - title: cl::sycl::device_event
-      url: /api-docs/device_event.h/cl::sycl::device_event/index/
+#    children:
+#    - title: cl::sycl::device_event
+#      url: /api-docs/device_event.h/cl::sycl::device_event/index/
 
   - title: device_selector.h
-    children:
-    - title: cl::sycl::device_selector
-      url: /api-docs/device_selector.h/cl::sycl::device_selector/index/
+#    children:
+#    - title: cl::sycl::device_selector
+#      url: /api-docs/device_selector.h/cl::sycl::device_selector/index/
 
   - title: error.h
-    children:
-    - title: cl::sycl::error
-      url: /api-docs/error.h/cl::sycl::error/index/
+#    children:
+#    - title: cl::sycl::error
+#      url: /api-docs/error.h/cl::sycl::error/index/
 
   - title: event.h
-    children:
-    - title: cl::sycl::event
-      url: /api-docs/event.h/cl::sycl::event/index/
+#    children:
+#    - title: cl::sycl::event
+#      url: /api-docs/event.h/cl::sycl::event/index/
 
   - title: half_type.h
-    children:
-    - title: cl::sycl::half
-      url: /api-docs/half_type.h/cl::sycl::half/index/
+#    children:
+#    - title: cl::sycl::half
+#      url: /api-docs/half_type.h/cl::sycl::half/index/
 
   - title: id.h
-    children:
-    - title: cl::sycl::id
-      url: /api-docs/id.h/cl::sycl::id/index/
+#    children:
+#    - title: cl::sycl::id
+#      url: /api-docs/id.h/cl::sycl::id/index/
 
   - title: image.h
-    children:
-    - title: cl::sycl::image
-      url: /api-docs/image.h/cl::sycl::image/index/
+#    children:
+#    - title: cl::sycl::image
+#      url: /api-docs/image.h/cl::sycl::image/index/
 
   - title: index_array.h
-    children:
-    - title: index_array_base
-      url: /api-docs/index_array.h/index_array_base/index/
+#    children:
+#    - title: index_array_base
+#      url: /api-docs/index_array.h/index_array_base/index/
 
   - title: info.h
-    children:
-    - title: cl::sycl::info
-      url: /api-docs/context.h/cl::sycl::context/index/
+#    children:
+#    - title: cl::sycl::info
+#      url: /api-docs/context.h/cl::sycl::context/index/
 
   - title: kernel.h
-    children:
-    - title: cl::sycl::kernel
-      url: /api-docs/kernel.h/cl::sycl::kernel/index/
+#    children:
+#    - title: cl::sycl::kernel
+#      url: /api-docs/kernel.h/cl::sycl::kernel/index/
 
   - title: multi_pointer.h
-    children:
-    - title: cl::sycl::multi_ptr
-      url: /api-docs/multi_pointer.h/cl::sycl::multi_ptr/index/
+#    children:
+#    - title: cl::sycl::multi_ptr
+#      url: /api-docs/multi_pointer.h/cl::sycl::multi_ptr/index/
 
   - title: platform.h
-    children:
-    - title: cl::sycl::platform
-      url: /api-docs/platform.h/cl::sycl::platform/index/
+#    children:
+#    - title: cl::sycl::platform
+#      url: /api-docs/platform.h/cl::sycl::platform/index/
 
   - title: private_memory.h
-    children:
-    - title: cl::sycl::private_memory
-      url: /api-docs/private_memory.h/cl::sycl::private_memory/index/
+#    children:
+#    - title: cl::sycl::private_memory
+#      url: /api-docs/private_memory.h/cl::sycl::private_memory/index/
 
   - title: program.h
-    children:
-    - title: cl::sycl::program
-      url: /api-docs/program.h/cl::sycl::program/index/
+#    children:
+#    - title: cl::sycl::program
+#      url: /api-docs/program.h/cl::sycl::program/index/
 
   - title: property.h
-    children:
-    - title: cl::sycl::property_list
-      url: /api-docs/property.h/cl::sycl::property_list/index/
+#    children:
+#    - title: cl::sycl::property_list
+#      url: /api-docs/property.h/cl::sycl::property_list/index/
 
   - title: queue.h
-    children:
-    - title: cl::sycl::queue
-      url: /api-docs/queue.h/cl::sycl::queue/index/
+#    children:
+#    - title: cl::sycl::queue
+#      url: /api-docs/queue.h/cl::sycl::queue/index/
 
   - title: range.h
-    children:
-    - title: cl::sycl::range<1>
-      url: /api-docs/range.h/cl::sycl::range<1>/index/
-    - title: cl::sycl::range<2>
-      url: /api-docs/range.h/cl::sycl::range<2>/index/
-    - title: cl::sycl::range<3>
-      url: /api-docs/range.h/cl::sycl::range<3>/index/
+#    children:
+#    - title: cl::sycl::range<1>
+#      url: /api-docs/range.h/cl::sycl::range<1>/index/
+#    - title: cl::sycl::range<2>
+#      url: /api-docs/range.h/cl::sycl::range<2>/index/
+#    - title: cl::sycl::range<3>
+#      url: /api-docs/range.h/cl::sycl::range<3>/index/
 
   - title: sampler.h
-    children:
-    - title: cl::sycl::sampler
-      url: /api-docs/sampler.h/cl::sycl::sampler/index/
+#    children:
+#    - title: cl::sycl::sampler
+#      url: /api-docs/sampler.h/cl::sycl::sampler/index/
 
   - title: stream.h
-    children:
-    - title: cl::sycl::stream
-      url: /api-docs/stream.h/cl::sycl::stream/index/
+#    children:
+#    - title: cl::sycl::stream
+#      url: /api-docs/stream.h/cl::sycl::stream/index/
 
   - title: vec_common.h
-    children:
-    - title: cl::sycl::elem
-      url: /api-docs/vec_common.h/cl::sycl::elem/index/
+#    children:
+#    - title: cl::sycl::elem
+#      url: /api-docs/vec_common.h/cl::sycl::elem/index/
 
 #  - title: types
 #    children:

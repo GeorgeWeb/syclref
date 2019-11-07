@@ -4,4 +4,4 @@
 set -e
 
 # serve
-bundle exec jekyll s --watch --incremental
+bundle exec jekyll serve --watch --incremental --baseurl ''

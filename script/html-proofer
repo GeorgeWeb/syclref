@@ -1,0 +1,22 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "html-proofer"
+
+url_ignores = [
+  # add URLs
+]
+
+HTMLProofer::Runner.new(
+  ["_site"],
+  parallel: { in_threads: 2 },
+  type: :directory,
+  url_ignore: url_ignores,
+  check_external_hash: true,
+  check_html: true,
+  check_img_http: true,
+  favicon: true,
+  assume_extension: true,
+  enforce_https: true,
+  only_4xx: true,
+).run

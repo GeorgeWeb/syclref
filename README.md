@@ -20,9 +20,7 @@ SYCL API reference - high-level C++ Interface for programming on heterogeneous d
 
 ### Contribute
 
-*Work-In-Progress*
-
-Visit the [Contributing Page].
+This site is powered by Jekyll. Check out our [contributing guidelines] for ways to offer feedback and contribute.
 
 ### Building a local version
 
@@ -79,4 +77,4 @@ The test script runs the HTMLProofer tool - a set of tests to validate your HTML
 These tests check if your image references are legitimate, if they have alt tags, if your internal links are working, and so on. It's intended to be an all-in-one checker for your output.
 
 [syclref.com]: https://georgeweb.github.io/syclref
-[Contributing Page]: ./CONTRIBUTING.md
+[contributing guidelines]: ./CONTRIBUTING.md
