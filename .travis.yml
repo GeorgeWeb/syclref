@@ -14,7 +14,7 @@ rvm:
 
 # run the build script
 script:
- - bundle exec rake test
+ - bundle exec rake
 
 # Optional: disable email notifications about the outcome of your builds
 notifications:

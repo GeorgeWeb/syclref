@@ -21,6 +21,7 @@ task :test => [:build] do
   options = {
     :url_ignore => url_ignores,
     :check_external_hash => true,
+    # :allow_hash_href => true,
     :check_html => true,
     :check_img_http => true,
     :enforce_https => true,
