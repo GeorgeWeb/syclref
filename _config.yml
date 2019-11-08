@@ -4,8 +4,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 remote_theme             : "mmistakes/minimal-mistakes"
-
 minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 
 # Site Settings
 locale                   : "en" # "en", "en-US", "en-GB"
@@ -63,18 +63,12 @@ atom_feed:
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default), algolia
-# algolia:
-#   application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
-#   index_name             : minimal_mistakes # YOUR_INDEX_NAME
-#   search_only_api_key    : 9d5014e5bbc77372547bce778dfa5663 # YOUR_SEARCH_ONLY_API_KEY
-#   powered_by             : false # true (default), false
-#   # files_to_exclude:
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
-bing_site_verification   :
-yandex_site_verification :
-naver_site_verification  :
+google_site_verification : "2cnP4d69J6Eip_HPlFzLCQ8oiBL3Lo_wTvjqX5BEhzI" # Replace this with your ID, or delete
+# bing_site_verification   :
+# yandex_site_verification :
+# naver_site_verification  :
 
 # Social Sharing
 twitter:
