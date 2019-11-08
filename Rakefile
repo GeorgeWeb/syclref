@@ -27,8 +27,7 @@ end
 
 desc "Build the site with testing configuration"
 task :build_testing do
-  #sh "JEKYLL_ENV=production script/build --config _config.yml,test/_config.yml"
-  sh "JEKYLL_ENV=production script/build --config _config.yml"
+  sh "JEKYLL_ENV=production script/build --config _config.yml,test/_config.yml"
 end
 
 #######################################################
