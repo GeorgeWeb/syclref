@@ -11,5 +11,6 @@ script/build --config _config.yml,test/_config.yml
 set +e
 
 # run html-proofer testing tool
+echo "===> Testing..."
 script/html-proofer
 HTML_PROOFER_EXIT="$?"

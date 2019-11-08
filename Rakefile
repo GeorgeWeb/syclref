@@ -15,14 +15,20 @@ end
 ## build the static site content (dev / prod config) ##
 #######################################################
 
-desc "Build the site for development"
+desc "Build the site in development environment"
 task :build_dev do
   sh "script/build --config _config.yml,_config.dev.yml"
 end
 
-desc "Build the site for production"
+desc "Build the site in production environment"
 task :build do
-  sh "JEKYLL_ENV=production script/build --config _config.yml,test/_config.yml"
+  sh "JEKYLL_ENV=production script/build --config _config.yml"
+end
+
+desc "Build the site with testing configuration"
+task :build_testing do
+  #sh "JEKYLL_ENV=production script/build --config _config.yml,test/_config.yml"
+  sh "JEKYLL_ENV=production script/build --config _config.yml"
 end
 
 #######################################################
@@ -43,7 +49,7 @@ url_ignores = [
 ]
 
 desc "Test the website"
-task :test => [:clean, :build] do
+task :test => [:clean, :build_testing] do
   options = {
     :url_ignore => url_ignores,
     :check_external_hash => true,
@@ -59,9 +65,18 @@ task :test => [:clean, :build] do
     }
   }
   begin
+    puts "===> Testing..."
     HTMLProofer.check_directory("./_site", options).run
   rescue => msg
     puts "#{msg}"
+    # return failure exit code on error
+    if not msg.eql? "HTML-Proofer finished successfully."
+      puts "ERROR!"
+      return 1
+    # otherwise return success exit code
+    else
+      return 0
+    end
   end
 end
 

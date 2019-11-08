@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
+echo "===> Cleaning..."
 bundle exec jekyll clean
