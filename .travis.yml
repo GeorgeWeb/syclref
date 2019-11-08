@@ -2,19 +2,37 @@ language: ruby
 rvm:
   - 2.5.3 # ruby-2.5.3 is pre-installed on Travis
 
+######################
+## BEGIN OLD METHOD ##
+######################
+
 # set executable permission
 #before_script:
+# - chmod +x ./script/clean
 # - chmod +x ./script/build
 # - chmod +x ./script/html-proofer
 # - chmod +x ./script/test
 
 # run the build script
 #script:
+#  - ./script/clean
 #  - ./script/test
+
+######################
+##  END OLD METHOD  ##
+######################
+
+######################
+## BEGIN NEW METHOD ##
+######################
 
 # run the build script
 script:
  - bundle exec rake
+
+######################
+##  END NEW METHOD  ##
+######################
 
 # Optional: disable email notifications about the outcome of your builds
 notifications:

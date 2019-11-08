@@ -15,8 +15,8 @@ HTMLProofer::Runner.new(
   check_external_hash: true,
   check_html: true,
   check_img_http: true,
-  favicon: true,
+  check_favicon: true,
   assume_extension: true,
   enforce_https: true,
-  only_4xx: true,
+  only_4xx: true
 ).run
