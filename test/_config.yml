@@ -1,3 +1,3 @@
 # Override config for tests
-url: ""
-baseurl: ""
+url: https://georgeweb.github.io
+baseurl: "syclref"

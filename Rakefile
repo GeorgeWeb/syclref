@@ -8,7 +8,6 @@ require 'jekyll'
 
 desc "Delete the _site directory"
 task :clean do
-  # sh "chmod +x script/clean"
   sh "script/clean"
 end
 
@@ -18,13 +17,11 @@ end
 
 desc "Build the site for development"
 task :build_dev do
-  # sh "chmod +x script/build"
   sh "script/build --config _config.yml,_config.dev.yml"
 end
 
 desc "Build the site for production"
 task :build do
-  # sh "chmod +x script/build"
   sh "JEKYLL_ENV=production script/build --config _config.yml,test/_config.yml"
 end
 
@@ -34,7 +31,6 @@ end
 
 desc "Preview the website"
 task :preview do
-  # sh "chmod +x script/server"
   sh "script/server"
 end
 
