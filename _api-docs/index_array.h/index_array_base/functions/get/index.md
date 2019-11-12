@@ -2,7 +2,7 @@
 title: get
 classes: wide
 ---
-# get
+
 
 ---
 

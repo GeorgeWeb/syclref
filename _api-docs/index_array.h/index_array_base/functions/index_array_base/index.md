@@ -2,7 +2,7 @@
 title: index_array_base
 classes: wide
 ---
-# index_array_base
+
 
 ---
 
