@@ -13,7 +13,7 @@ HTMLProofer::Runner.new(
   type: :directory,
   url_ignore: url_ignores,
   check_external_hash: true,
-  check_html: true,
+  check_html: false, # temporary, should be `true`
   check_img_http: true,
   check_favicon: true,
   assume_extension: true,
