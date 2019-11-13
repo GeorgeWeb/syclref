@@ -4,7 +4,7 @@ classes: wide
 ---
 
 
-The cl::sycl::item object is a container for all information about a work item. The cl::sycl::item object is used within the 
+The cl::sycl::item object is a container for all information about a work item. The cl::sycl::item object is used within the handler::parallel_for and parallel_for_work_item functions. The cl::sycl::item object can return information about the local and global sizes of an enqueued nd_range as well as the local and global ids of the work item. item<dimensions> is a derived class of detail::item_base, which is a non-templated class implementing most of the functionality of cl::sycl::item<dimensions>. dimensionsNumber of dimensions of the item object with_offsetWhether the object contains an offset or not 
 
 Defined in base.h
 
@@ -41,7 +41,7 @@ class cl::sycl::item
 
   | Name |
 | :--- | :--- |
-| [operator id< dimensions >]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253Aitem/functions/operator id%253C dimensions %253E/index.md %}) | conversion operator from  to item |
+| [operator id< dimensions >]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253Aitem/functions/operator id%253C dimensions %253E/index.md %}) | conversion operator from item to id |
 
 
 ## Friend Functions

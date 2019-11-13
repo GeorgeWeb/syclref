@@ -11,7 +11,7 @@ id<dimensions> cl::sycl::nd_item< dimensions >::get_offset() const
 ```
 
 
-Get the offset of the enqueued . nd_range
+Get the offset of the enqueued nd_range. 
 
 
 ---

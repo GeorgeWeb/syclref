@@ -20,6 +20,6 @@ Inline member function that sets the stream mode.
  - `stream_mode mode`
 : The stream mode to set. 
 
-**Returns:** 
+**Returns:** modeThe stream mode to set. 
 
 ---

@@ -22,7 +22,7 @@ classes: wide
 
    **Parameters:**
 
-   **Returns:** Applies 
+   **Returns:** Applies  to this half. This half after the application of the  operation. 
 
 ---
 
@@ -34,7 +34,7 @@ classes: wide
 
    
 
-   **Returns:** Applies 
+   **Returns:** Applies  to this half. A copy of this half before the  operation. 
 
 ---
 

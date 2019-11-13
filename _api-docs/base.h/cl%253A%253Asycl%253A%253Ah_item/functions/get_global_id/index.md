@@ -34,7 +34,7 @@ classes: wide
 
    Which value of the ID to retrieve 
 
-   **Returns:** Element of the global ID 
+   **Returns:** dimensionWhich value of the ID to retrieve Element of the global ID 
 
 ---
 

@@ -18,6 +18,6 @@ Gets the OpenCL event information from the SYCL event.
 ---
 **Parameters:**
 
-**Returns:** opencl_event_info<param> The equivalent OpenCL type 
+**Returns:** info::eventparam The OpenCL parameter requested opencl_event_info<param> The equivalent OpenCL type 
 
 ---

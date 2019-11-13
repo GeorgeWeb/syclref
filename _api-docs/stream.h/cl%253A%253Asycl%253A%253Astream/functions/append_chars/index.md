@@ -23,6 +23,6 @@ Member function that appends a char buffer to the stream's buffer.
  - `int size`
 : 
 
-**Returns:** 
+**Returns:** charBufferThe char buffer to be appended.  The size of the char buffer to be appended. 
 
 ---

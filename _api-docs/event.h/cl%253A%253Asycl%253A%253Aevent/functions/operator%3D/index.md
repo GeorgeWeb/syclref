@@ -38,7 +38,7 @@ classes: wide
 
    will have its contents moved. after the operation rhs will be invalid. 
 
-   **Returns:** 
+   **Returns:** rhswill have its contents moved. after the operation rhs will be invalid. 
 
 ---
 

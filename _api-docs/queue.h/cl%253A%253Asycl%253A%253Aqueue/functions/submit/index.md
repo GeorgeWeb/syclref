@@ -32,7 +32,7 @@ event cl::sycl::queue::submit(T cgf)
 
    
 
-   **Returns:** If an error occur during the execution of the kernel on the current queue, the runtime will try to run the kernel on the fallback queue.
+   **Returns:** If an error occur during the execution of the kernel on the current queue, the runtime will try to run the kernel on the fallback queue.TThe command group type cgfThe command group functor queueThe fallback queue to use in case of error. 
 
 ---
 
@@ -44,7 +44,7 @@ event cl::sycl::queue::submit(T cgf)
 
    
 
-   **Returns:** 
+   **Returns:** TThe command group type cgfThe command group functor 
 
 ---
 

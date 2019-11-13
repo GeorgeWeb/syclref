@@ -26,7 +26,7 @@ classes: wide
 
    the dimension of the global range to be returned. 
 
-   **Returns:** the value of the global range in the specified dimension. 
+   **Returns:** dimensionthe dimension of the global range to be returned. the value of the global range in the specified dimension. 
 
 ---
 
@@ -34,7 +34,7 @@ classes: wide
 
    **Parameters:**
 
-   **Returns:** the value of the global range for each dimension of the 
+   **Returns:** the value of the global range for each dimension of the nd_range. 
 
 ---
 

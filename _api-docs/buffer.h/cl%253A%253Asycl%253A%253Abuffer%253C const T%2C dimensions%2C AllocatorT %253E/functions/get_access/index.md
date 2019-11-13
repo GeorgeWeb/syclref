@@ -52,7 +52,7 @@ accessor<const T, dimensions, accessMode, accessTarget> cl::sycl::buffer< const 
 
    **Parameters:**
 
-   **Returns:** Host accessor 
+   **Returns:** accessModeall access::mode values are accepted Host accessor 
 
 ---
 
@@ -64,7 +64,7 @@ accessor<const T, dimensions, accessMode, accessTarget> cl::sycl::buffer< const 
 
    
 
-   **Returns:** Device accessor 
+   **Returns:** accessModeall access::mode values are accepted accessTargetdefaults to global_buffer, can accept global_buffer or constant_buffer cghReference to the command group scope where the accessor is requested. Device accessor 
 
 ---
 
@@ -84,7 +84,7 @@ accessor<const T, dimensions, accessMode, accessTarget> cl::sycl::buffer< const 
 
    
 
-   **Returns:** Device accessor 
+   **Returns:** accessModeAll access::mode values are accepted accessTargetDefaults to global_buffer, can accept global_buffer or constant_buffer cghReference to the command group scope where the accessor is requested rangeThe range in which the accessor will be updating the data offsetThe offset that the accessor will be able to update from Device accessor 
 
 ---
 
@@ -100,7 +100,7 @@ accessor<const T, dimensions, accessMode, accessTarget> cl::sycl::buffer< const 
 
    
 
-   **Returns:** Device accessor 
+   **Returns:** accessModeAll access::mode values are accepted offsetthe offset that the accessor will be able to update from. rangethe range in which the accessor will be updating the data. Device accessor DeprecatedNeed to reverse the order of the access offset and range, see 4.7.2.1 Buffer Interface in SYCL 1.2.1 
 
 ---
 
@@ -116,7 +116,7 @@ accessor<const T, dimensions, accessMode, accessTarget> cl::sycl::buffer< const 
 
    
 
-   **Returns:** Host accessor 
+   **Returns:** accessModeAll access::mode values are accepted rangethe range in which the accessor will be updating the data offsetthe offset that the accessor will be able to update from Host accessor 
 
 ---
 
@@ -136,7 +136,7 @@ accessor<const T, dimensions, accessMode, accessTarget> cl::sycl::buffer< const 
 
    
 
-   **Returns:** Device accessor 
+   **Returns:** accessModeall access::mode values are accepted accessTargetdefaults to global_buffer, can accept global_buffer or constant_buffer cghReference to the command group scope where the accessor is requested. offsetthe offset that the accessor will be able to update from. rangethe range in which the accessor will be updating the data. Device accessor DeprecatedNeed to reverse the order of the access offset and range, see 4.7.2.1 Buffer Interface in SYCL 1.2.1 
 
 ---
 

@@ -20,6 +20,6 @@ Inline member function that sets the precision value.
  - `int precision`
 : The precision value to set. 
 
-**Returns:** 
+**Returns:** precisionThe precision value to set. 
 
 ---

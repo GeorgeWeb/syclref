@@ -24,13 +24,13 @@ classes: wide
 
   * const detail::nd_range_base & ndRangeBase
 
-   The  to copy nd_range
+   The nd_range to copy 
 
-   **Returns:** Create a copy of another . nd_range
+   **Returns:** Create a copy of another nd_range. ndRangeBaseThe nd_range to copy 
 
 ---
 
-2. Construct a  object specifying the global and local range and an optional offset. nd_range
+2. Construct a nd_range object specifying the global and local range and an optional offset. 
 
    **Parameters:**
 
@@ -40,13 +40,13 @@ classes: wide
 
   * range localRange
 
-   The local range
+   The global rangeThe local range
 
   * id globalOffset
 
-   The global offset (optional, default to 0) 
+   The global rangeThe local rangeThe global offset (optional, default to 0) 
 
-   **Returns:** Note that the global range must divisible by the local range in order to be usable by a . handler::parallel_for
+   **Returns:** Note that the global range must divisible by the local range in order to be usable by a handler::parallel_for. globalRangeThe global rangelocalRangeThe local rangeglobalOffsetThe global offset (optional, default to 0) 
 
 ---
 

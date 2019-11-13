@@ -58,13 +58,13 @@ classes: wide
 
   * size_t maxStatementSize
 
-   The maximum size of a single statement in the stream's buffer. 
+   The size of the stream's buffer. The maximum size of a single statement in the stream's buffer. 
 
   * handler cgh
 
-   A reference to the handler that the stream is to be associated with. 
+   The size of the stream's buffer. The maximum size of a single statement in the stream's buffer. A reference to the handler that the stream is to be associated with. 
 
-   **Returns:** 
+   **Returns:** bufferSizeThe size of the stream's buffer. maxStatementSizeThe maximum size of a single statement in the stream's buffer. cghA reference to the handler that the stream is to be associated with. 
 
 ---
 

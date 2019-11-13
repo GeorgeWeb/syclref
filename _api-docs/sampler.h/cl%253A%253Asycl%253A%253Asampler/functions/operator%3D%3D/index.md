@@ -21,10 +21,10 @@ Determines if lhs and rhs are equal.
 : Left-hand-side object in comparison 
 
  - `cl::sycl::sampler rhs`
-: Right-hand-side object in comparison 
+: Left-hand-side object in comparison Right-hand-side object in comparison 
 
 
 ---
-**Returns:** True if same underlying object 
+**Returns:** lhsLeft-hand-side object in comparison rhsRight-hand-side object in comparison True if same underlying object 
 
 ---

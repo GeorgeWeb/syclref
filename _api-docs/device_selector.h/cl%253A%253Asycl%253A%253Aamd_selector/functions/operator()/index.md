@@ -20,6 +20,6 @@ Overload that scores devices with an AMD platform positive if they have SPIR sup
  - `device device`
 : The device that is to be scored. 
 
-**Returns:** an integer representing the allocated score for the device. 
+**Returns:** deviceThe device that is to be scored. an integer representing the allocated score for the device. 
 
 ---

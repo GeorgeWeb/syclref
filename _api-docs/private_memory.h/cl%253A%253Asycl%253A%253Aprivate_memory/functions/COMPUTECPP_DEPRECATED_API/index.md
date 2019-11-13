@@ -23,6 +23,6 @@ Return the allocated private memory for the work item.
  - `h_item `
 : The item instance representing the work-item. 
 
-**Returns:** A reference to the work-item private instance. 
+**Returns:** indexThe item instance representing the work-item. A reference to the work-item private instance. This method cannot be used if the local range was redefined when calling parallel_for_work_item. DeprecatedUse operator()(h_item) 
 
 ---

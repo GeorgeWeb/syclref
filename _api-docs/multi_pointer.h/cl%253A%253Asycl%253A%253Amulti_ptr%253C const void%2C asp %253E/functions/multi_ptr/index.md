@@ -54,7 +54,7 @@ cl::sycl::multi_ptr< const void, asp >::multi_ptr(cl::sycl::accessor< const void
 
    
 
-   **Returns:** 
+   **Returns:** ElementTypeUnderlying type of the accessor data dimensionsAccessor dimensions ModeAccessor mode isPlaceholderWhether the accessor is a placeholder COMPUTECPP_ENABLE_IFThis constructor is only available for access::address_space::global_spaceaccess::address_space::constant_spaceaccess::address_space::local_spaceaccAccessor to retrieve the pointer from 
 
 ---
 
@@ -66,7 +66,7 @@ cl::sycl::multi_ptr< const void, asp >::multi_ptr(cl::sycl::accessor< const void
 
    
 
-   **Returns:** 
+   **Returns:** ElementTypeUnderlying type of the pointer to convert COMPUTECPP_ENABLE_IFOnly enabled if ElementType is not const void ptrPointer to convert to multi_ptr<const void> 
 
 ---
 
@@ -78,7 +78,7 @@ cl::sycl::multi_ptr< const void, asp >::multi_ptr(cl::sycl::accessor< const void
 
    
 
-   **Returns:** This conversion is defined by the device compiler.
+   **Returns:** This conversion is defined by the device compiler.COMPUTECPP_ENABLE_IFOnly available if the provided pointer is not address space qualified. ptrPointer that is not address space qualified that the class should manipulate This constructor has to be declared in order for the device compiler to deduce address spaces, but it should not be defined because it should never actually be used. 
 
 ---
 
@@ -90,7 +90,7 @@ cl::sycl::multi_ptr< const void, asp >::multi_ptr(cl::sycl::accessor< const void
 
    
 
-   **Returns:** 
+   **Returns:** dimensionsAccessor dimensions ModeAccessor mode isPlaceholderWhether the accessor is a placeholder COMPUTECPP_ENABLE_IFThis constructor is only available for access::address_space::global_spaceaccess::address_space::constant_spaceaccess::address_space::local_spaceaccAccessor to retrieve the pointer from 
 
 ---
 
@@ -102,7 +102,7 @@ cl::sycl::multi_ptr< const void, asp >::multi_ptr(cl::sycl::accessor< const void
 
    Pointer that the class should manipulate. 
 
-   **Returns:** 
+   **Returns:** ptrPointer that the class should manipulate. 
 
 ---
 

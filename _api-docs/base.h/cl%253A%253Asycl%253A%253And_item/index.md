@@ -4,7 +4,7 @@ classes: wide
 ---
 
 
-The cl::sycl::nd_item object is a container for all information about a work-item. The cl::sycl::nd_item object is used within the 
+The cl::sycl::nd_item object is a container for all information about a work-item. The cl::sycl::nd_item object is used within the handler::parallel_for functions. The cl::sycl::item object can return information about the local and global sizes of an enqueued nd_range as well as the local and global ids of the work item. 
 
 Defined in base.h
 
@@ -73,11 +73,11 @@ class cl::sycl::nd_item
 
   | Name |
 | :--- | :--- |
-| [get\_nd\_range]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253And_item/functions/get_nd_range/index.md %}) | Returns the enqueued . nd_range |
+| [get\_nd\_range]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253And_item/functions/get_nd_range/index.md %}) | Returns the enqueued nd_range.  |
 
   | Name |
 | :--- | :--- |
-| [get\_offset]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253And_item/functions/get_offset/index.md %}) | Get the offset of the enqueued . nd_range |
+| [get\_offset]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253And_item/functions/get_offset/index.md %}) | Get the offset of the enqueued nd_range.  |
 
   | Name |
 | :--- | :--- |
@@ -93,7 +93,7 @@ class cl::sycl::nd_item
 
   | Name |
 | :--- | :--- |
-| [wait\_for]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253And_item/functions/wait_for/index.md %}) | Waits on each given . device_event |
+| [wait\_for]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253And_item/functions/wait_for/index.md %}) | Waits on each given device_event.  |
 
 
 ## Friend Functions

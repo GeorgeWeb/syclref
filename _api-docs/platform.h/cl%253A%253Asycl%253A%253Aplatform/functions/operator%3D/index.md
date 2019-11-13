@@ -20,6 +20,6 @@ Assignment Operator.
  - `platform rhs`
 : The platform object to copy 
 
-**Returns:** Completely assigns the contents of the platform to that of another. 
+**Returns:** Completely assigns the contents of the platform to that of another. rhsThe platform object to copy 
 
 ---

@@ -50,7 +50,7 @@ device_event cl::sycl::group< dimensions >::async_work_group_copy(global_ptr< da
 
    
 
-   **Returns:** 
+   **Returns:** dataTData type of the pointer destPointer to the destination in local memory srcPointer to the source in global memory numElementsNumber of elements to copy 
 
 ---
 
@@ -70,7 +70,7 @@ device_event cl::sycl::group< dimensions >::async_work_group_copy(global_ptr< da
 
    
 
-   **Returns:** 
+   **Returns:** dataTData type of the pointer destPointer to the destination in global memory srcPointer to the source in local memory numElementsNumber of elements to copy 
 
 ---
 
@@ -94,7 +94,7 @@ device_event cl::sycl::group< dimensions >::async_work_group_copy(global_ptr< da
 
    
 
-   **Returns:** 
+   **Returns:** dataTData type of the pointer destPointer to the destination in local memory srcPointer to the source in global memory numElementsNumber of elements to copy destStrideStride in the origin 
 
 ---
 
@@ -118,7 +118,7 @@ device_event cl::sycl::group< dimensions >::async_work_group_copy(global_ptr< da
 
    
 
-   **Returns:** 
+   **Returns:** dataTData type of the pointer destPointer to the destination in global memory srcPointer to the source in local memory numElementsNumber of elements to copy destStrideStride in the destination 
 
 ---
 

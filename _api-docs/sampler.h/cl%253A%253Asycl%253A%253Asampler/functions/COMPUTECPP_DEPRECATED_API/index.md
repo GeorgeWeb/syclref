@@ -30,7 +30,7 @@ classes: wide
 
    OpenCL cl_sampler object/ 
 
-   **Returns:** 
+   **Returns:** clSamplerOpenCL cl_sampler object/ DeprecatedPlease also provide a SYCL context 
 
 ---
 
@@ -42,7 +42,7 @@ classes: wide
 
    Boolean specifying whether normalized coordinates are enabled. 
 
-   **Returns:** 
+   **Returns:** normalizedCoordsBoolean specifying whether normalized coordinates are enabled. addressModeThe sampler addressing mode. filterModeThe sampler filter mode. DeprecatedUse sampler::sampler(coordinate_normalization_mode, addressing_mode, filtering_mode) instead. 
 
 ---
 

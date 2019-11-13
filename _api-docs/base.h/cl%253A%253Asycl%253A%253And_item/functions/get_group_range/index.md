@@ -18,7 +18,7 @@ classes: wide
 
 ---
 
-1. Returns the group range of the enqueued . nd_range
+1. Returns the group range of the enqueued nd_range. 
 
    **Parameters:**
 
@@ -26,7 +26,7 @@ classes: wide
 
 ---
 
-2. Returns the group range of the enqueued  for a specific dimension. nd_range
+2. Returns the group range of the enqueued nd_range for a specific dimension. 
 
    **Parameters:**
 
@@ -34,7 +34,7 @@ classes: wide
 
    of the range to be returned. Must be in the range [0,2] 
 
-   **Returns:** the value of the group range for all dimensions. 
+   **Returns:** dimensionof the range to be returned. Must be in the range [0,2] the value of the group range for all dimensions. 
 
 ---
 

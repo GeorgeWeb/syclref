@@ -94,7 +94,7 @@ classes: wide
 
    the device selector that will provide a device to copy 
 
-   **Returns:** 
+   **Returns:** deviceSelectorthe device selector that will provide a device to copy 
 
 ---
 
@@ -106,7 +106,7 @@ classes: wide
 
    A cl_device_id object. 
 
-   **Returns:** 
+   **Returns:** deviceIDA cl_device_id object. 
 
 ---
 

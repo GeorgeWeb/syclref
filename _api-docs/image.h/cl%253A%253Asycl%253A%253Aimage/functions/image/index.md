@@ -136,17 +136,17 @@ cl::sycl::image< kDimensions, AllocatorT >::image(void *hostPtr, cl::sycl::image
 
   * cl::sycl::image_channel_type type
 
-   Image channel type. 
+   Image channel order. Image channel type. 
 
   * range rng
 
-   Image range. 
+   Image channel order. Image channel type. Image range. 
 
   * property_list propList
 
-   List of image properties 
+   Image channel order. Image channel type. Image range. List of image properties 
 
-   **Returns:** Any host side allocation of data will be performed using the allocator specified by AllocatorT. 
+   **Returns:** Any host side allocation of data will be performed using the allocator specified by AllocatorT. orderImage channel order. typeImage channel type. rngImage range. propListList of image properties 
 
 ---
 
@@ -160,21 +160,21 @@ cl::sycl::image< kDimensions, AllocatorT >::image(void *hostPtr, cl::sycl::image
 
   * cl::sycl::image_channel_type type
 
-   Image channel type. 
+   Image channel order. Image channel type. 
 
   * range rng
 
-   Image range. 
+   Image channel order. Image channel type. Image range. 
 
   * AllocatorT allocator
 
-   The allocator used to create internal storage 
+   Image channel order. Image channel type. Image range. The allocator used to create internal storage 
 
   * property_list propList
 
-   List of image properties 
+   Image channel order. Image channel type. Image range. The allocator used to create internal storage List of image properties 
 
-   **Returns:** Any host side allocation of data will be performed using the provided allocator. 
+   **Returns:** Any host side allocation of data will be performed using the provided allocator. orderImage channel order. typeImage channel type. rngImage range. allocatorThe allocator used to create internal storage propListList of image properties 
 
 ---
 
@@ -202,7 +202,7 @@ cl::sycl::image< kDimensions, AllocatorT >::image(void *hostPtr, cl::sycl::image
 
    
 
-   **Returns:** Any host side allocation of data will be performed using the allocator specified by AllocatorT. 
+   **Returns:** Any host side allocation of data will be performed using the allocator specified by AllocatorT. COMPUTECPP_ENABLE_IFOnly enabled when kDimensions greater than 1 orderImage channel order. typeImage channel type. rngImage range. pitImage pitch. propListList of image properties 
 
 ---
 
@@ -234,7 +234,7 @@ cl::sycl::image< kDimensions, AllocatorT >::image(void *hostPtr, cl::sycl::image
 
    
 
-   **Returns:** Any host side allocation of data will be performed using the provided allocator. 
+   **Returns:** Any host side allocation of data will be performed using the provided allocator. COMPUTECPP_ENABLE_IFOnly enabled when kDimensions greater than 1 orderImage channel order. typeImage channel type. rngImage range. pitImage pitch. allocatorThe allocator used to create internal storage propListList of image properties 
 
 ---
 
@@ -248,21 +248,21 @@ cl::sycl::image< kDimensions, AllocatorT >::image(void *hostPtr, cl::sycl::image
 
   * cl::sycl::image_channel_order order
 
-   Image channel order. 
+   Raw pointer to the image data. Image channel order. 
 
   * cl::sycl::image_channel_type type
 
-   Image channel type. 
+   Raw pointer to the image data. Image channel order. Image channel type. 
 
   * range rng
 
-   Image range. 
+   Raw pointer to the image data. Image channel order. Image channel type. Image range. 
 
   * property_list propList
 
-   List of image properties 
+   Raw pointer to the image data. Image channel order. Image channel type. Image range. List of image properties 
 
-   **Returns:** Any host side allocation of data will be performed using the allocator specified by AllocatorT. 
+   **Returns:** Any host side allocation of data will be performed using the allocator specified by AllocatorT. hostPtrRaw pointer to the image data. orderImage channel order. typeImage channel type. rngImage range. propListList of image properties 
 
 ---
 
@@ -276,25 +276,25 @@ cl::sycl::image< kDimensions, AllocatorT >::image(void *hostPtr, cl::sycl::image
 
   * cl::sycl::image_channel_order order
 
-   Image channel order. 
+   Raw pointer to the image data. Image channel order. 
 
   * cl::sycl::image_channel_type type
 
-   Image channel type. 
+   Raw pointer to the image data. Image channel order. Image channel type. 
 
   * range rng
 
-   Image range. 
+   Raw pointer to the image data. Image channel order. Image channel type. Image range. 
 
   * AllocatorT allocator
 
-   The allocator used to create internal storage 
+   Raw pointer to the image data. Image channel order. Image channel type. Image range. The allocator used to create internal storage 
 
   * property_list propList
 
-   List of image properties 
+   Raw pointer to the image data. Image channel order. Image channel type. Image range. The allocator used to create internal storage List of image properties 
 
-   **Returns:** Any host side allocation of data will be performed using the provided allocator. 
+   **Returns:** Any host side allocation of data will be performed using the provided allocator. hostPtrRaw pointer to the image data. orderImage channel order. typeImage channel type. rngImage range. allocatorThe allocator used to create internal storage propListList of image properties 
 
 ---
 
@@ -308,21 +308,21 @@ cl::sycl::image< kDimensions, AllocatorT >::image(void *hostPtr, cl::sycl::image
 
   * cl::sycl::image_channel_order order
 
-   Image channel order. 
+   Raw pointer to the image data. Image channel order. 
 
   * cl::sycl::image_channel_type type
 
-   Image channel type. 
+   Raw pointer to the image data. Image channel order. Image channel type. 
 
   * range rng
 
-   Image range. 
+   Raw pointer to the image data. Image channel order. Image channel type. Image range. 
 
   * property_list propList
 
-   List of image properties 
+   Raw pointer to the image data. Image channel order. Image channel type. Image range. List of image properties 
 
-   **Returns:** Any host side allocation of data will be performed using the allocator specified by AllocatorT. 
+   **Returns:** Any host side allocation of data will be performed using the allocator specified by AllocatorT. hostPtrRaw pointer to the image data. orderImage channel order. typeImage channel type. rngImage range. propListList of image properties 
 
 ---
 
@@ -336,25 +336,25 @@ cl::sycl::image< kDimensions, AllocatorT >::image(void *hostPtr, cl::sycl::image
 
   * cl::sycl::image_channel_order order
 
-   Image channel order. 
+   Raw pointer to the image data. Image channel order. 
 
   * cl::sycl::image_channel_type type
 
-   Image channel type. 
+   Raw pointer to the image data. Image channel order. Image channel type. 
 
   * range rng
 
-   Image range. 
+   Raw pointer to the image data. Image channel order. Image channel type. Image range. 
 
   * AllocatorT allocator
 
-   The allocator used to create internal storage 
+   Raw pointer to the image data. Image channel order. Image channel type. Image range. The allocator used to create internal storage 
 
   * property_list propList
 
-   List of image properties 
+   Raw pointer to the image data. Image channel order. Image channel type. Image range. The allocator used to create internal storage List of image properties 
 
-   **Returns:** Any host side allocation of data will be performed using the provided allocator. 
+   **Returns:** Any host side allocation of data will be performed using the provided allocator. hostPtrRaw pointer to the image data. orderImage channel order. typeImage channel type. rngImage range. allocatorThe allocator used to create internal storage propListList of image properties 
 
 ---
 
@@ -386,7 +386,7 @@ cl::sycl::image< kDimensions, AllocatorT >::image(void *hostPtr, cl::sycl::image
 
    
 
-   **Returns:** Any host side allocation of data will be performed using the allocator specified by AllocatorT. 
+   **Returns:** Any host side allocation of data will be performed using the allocator specified by AllocatorT. COMPUTECPP_ENABLE_IFOnly enabled when kDimensions greater than 1 hostPtrRaw pointer to the image data. orderImage channel order. typeImage channel type. rngImage range. pitImage pitch. propListList of image properties 
 
 ---
 
@@ -412,21 +412,21 @@ cl::sycl::image< kDimensions, AllocatorT >::image(void *hostPtr, cl::sycl::image
 
   * cl::sycl::image_channel_order order
 
-   Image channel order. 
+   shared pointer to the image data. Image channel order. 
 
   * cl::sycl::image_channel_type type
 
-   Image channel type. 
+   shared pointer to the image data. Image channel order. Image channel type. 
 
   * range rng
 
-   Image range. 
+   shared pointer to the image data. Image channel order. Image channel type. Image range. 
 
   * property_list propList
 
-   List of image properties 
+   shared pointer to the image data. Image channel order. Image channel type. Image range. The allocator used to create internal storage List of image properties 
 
-   **Returns:** The host pointer's ownership is shared and on destruction the data will be copied to the specified host pointer unless the runtime maintains the last reference to the shared_ptr or a final pointer is specified using set_final_data() in which case that specified pointer will be used. Any host side allocation of data will be performed using the allocator specified by AllocatorT. 
+   **Returns:** The host pointer's ownership is shared and on destruction the data will be copied to the specified host pointer unless the runtime maintains the last reference to the shared_ptr or a final pointer is specified using set_final_data() in which case that specified pointer will be used. Any host side allocation of data will be performed using the allocator specified by AllocatorT. sharedPtrshared pointer to the image data. orderImage channel order. typeImage channel type. rngImage range. allocatorThe allocator used to create internal storage propListList of image properties 
 
 ---
 
@@ -458,7 +458,7 @@ cl::sycl::image< kDimensions, AllocatorT >::image(void *hostPtr, cl::sycl::image
 
    
 
-   **Returns:** The host pointer's ownership is shared and on destruction the data will be copied to the specified host pointer unless the runtime maintains the last reference to the shared_ptr or a final pointer is specified using set_final_data() in which case that specified pointer will be used.
+   **Returns:** The host pointer's ownership is shared and on destruction the data will be copied to the specified host pointer unless the runtime maintains the last reference to the shared_ptr or a final pointer is specified using set_final_data() in which case that specified pointer will be used.Any host side allocation of data will be performed using the provided allocator. sharedPtrshared pointer to the image data. orderImage channel order. typeImage channel type. rngImage range. allocatorThe allocator used to create internal storage propListList of image properties 
 
 ---
 
@@ -490,7 +490,7 @@ cl::sycl::image< kDimensions, AllocatorT >::image(void *hostPtr, cl::sycl::image
 
    
 
-   **Returns:** The host pointer's ownership is shared and on destruction the data will be copied to the specified host pointer unless the runtime maintains the last reference to the shared_ptr or a final pointer is specified using set_final_data() in which case that specified pointer will be used. Any host side allocation of data will be performed using the allocator specified by AllocatorT. 
+   **Returns:** The host pointer's ownership is shared and on destruction the data will be copied to the specified host pointer unless the runtime maintains the last reference to the shared_ptr or a final pointer is specified using set_final_data() in which case that specified pointer will be used. Any host side allocation of data will be performed using the allocator specified by AllocatorT. COMPUTECPP_ENABLE_IFOnly enabled when kDimensions greater than 1 sharedPtrShared pointer to the image data. orderImage channel order. typeImage channel type. rngImage range. pitImage pitch. propListList of image properties 
 
 ---
 
@@ -526,7 +526,7 @@ cl::sycl::image< kDimensions, AllocatorT >::image(void *hostPtr, cl::sycl::image
 
    
 
-   **Returns:** The host pointer's ownership is shared and on destruction the data will be copied to the specified host pointer unless the runtime maintains the last reference to the shared_ptr or a final pointer is specified using set_final_data() in which case that specified pointer will be used.
+   **Returns:** The host pointer's ownership is shared and on destruction the data will be copied to the specified host pointer unless the runtime maintains the last reference to the shared_ptr or a final pointer is specified using set_final_data() in which case that specified pointer will be used.Any host side allocation of data will be performed using the provided allocator. COMPUTECPP_ENABLE_IFOnly enabled when kDimensions greater than 1 sharedPtrShared pointer to the image data. orderImage channel order. typeImage channel type. rngImage range. pitImage pitch. allocatorThe allocator used to create internal storage propListList of image properties 
 
 ---
 
@@ -582,7 +582,7 @@ cl::sycl::image< kDimensions, AllocatorT >::image(void *hostPtr, cl::sycl::image
 
    
 
-   **Returns:** Any host side allocation of data will be performed using the provided allocator. 
+   **Returns:** Any host side allocation of data will be performed using the provided allocator. COMPUTECPP_ENABLE_IFOnly enabled when kDimensions greater than 1 hostPtrRaw pointer to the image data. orderImage channel order. typeImage channel type. rngImage range. pitImage pitch. allocatorThe allocator used to create internal storage propListList of image properties 
 
 ---
 

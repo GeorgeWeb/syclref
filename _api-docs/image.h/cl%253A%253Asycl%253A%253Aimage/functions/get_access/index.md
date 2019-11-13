@@ -24,11 +24,11 @@ accessor<T, kDimensions, accessMode, access::target::image> cl::sycl::image< kDi
 
    **Parameters:**
 
-   **Returns:** 
+   **Returns:** TTypename of the accessor accessModeThe data access mode descriptor 
 
 ---
 
-2. Create an accessor to the image for command group . handler
+2. Create an accessor to the image for command group handler. 
 
    **Parameters:**
 
@@ -36,7 +36,7 @@ accessor<T, kDimensions, accessMode, access::target::image> cl::sycl::image< kDi
 
    
 
-   **Returns:** 
+   **Returns:** TTypename of the accessor accessModeThe data access mode descriptor cghThe command group handler 
 
 ---
 

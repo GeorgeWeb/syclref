@@ -18,15 +18,15 @@ classes: wide
 
 ---
 
-1. Get the global range of the enqueued kernel if provided by a . handler::parallel_for
+1. Get the global range of the enqueued kernel if provided by a handler::parallel_for. 
 
    **Parameters:**
 
-   **Returns:** Get the local range if used if provided by a parallel_for_work_item. 
+   **Returns:** Get the local range if used if provided by a parallel_for_work_item. the values of the global range for all dimensions. 
 
 ---
 
-2. Gets the global range in a specified dimension if provided by a  and gets the local range in a specified dimension if provided by a parallel_for_work_item. handler::parallel_for
+2. Gets the global range in a specified dimension if provided by a handler::parallel_for and gets the local range in a specified dimension if provided by a parallel_for_work_item. 
 
    **Parameters:**
 
@@ -34,7 +34,7 @@ classes: wide
 
    The dimension of the range to retrieve. 
 
-   **Returns:** The value of the global range in the dimension specified. 
+   **Returns:** dimensionThe dimension of the range to retrieve. The value of the global range in the dimension specified. 
 
 ---
 

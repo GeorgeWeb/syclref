@@ -24,6 +24,6 @@ Fills the data associated with the accessor using the scalar value.
  - `T val`
 : 
 
-**Returns:** Special case of copy from host to device where the origin is a scalar value that will be replicated across the range of the accessor. 
+**Returns:** Special case of copy from host to device where the origin is a scalar value that will be replicated across the range of the accessor. TAccUnderlying type of the data associated with the accessor TUnderlying type of the host scalar dimsNumber of dimensions of the accessor accessModeAccess mode of the accessor accessTargetAccess target of the accessor isPlaceholderWhether the accessor is a placeholder COMPUTECPP_ENABLE_IFThe function is only valid when the access mode includes read access accAccessor with the data that will be filled valScalar used to fill the device data with 
 
 ---

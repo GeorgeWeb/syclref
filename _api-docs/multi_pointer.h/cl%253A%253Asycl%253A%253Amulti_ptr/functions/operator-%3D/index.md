@@ -20,6 +20,6 @@ Decrements the underlying pointer by r.
  - `difference_type r`
 : Number of elements to decrement the underlying pointer by 
 
-**Returns:** This object 
+**Returns:** rNumber of elements to decrement the underlying pointer by This object 
 
 ---

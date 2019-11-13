@@ -26,7 +26,7 @@ classes: wide
 
    of global id to return. Must be in the range [0,2]. 
 
-   **Returns:** the global id for the specified dimension. 
+   **Returns:** dimensionof global id to return. Must be in the range [0,2]. the global id for the specified dimension. 
 
 ---
 
@@ -34,7 +34,7 @@ classes: wide
 
    **Parameters:**
 
-   **Returns:** An 
+   **Returns:** An id object representing the global id for all dimension. 
 
 ---
 

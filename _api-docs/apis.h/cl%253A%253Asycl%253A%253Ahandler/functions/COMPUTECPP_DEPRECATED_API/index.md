@@ -24,6 +24,6 @@ Function that registers a placeholder accessor with the handler and the associat
  - `require `
 : Buffer object 
 
-**Returns:** Defined in Codeplay Extension CP004. Will fail if accessor already associated with storage. 
+**Returns:** Defined in Codeplay Extension CP004. Will fail if accessor already associated with storage. bufBuffer object accPlaceholder accessor DeprecatedBind the null accessor first, then call require()
 
 ---

@@ -20,6 +20,6 @@ enables calling an std::hash object as a function with the object to be hashed a
  - `cl::sycl::stream object`
 : the object to be hashed 
 
-**Returns:** 
+**Returns:** objectthe object to be hashed stdthe std namespace where this specialization resides 
 
 ---

@@ -26,7 +26,7 @@ classes: wide
 
    the dimension of the local range to be returned. 
 
-   **Returns:** the value of the local range in the specified dimension. 
+   **Returns:** dimensionthe dimension of the local range to be returned. the value of the local range in the specified dimension. 
 
 ---
 
@@ -34,7 +34,7 @@ classes: wide
 
    **Parameters:**
 
-   **Returns:** the value of the local range for each dimension of the 
+   **Returns:** the value of the local range for each dimension of the nd_range. 
 
 ---
 

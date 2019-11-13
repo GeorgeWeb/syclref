@@ -4,7 +4,7 @@ classes: wide
 ---
 
 
-Event for asynchronous operations on the device side. Currently implemented as a no-op.
+Event for asynchronous operations on the device side. Currently implemented as a no-op.On device it has to be located in private memory - by default, objects are placed in local memory when created within a parallel_for_work_group invocation. 
 
 Defined in device_event.h
 

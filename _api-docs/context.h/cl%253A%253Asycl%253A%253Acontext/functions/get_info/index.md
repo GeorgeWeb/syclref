@@ -18,6 +18,6 @@ Gets OpenCL information for the underlying cl_context.
 ---
 **Parameters:**
 
-**Returns:** The retrieved information as the appropriate return type, derived via the get_sycl_info function, defined in 
+**Returns:** paramA cl_int specifying the info parameter. The retrieved information as the appropriate return type, derived via the get_sycl_info function, defined in info.h. 
 
 ---

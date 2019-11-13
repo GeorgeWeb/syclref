@@ -4,7 +4,7 @@ classes: wide
 ---
 
 
-multi_ptr, generic pointer class. This class have the same interface as the explicit pointer classes (global_ptr, private_ptr, local_ptr and constant_ptr). The address space where the data point to is defined by the template parameter Space. A cast operator allow the conversion from a 
+multi_ptr, generic pointer class. This class have the same interface as the explicit pointer classes (global_ptr, private_ptr, local_ptr and constant_ptr). The address space where the data point to is defined by the template parameter Space. A cast operator allow the conversion from a multi_ptr object to its equivalent explicit one. dataTypeData type the object manipulates. aspThe address space the pointer class points to. 
 
 Defined in multi_pointer.h
 
@@ -61,7 +61,7 @@ class cl::sycl::multi_ptr
 
   | Name |
 | :--- | :--- |
-| [operator+]({{site.baseurl}}{% link _api-docs/multi_pointer.h/cl%253A%253Asycl%253A%253Amulti_ptr/functions/operator%252B/index.md %}) | Creates a new  that points r forward compared to *this. multi_ptr |
+| [operator+]({{site.baseurl}}{% link _api-docs/multi_pointer.h/cl%253A%253Asycl%253A%253Amulti_ptr/functions/operator%252B/index.md %}) | Creates a new multi_ptr that points r forward compared to *this.  |
 
   | Name |
 | :--- | :--- |
@@ -73,7 +73,7 @@ class cl::sycl::multi_ptr
 
   | Name |
 | :--- | :--- |
-| [operator-]({{site.baseurl}}{% link _api-docs/multi_pointer.h/cl%253A%253Asycl%253A%253Amulti_ptr/functions/operator-/index.md %}) | Creates a new  that points r backward compared to *this. multi_ptr |
+| [operator-]({{site.baseurl}}{% link _api-docs/multi_pointer.h/cl%253A%253Asycl%253A%253Amulti_ptr/functions/operator-/index.md %}) | Creates a new multi_ptr that points r backward compared to *this.  |
 
   | Name |
 | :--- | :--- |

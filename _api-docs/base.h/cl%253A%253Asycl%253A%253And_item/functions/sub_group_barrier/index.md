@@ -20,6 +20,6 @@ Access to subgroup barrier.
  - `access::fence_space accessSpace`
 : 
 
-**Returns:** A barrier or undefined behaviour if (accessSpace != 
+**Returns:** access::fence_spaceA barrier or undefined behaviour if (accessSpace != access::gence_space::global_and_local) 
 
 ---

@@ -20,6 +20,6 @@ Check whether a specific extension is supported on the platform.
  - `string_class extension`
 : A string specifying the extension to check for. 
 
-**Returns:** A boolean specifying whether the extension is supported by the platform. 
+**Returns:** extensionA string specifying the extension to check for. A boolean specifying whether the extension is supported by the platform. 
 
 ---

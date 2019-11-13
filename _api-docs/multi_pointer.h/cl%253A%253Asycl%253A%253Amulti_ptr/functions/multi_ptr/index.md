@@ -75,7 +75,7 @@ cl::sycl::multi_ptr< dataType, asp >::multi_ptr(const multi_ptr< non_const_data_
 
    
 
-   **Returns:** This conversion is defined by the device compiler.
+   **Returns:** This conversion is defined by the device compiler.COMPUTECPP_ENABLE_IFOnly available if the provided pointer is not address space qualified. ptrPointer that is not address space qualified that the class should manipulate This constructor has to be declared in order for the device compiler to deduce address spaces, but it should not be defined because it should never actually be used. 
 
 ---
 
@@ -87,7 +87,7 @@ cl::sycl::multi_ptr< dataType, asp >::multi_ptr(const multi_ptr< non_const_data_
 
    
 
-   **Returns:** 
+   **Returns:** dimensionsAccessor dimensions ModeAccessor mode isPlaceholderWhether the accessor is a placeholder COMPUTECPP_ENABLE_IFThis constructor is only available for access::address_space::global_spaceaccess::address_space::constant_spaceaccess::address_space::local_space. Available only if dataType is const. accAccessor to retrieve the pointer from 
 
 ---
 
@@ -99,11 +99,11 @@ cl::sycl::multi_ptr< dataType, asp >::multi_ptr(const multi_ptr< non_const_data_
 
    
 
-   **Returns:** 
+   **Returns:** dimensionsAccessor dimensions ModeAccessor mode isPlaceholderWhether the accessor is a placeholder COMPUTECPP_ENABLE_IFThis constructor is only available for access::address_space::global_spaceaccess::address_space::constant_spaceaccess::address_space::local_space. It is available regardless of dataType being const or not. accAccessor to retrieve the pointer from 
 
 ---
 
-5. Copy constructor from a const void . multi_ptr
+5. Copy constructor from a const void multi_ptr. 
 
    **Parameters:**
 
@@ -111,11 +111,11 @@ cl::sycl::multi_ptr< dataType, asp >::multi_ptr(const multi_ptr< non_const_data_
 
    
 
-   **Returns:** 
+   **Returns:** COMPUTECPP_ENABLE_IFOnly available when dataType is const rhsconst void multi_ptr
 
 ---
 
-6. Copy constructor from a void . multi_ptr
+6. Copy constructor from a void multi_ptr. 
 
    **Parameters:**
 
@@ -123,11 +123,11 @@ cl::sycl::multi_ptr< dataType, asp >::multi_ptr(const multi_ptr< non_const_data_
 
    void multi_ptr
 
-   **Returns:** 
+   **Returns:** rhsvoid multi_ptr
 
 ---
 
-7. Copy constructor from a non-const . multi_ptr
+7. Copy constructor from a non-const multi_ptr. 
 
    **Parameters:**
 
@@ -135,7 +135,7 @@ cl::sycl::multi_ptr< dataType, asp >::multi_ptr(const multi_ptr< non_const_data_
 
    
 
-   **Returns:** 
+   **Returns:** COMPUTECPP_ENABLE_IFOnly available when dataType is const rhsNon-const multi_ptr
 
 ---
 
@@ -147,7 +147,7 @@ cl::sycl::multi_ptr< dataType, asp >::multi_ptr(const multi_ptr< non_const_data_
 
    Pointer that the class should manipulate. 
 
-   **Returns:** 
+   **Returns:** ptrPointer that the class should manipulate. 
 
 ---
 

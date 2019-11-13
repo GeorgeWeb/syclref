@@ -24,7 +24,7 @@ classes: wide
 
 ---
 
-1. Compute the group . range
+1. Compute the group range. 
 
    **Parameters:**
 
@@ -36,7 +36,7 @@ classes: wide
 
 ---
 
-2. Return the local . range
+2. Return the local range. 
 
    **Parameters:**
 
@@ -48,7 +48,7 @@ classes: wide
 
 ---
 
-3. Return the global . range
+3. Return the global range. 
 
    **Parameters:**
 

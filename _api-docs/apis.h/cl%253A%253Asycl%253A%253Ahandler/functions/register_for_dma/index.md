@@ -30,9 +30,9 @@ void cl::sycl::handler::register_for_dma(accessor< elemT, kDims, kMode, access::
 
   * size_t stride
 
-   DMA transfer stride, in number of elements 
+   Accessor to use in a DMA transfer DMA transfer stride, in number of elements 
 
-   **Returns:** 
+   **Returns:** accAccessor to use in a DMA transfer strideDMA transfer stride, in number of elements 
 
 ---
 
@@ -46,9 +46,9 @@ void cl::sycl::handler::register_for_dma(accessor< elemT, kDims, kMode, access::
 
   * size_t stride
 
-   DMA transfer stride, in number of elements 
+   Accessor to use in a DMA transfer DMA transfer stride, in number of elements 
 
-   **Returns:** 
+   **Returns:** accAccessor to use in a DMA transfer strideDMA transfer stride, in number of elements 
 
 ---
 

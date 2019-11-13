@@ -11,7 +11,7 @@ multi_ptr cl::sycl::multi_ptr< dataType, asp >::operator+(difference_type r) con
 ```
 
 
-Creates a new  that points r forward compared to *this. multi_ptr
+Creates a new multi_ptr that points r forward compared to *this. 
 
 
 ---
@@ -20,6 +20,6 @@ Creates a new  that points r forward compared to *this. multi_ptr
  - `difference_type r`
 : Number of elements to increment the underlying pointer by 
 
-**Returns:** New 
+**Returns:** rNumber of elements to increment the underlying pointer by New multi_ptr object with the pointer advanced by r 
 
 ---

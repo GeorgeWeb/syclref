@@ -11,7 +11,7 @@ range<dimensions> cl::sycl::nd_range< dimensions >::get_global_range() const
 ```
 
 
-Return the global . range
+Return the global range. 
 
 
 ---

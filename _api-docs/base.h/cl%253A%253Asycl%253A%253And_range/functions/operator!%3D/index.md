@@ -25,6 +25,6 @@ Non-equality operator.
 
 
 ---
-**Returns:** True if at least one member variable not the same as the corresponding rhs member variable 
+**Returns:** rhsObject to compare to True if at least one member variable not the same as the corresponding rhs member variable 
 
 ---

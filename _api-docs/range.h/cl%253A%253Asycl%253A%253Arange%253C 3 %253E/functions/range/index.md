@@ -34,13 +34,13 @@ classes: wide
 
   * size_t dim2
 
-   The size of the second dimension. 
+   The size of the first dimension. The size of the second dimension. 
 
   * size_t dim3
 
-   The size of the third dimension. 
+   The size of the first dimension. The size of the second dimension. The size of the third dimension. 
 
-   **Returns:** 
+   **Returns:** dim1The size of the first dimension. dim2The size of the second dimension. dim3The size of the third dimension. 
 
 ---
 
@@ -52,7 +52,7 @@ classes: wide
 
    The range to copy 
 
-   **Returns:** 
+   **Returns:** rhsThe range to copy 
 
 ---
 

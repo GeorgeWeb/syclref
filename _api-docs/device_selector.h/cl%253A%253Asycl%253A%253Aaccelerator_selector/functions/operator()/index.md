@@ -20,6 +20,6 @@ Overload that scores accelerators positive if they have SPIR support.
  - `device device`
 : The device that is to be scored 
 
-**Returns:** Fails if an accelerator cannot be found. 
+**Returns:** Fails if an accelerator cannot be found. deviceThe device that is to be scored an integer representing the allocated score for the device 
 
 ---

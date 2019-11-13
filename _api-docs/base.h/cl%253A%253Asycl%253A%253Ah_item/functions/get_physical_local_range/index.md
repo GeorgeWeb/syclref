@@ -26,7 +26,7 @@ classes: wide
 
    Which value of the range to retrieve 
 
-   **Returns:** Element of the physical local range 
+   **Returns:** dimensionWhich value of the range to retrieve Element of the physical local range 
 
 ---
 

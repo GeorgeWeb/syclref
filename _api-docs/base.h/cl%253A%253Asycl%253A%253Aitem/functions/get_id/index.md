@@ -22,7 +22,7 @@ classes: wide
 
    **Parameters:**
 
-   **Returns:** The global 
+   **Returns:** The global id if the item is provided by a handler::parallel_for. The local id if the item is provided by a parallel_for_work_item. 
 
 ---
 
@@ -34,7 +34,7 @@ classes: wide
 
    of the id, in the range [0,2] 
 
-   **Returns:** the id for the specified dimension. 
+   **Returns:** dimensionof the id, in the range [0,2] the id for the specified dimension. 
 
 ---
 

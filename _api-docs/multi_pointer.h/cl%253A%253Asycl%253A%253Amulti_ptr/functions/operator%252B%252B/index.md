@@ -18,7 +18,7 @@ classes: wide
 
 ---
 
-1. Increments the underlying pointer by 1 and returns a new  with the value of the previous pointer. multi_ptr
+1. Increments the underlying pointer by 1 and returns a new multi_ptr with the value of the previous pointer. 
 
    **Parameters:**
 
@@ -26,7 +26,7 @@ classes: wide
 
    
 
-   **Returns:** New 
+   **Returns:** New multi_ptr object with the old pointer value 
 
 ---
 

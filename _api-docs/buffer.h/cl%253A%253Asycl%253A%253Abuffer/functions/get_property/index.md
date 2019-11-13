@@ -18,6 +18,6 @@ Returns a copy of the property of type propertyT that this SYCL buffer was const
 ---
 **Parameters:**
 
-**Returns:** Copy of the property 
+**Returns:** propertyTProperty to retrieve Copy of the property 
 
 ---

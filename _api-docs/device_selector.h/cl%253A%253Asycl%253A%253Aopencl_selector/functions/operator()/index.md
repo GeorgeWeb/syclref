@@ -20,6 +20,6 @@ Overload that scores both CPUs and GPUs positive if they have SPIR support, GPUs
  - `device device`
 : The device that is to be scored. 
 
-**Returns:** Will fail if no CPU or GPU is found. 
+**Returns:** Will fail if no CPU or GPU is found. deviceThe device that is to be scored. An integer representing the allocated score for the device. 
 
 ---

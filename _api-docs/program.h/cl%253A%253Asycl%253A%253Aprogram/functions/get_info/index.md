@@ -18,6 +18,6 @@ Retrieves information about the program. The runtime query the OpenCL API and th
 ---
 **Parameters:**
 
-**Returns:** The information in the SYCL format. 
+**Returns:** paramInformation to retrieve. The information in the SYCL format. 
 
 ---

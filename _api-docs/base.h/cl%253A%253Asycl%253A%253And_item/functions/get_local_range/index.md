@@ -26,11 +26,11 @@ classes: wide
 
    of the local range to be returned. Must be in the range [0,2]. 
 
-   **Returns:** the value of the local range for the specified dimension. 
+   **Returns:** dimensionof the local range to be returned. Must be in the range [0,2]. the value of the local range for the specified dimension. 
 
 ---
 
-2. Get the local range of the enqueued . nd_range
+2. Get the local range of the enqueued nd_range. 
 
    **Parameters:**
 

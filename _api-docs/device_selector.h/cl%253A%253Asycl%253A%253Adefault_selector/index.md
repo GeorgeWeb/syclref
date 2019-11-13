@@ -20,7 +20,7 @@ class cl::sycl::default_selector
 
   | Name |
 | :--- | :--- |
-| [default\_selector]({{site.baseurl}}{% link _api-docs/device_selector.h/cl%253A%253Asycl%253A%253Adefault_selector/functions/default_selector/index.md %}) | Constructs a . default_selector |
+| [default\_selector]({{site.baseurl}}{% link _api-docs/device_selector.h/cl%253A%253Asycl%253A%253Adefault_selector/functions/default_selector/index.md %}) | Constructs a default_selector.  |
 
   | Name |
 | :--- | :--- |

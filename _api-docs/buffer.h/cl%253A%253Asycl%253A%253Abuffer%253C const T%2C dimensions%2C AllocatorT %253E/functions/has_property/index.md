@@ -18,6 +18,6 @@ Returns whether this SYCL buffer was constructed with the property specified by 
 ---
 **Parameters:**
 
-**Returns:** True if buffer constructed with the property 
+**Returns:** propertyTProperty to check for True if buffer constructed with the property 
 
 ---

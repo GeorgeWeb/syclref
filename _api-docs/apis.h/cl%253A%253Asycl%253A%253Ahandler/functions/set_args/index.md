@@ -12,7 +12,7 @@ void cl::sycl::handler::set_args(Ts &&... args)
 ```
 
 
-Set all the given kernel args arguments for an OpenCL kernel, as if  was used with each of them in the same order and increasing index always starting at 0. set_arg()
+Set all the given kernel args arguments for an OpenCL kernel, as if set_arg() was used with each of them in the same order and increasing index always starting at 0. 
 
 
 ---
@@ -21,6 +21,6 @@ Set all the given kernel args arguments for an OpenCL kernel, as if  was used wi
  - `Ts &&... args`
 : 
 
-**Returns:** 
+**Returns:** TsTypes of the parameters passed to the OpenCL kernel argsParameters passed to the OpenCL kernel 
 
 ---

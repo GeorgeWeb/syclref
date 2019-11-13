@@ -27,7 +27,7 @@ bool cl::sycl::program::has_kernel() const
 
    
 
-   **Returns:** True if the OpenCL C kernel function defined by kernelName is an available kernel within the encapsulated cl_program and this SYCL program is not a host program, otherwise false. 
+   **Returns:** kernelTTypename specifying the name of the kernel to be returned. True if the OpenCL C kernel function defined by kernelName is an available kernel within the encapsulated cl_program and this SYCL program is not a host program, otherwise false. 
 
 ---
 
@@ -35,7 +35,7 @@ bool cl::sycl::program::has_kernel() const
 
    **Parameters:**
 
-   **Returns:** True if the SYCL kernel function defined by the type kernelT is an available kernel, either within the encapsulated cl_program (if this SYCL program is an OpenCL program), or on the host, otherwise false. 
+   **Returns:** kernelTTypename specifying the name of the kernel to be returned. True if the SYCL kernel function defined by the type kernelT is an available kernel, either within the encapsulated cl_program (if this SYCL program is an OpenCL program), or on the host, otherwise false. 
 
 ---
 

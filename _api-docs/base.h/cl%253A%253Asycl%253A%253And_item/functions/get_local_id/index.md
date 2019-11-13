@@ -26,7 +26,7 @@ classes: wide
 
    of local id to return. Must be in the range [0,2]. 
 
-   **Returns:** the local id for the specified dimension. 
+   **Returns:** dimensionof local id to return. Must be in the range [0,2]. the local id for the specified dimension. 
 
 ---
 
@@ -34,7 +34,7 @@ classes: wide
 
    **Parameters:**
 
-   **Returns:** An 
+   **Returns:** An id object representing the local id for all dimension. 
 
 ---
 

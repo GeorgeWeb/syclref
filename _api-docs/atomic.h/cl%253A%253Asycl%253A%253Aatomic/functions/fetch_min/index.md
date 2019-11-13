@@ -21,8 +21,8 @@ Atomically compare operand to *m_data, storing the smaller of the two in *m_data
 : the value to compare to *m_data. 
 
  - `memory_order mem_order`
-: the ordering to use. Can only be memory_order_relaxed. 
+: the value to compare to *m_data. the ordering to use. Can only be memory_order_relaxed. 
 
-**Returns:** the old value of *m_data. 
+**Returns:** operandthe value to compare to *m_data. mem_orderthe ordering to use. Can only be memory_order_relaxed. the old value of *m_data. 
 
 ---

@@ -35,7 +35,7 @@ vector_class<device> cl::sycl::device::create_sub_devices(info::partition_affini
 
    
 
-   **Returns:** Vector of sub devices. 
+   **Returns:** propMust be info::partition_property::partition_equally. nbSubDevDesired number of sub devices. Vector of sub devices. 
 
 ---
 
@@ -47,7 +47,7 @@ vector_class<device> cl::sycl::device::create_sub_devices(info::partition_affini
 
    
 
-   **Returns:** Vector of sub devices. The number of sub devices created is the same as the number of sizes passed. 
+   **Returns:** propMust be info::partition_property::partition_by_counts. countsA vector of sizes for the resulting sub devices. Vector of sub devices. The number of sub devices created is the same as the number of sizes passed. 
 
 ---
 
@@ -59,7 +59,7 @@ vector_class<device> cl::sycl::device::create_sub_devices(info::partition_affini
 
    
 
-   **Returns:** Vector of sub devices. 
+   **Returns:** propMust be info::partition_property::partition_by_affinity_domain. affinityDomainAffinity domain used for the partitioning. Vector of sub devices. 
 
 ---
 

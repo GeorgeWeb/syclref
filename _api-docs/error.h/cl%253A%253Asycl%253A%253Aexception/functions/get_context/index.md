@@ -17,6 +17,6 @@ Returns the SYCL context that is associated with this SYCL exception.
 ---
 **Parameters:**
 
-**Returns:** If no context is associated with this exception, it throws a new exception.
+**Returns:** If no context is associated with this exception, it throws a new exception.Context that is associated with this exception 
 
 ---

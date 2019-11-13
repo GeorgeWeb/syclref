@@ -18,6 +18,6 @@ Gets OpenCL information for the queue.
 ---
 **Parameters:**
 
-**Returns:** The retrieved information as the appropriate return type 
+**Returns:** paramA info::queue descriptor specifying the information to retrieve. The retrieved information as the appropriate return type 
 
 ---

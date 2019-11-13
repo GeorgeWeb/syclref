@@ -52,7 +52,7 @@ classes: wide
 
    will have its contents moved. after the operation rhs will be invalid. 
 
-   **Returns:** 
+   **Returns:** rhswill have its contents moved. after the operation rhs will be invalid. 
 
 ---
 
@@ -78,9 +78,9 @@ classes: wide
 
   * context syclContext
 
-   associated with the OpenCL event 
+   OpenCL event we are constructing the SYCL object from associated with the OpenCL event 
 
-   **Returns:** 
+   **Returns:** TheOpenCL event we are constructing the SYCL object from Contextassociated with the OpenCL event 
 
 ---
 
@@ -92,7 +92,7 @@ classes: wide
 
    OpenCL event we are constructing the SYCL object from 
 
-   **Returns:** 
+   **Returns:** TheOpenCL event we are constructing the SYCL object from DeprecatedNeed to provide a context as well 
 
 ---
 

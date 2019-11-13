@@ -20,6 +20,6 @@ get value for a specific dimension
  - `unsigned int dimension`
 : 
 
-**Returns:** index in dimension 
+**Returns:** dimensionindex in dimension 
 
 ---

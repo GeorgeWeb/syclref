@@ -50,7 +50,7 @@ classes: wide
 
    
 
-   **Returns:** An 
+   **Returns:** An id object representing the local id for all dimension. 
 
 ---
 
@@ -62,11 +62,11 @@ classes: wide
 
    of local id to return. Must be in the range [0,2]. 
 
-   **Returns:** the local id for the specified dimension. 
+   **Returns:** dimensionof local id to return. Must be in the range [0,2]. the local id for the specified dimension. 
 
 ---
 
-3. Returns the group range of the enqueued . nd_range
+3. Returns the group range of the enqueued nd_range. 
 
    **Parameters:**
 
@@ -86,11 +86,11 @@ classes: wide
 
    
 
-   **Returns:** An 
+   **Returns:** An id object representing the global id for all dimension. 
 
 ---
 
-5. Returns the group range of the enqueued  for a specific dimension. nd_range
+5. Returns the group range of the enqueued nd_range for a specific dimension. 
 
    **Parameters:**
 
@@ -98,7 +98,7 @@ classes: wide
 
    of the range to be returned. Must be in the range [0,2] 
 
-   **Returns:** the value of the group range for all dimensions. 
+   **Returns:** dimensionof the range to be returned. Must be in the range [0,2] the value of the group range for all dimensions. 
 
 ---
 
@@ -110,7 +110,7 @@ classes: wide
 
    of global id to return. Must be in the range [0,2]. 
 
-   **Returns:** the global id for the specified dimension. 
+   **Returns:** dimensionof global id to return. Must be in the range [0,2]. the global id for the specified dimension. 
 
 ---
 

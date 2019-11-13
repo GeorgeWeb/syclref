@@ -26,7 +26,7 @@ classes: wide
 
    Which value of the range to retrieve 
 
-   **Returns:** Element of the global range 
+   **Returns:** dimensionWhich value of the range to retrieve Element of the global range 
 
 ---
 

@@ -58,9 +58,9 @@ classes: wide
 
   * context syclContext
 
-   Context associated with the OpenCL sampler object 
+   OpenCL cl_sampler object Context associated with the OpenCL sampler object 
 
-   **Returns:** 
+   **Returns:** clSamplerOpenCL cl_sampler object syclContextContext associated with the OpenCL sampler object 
 
 ---
 

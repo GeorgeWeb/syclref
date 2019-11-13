@@ -21,10 +21,10 @@ Determines if lhs and rhs are not equal.
 : Left-hand-side object in comparison 
 
  - `image rhs`
-: Right-hand-side object in comparison 
+: Left-hand-side object in comparison Right-hand-side object in comparison 
 
 
 ---
-**Returns:** True if different underlying objects 
+**Returns:** lhsLeft-hand-side object in comparison rhsRight-hand-side object in comparison True if different underlying objects 
 
 ---

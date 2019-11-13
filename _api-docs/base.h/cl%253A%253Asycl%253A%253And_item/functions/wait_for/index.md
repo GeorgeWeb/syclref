@@ -12,7 +12,7 @@ void cl::sycl::nd_item< dimensions >::wait_for(eventTN... events) const
 ```
 
 
-Waits on each given . device_event
+Waits on each given device_event. 
 
 
 ---
@@ -21,6 +21,6 @@ Waits on each given . device_event
  - `eventTN... events`
 : 
 
-**Returns:** 
+**Returns:** eventTNPack of device_event types eventsPack of device_events 
 
 ---

@@ -21,8 +21,8 @@ Creates and builds a program from OpenCL C kernel source and optional build opti
 : Source of the OpenCL kernel. 
 
  - `string_class buildOptions`
-: The string specifying the build options to provide to the underlying OpenCL API. 
+: Source of the OpenCL kernel. The string specifying the build options to provide to the underlying OpenCL API. 
 
-**Returns:** 
+**Returns:** kernelSourceSource of the OpenCL kernel. buildOptionsThe string specifying the build options to provide to the underlying OpenCL API. 
 
 ---

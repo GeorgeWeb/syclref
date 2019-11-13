@@ -26,7 +26,7 @@ classes: wide
 
    List of events to wait 
 
-   **Returns:** 
+   **Returns:** eventListList of events to wait 
 
 ---
 

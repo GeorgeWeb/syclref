@@ -74,27 +74,27 @@ classes: wide
 
    
 
-   **Returns:** 
+   **Returns:** Anoptional async_handler for the context 
 
 ---
 
-2. Constructs a context object using a  object. device_selector
+2. Constructs a context object using a device_selector object. 
 
    **Parameters:**
 
   * device_selector deviceSelector
 
-   A reference to a  object. device_selector
+   A reference to a device_selector object. 
 
   * info::gl_context_interop interopFlag
 
-   Specify whether to use the context for OpenGL interop. 
+   A reference to a device_selector object. Specify whether to use the context for OpenGL interop. 
 
   * async_handler asyncHandler
 
-   An optional parameter to specify the async_handler associated with the context. 
+   A reference to a device_selector object. Specify whether to use the context for OpenGL interop. An optional parameter to specify the async_handler associated with the context. 
 
-   **Returns:** The context is constructed with a single device retrieved from the  object provided. device_selector
+   **Returns:** The context is constructed with a single device retrieved from the device_selector object provided. deviceSelectorA reference to a device_selector object. interopFlagSpecify whether to use the context for OpenGL interop. asyncHandlerAn optional parameter to specify the async_handler associated with the context. DeprecatedOpenGL interop no longer supported in SYCL 1.2.1 
 
 ---
 
@@ -108,9 +108,9 @@ classes: wide
 
   * async_handler asyncHandler
 
-   An optional parameter to specify the async_handler associated with the context. 
+   A reference to a device object. An optional parameter to specify the async_handler associated with the context. 
 
-   **Returns:** The context is constructed with the device object provided. 
+   **Returns:** The context is constructed with the device object provided. deviceA reference to a device object. asyncHandlerAn optional parameter to specify the async_handler associated with the context. 
 
 ---
 
@@ -124,9 +124,9 @@ classes: wide
 
   * async_handler asyncHandler
 
-   An optional parameter to specify the async_handler associated with the context. 
+   A reference to a platform object. An optional parameter to specify the async_handler associated with the context. 
 
-   **Returns:** The context is constructed with all the devices available under the platform object provided. 
+   **Returns:** The context is constructed with all the devices available under the platform object provided. platformA reference to a platform object. asyncHandlerAn optional parameter to specify the async_handler associated with the context. 
 
 ---
 
@@ -140,9 +140,9 @@ classes: wide
 
   * async_handler asyncHandler
 
-   An optional parameter to specify the async_handler associated with the context. 
+   A vector_class of device objects. An optional parameter to specify the async_handler associated with the context. 
 
-   **Returns:** The context is constructed with the devices provided. 
+   **Returns:** The context is constructed with the devices provided. deviceListA vector_class of device objects. asyncHandlerAn optional parameter to specify the async_handler associated with the context. 
 
 ---
 
@@ -206,7 +206,7 @@ classes: wide
 
    
 
-   **Returns:** 
+   **Returns:** contextA cl_context object. Anoptional async_handler for the context 
 
 ---
 

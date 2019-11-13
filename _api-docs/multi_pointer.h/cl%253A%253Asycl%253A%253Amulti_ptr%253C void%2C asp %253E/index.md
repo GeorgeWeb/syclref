@@ -4,7 +4,7 @@ classes: wide
 ---
 
 
-Generic pointer class, specialization for void. 
+Generic pointer class, specialization for void. aspThe address space the pointer class points to. 
 
 Defined in multi_pointer.h
 

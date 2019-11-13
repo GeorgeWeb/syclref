@@ -21,8 +21,8 @@ Inline function call operator that streams part of the vec to a stream object. T
 : A reference to the stream object. 
 
  - `vec rhs`
-: A reference to the vec object. 
+: A reference to the stream object. A reference to the vec object. 
 
-**Returns:** A reference to the stream object. 
+**Returns:** osA reference to the stream object. rhsA reference to the vec object. A reference to the stream object. 
 
 ---

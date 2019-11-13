@@ -28,7 +28,7 @@ class cl::sycl::device_selector
 
   | Name |
 | :--- | :--- |
-| [select\_device]({{site.baseurl}}{% link _api-docs/device_selector.h/cl%253A%253Asycl%253A%253Adevice_selector/functions/select_device/index.md %}) | Performs a platform and device selection and returns a pointer to the resulting  object. cl::sycl::device |
+| [select\_device]({{site.baseurl}}{% link _api-docs/device_selector.h/cl%253A%253Asycl%253A%253Adevice_selector/functions/select_device/index.md %}) | Performs a platform and device selection and returns a pointer to the resulting cl::sycl::device object.  |
 
   | Name |
 | :--- | :--- |

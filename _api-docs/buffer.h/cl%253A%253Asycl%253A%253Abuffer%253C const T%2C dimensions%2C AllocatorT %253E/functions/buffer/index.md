@@ -56,9 +56,9 @@ classes: wide
 
   * property_list propList
 
-   Range of the buffer 
+   Pointer to host data Range of the buffer 
 
-   **Returns:** 
+   **Returns:** hostPointerPointer to host data rRange of the buffer propListList of buffer properties 
 
 ---
 
@@ -96,13 +96,13 @@ classes: wide
 
   * AllocatorT allocator
 
-   Range of the buffer 
+   Shared pointer to host data Range of the buffer 
 
   * property_list propList
 
-   Range of the buffer 
+   Shared pointer to host data Range of the buffer 
 
-   **Returns:** 
+   **Returns:** hostPointerShared pointer to host data rRange of the buffer allocatorThe allocator used to create internal storage propListList of buffer properties 
 
 ---
 
@@ -120,9 +120,9 @@ classes: wide
 
   * property_list propList
 
-   Range of the buffer 
+   Shared pointer to host data Range of the buffer 
 
-   **Returns:** 
+   **Returns:** hostPointerShared pointer to host data rRange of the buffer propListList of buffer properties 
 
 ---
 
@@ -140,13 +140,13 @@ classes: wide
 
   * AllocatorT allocator
 
-   Range of the buffer 
+   Pointer to host data Range of the buffer 
 
   * property_list propList
 
-   Range of the buffer 
+   Pointer to host data Range of the buffer 
 
-   **Returns:** 
+   **Returns:** hostPointerPointer to host data rRange of the buffer allocatorThe allocator used to create internal storage propListList of buffer properties 
 
 ---
 

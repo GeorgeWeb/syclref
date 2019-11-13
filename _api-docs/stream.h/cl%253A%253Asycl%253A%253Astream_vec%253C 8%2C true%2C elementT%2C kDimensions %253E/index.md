@@ -4,7 +4,7 @@ classes: wide
 ---
 
 
-Specialization of stream_vec for kVecPart = 8 and kEnabled = true. 
+Specialization of stream_vec for kVecPart = 8 and kEnabled = true. stream_vec. elementTThe element type of the vec. kDimensionsThe number of dimensions of the vec. 
 
 Defined in stream.h
 

@@ -20,6 +20,6 @@ operator&&(half)
  - `half rhs`
 : The rhs half. 
 
-**Returns:** Applies && to this half and another half. 
+**Returns:** Applies && to this half and another half. rhsThe rhs half. The result of the && operation. 
 
 ---

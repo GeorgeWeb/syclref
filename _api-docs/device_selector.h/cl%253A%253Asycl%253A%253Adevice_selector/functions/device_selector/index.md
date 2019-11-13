@@ -18,7 +18,7 @@ classes: wide
 
 ---
 
-1. Constructs a  from another device_selector
+1. Constructs a device_selector from another device_selector. 
 
    **Parameters:**
 
@@ -30,7 +30,7 @@ classes: wide
 
 ---
 
-2. Constructs a . device_selector
+2. Constructs a device_selector. 
 
    **Parameters:**
 

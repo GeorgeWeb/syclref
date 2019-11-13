@@ -57,7 +57,7 @@ cl::sycl::nd_item< dimensions >::nd_item(const nd_item< dimensions2 > &rhs)
 
    
 
-   **Returns:** copies the given  with the same dimentionality. If the dimensionality is different, a compiler error is produced. nd_item
+   **Returns:** copies the given nd_item with the same dimentionality. If the dimensionality is different, a compiler error is produced. 
 
 ---
 

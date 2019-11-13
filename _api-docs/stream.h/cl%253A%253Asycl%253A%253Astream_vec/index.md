@@ -4,7 +4,7 @@ classes: wide
 ---
 
 
-Template struct that contains a function call operator that streams a vec object to a stream object. Class is specialized for each combination of kVecPart specifying the part of a vector to stream and kEnabled specifying whether it streamed or not. This is the default template that does nothing. 
+Template struct that contains a function call operator that streams a vec object to a stream object. Class is specialized for each combination of kVecPart specifying the part of a vector to stream and kEnabled specifying whether it streamed or not. This is the default template that does nothing. kVecPartThe part of the vec to be streamed. kEnabledA boolean specifying whether that part of the vec is streamed. elementTThe element type of the vec. kDimensionsThe number of dimensions of the vec. 
 
 Defined in stream.h
 

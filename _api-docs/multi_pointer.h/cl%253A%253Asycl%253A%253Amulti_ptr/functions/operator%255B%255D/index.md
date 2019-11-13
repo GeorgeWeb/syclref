@@ -26,7 +26,7 @@ classes: wide
 
    Index. 
 
-   **Returns:** Reference to the i-th element the object points to. 
+   **Returns:** iIndex. Reference to the i-th element the object points to. DeprecatedUse operator* or operator-> instead 
 
 ---
 
@@ -38,7 +38,7 @@ classes: wide
 
    Index. 
 
-   **Returns:** Const reference to the i-th element the object points to. 
+   **Returns:** iIndex. Const reference to the i-th element the object points to. DeprecatedUse operator* or operator-> instead 
 
 ---
 

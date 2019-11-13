@@ -18,6 +18,6 @@ Get the invocation offset.
 ---
 **Parameters:**
 
-**Returns:** the offset used to invoke the kernel. 
+**Returns:** COMPUTECPP_ENABLE_IFOnly available if with_offset is true the offset used to invoke the kernel. 
 
 ---

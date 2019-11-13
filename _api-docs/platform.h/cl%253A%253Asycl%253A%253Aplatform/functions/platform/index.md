@@ -56,7 +56,7 @@ classes: wide
 
    User device selector 
 
-   **Returns:** 
+   **Returns:** deviceSelectorUser device selector 
 
 ---
 
@@ -68,7 +68,7 @@ classes: wide
 
    The platform object to copy 
 
-   **Returns:** Constructs a platform object from another platform object. 
+   **Returns:** Constructs a platform object from another platform object. rhsThe platform object to copy 
 
 ---
 
@@ -80,7 +80,7 @@ classes: wide
 
    The cl_platform_id object constructed using the OpenCL API. 
 
-   **Returns:** 
+   **Returns:** platformIDThe cl_platform_id object constructed using the OpenCL API. 
 
 ---
 

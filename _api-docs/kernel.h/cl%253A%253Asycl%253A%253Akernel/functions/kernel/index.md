@@ -40,9 +40,9 @@ classes: wide
 
   * context syclContext
 
-   Context associated with the OpenCL kernel object 
+   Kernel object created by an OpenCL runtime Context associated with the OpenCL kernel object 
 
-   **Returns:** 
+   **Returns:** clKernelKernel object created by an OpenCL runtime syclContextContext associated with the OpenCL kernel object 
 
 ---
 
@@ -54,7 +54,7 @@ classes: wide
 
    an OpenCL kernel created using the OpenCL API. 
 
-   **Returns:** 
+   **Returns:** clKernelan OpenCL kernel created using the OpenCL API. DeprecatedProvide a context as the second argument 
 
 ---
 

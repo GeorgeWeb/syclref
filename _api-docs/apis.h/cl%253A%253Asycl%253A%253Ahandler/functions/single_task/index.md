@@ -34,7 +34,7 @@ void cl::sycl::handler::single_task(kernel syclKernel, const functorT &functor)
 
    The precompiled kernel to be enqueued 
 
-   **Returns:** 
+   **Returns:** syclKernelThe precompiled kernel to be enqueued 
 
 ---
 
@@ -46,7 +46,7 @@ void cl::sycl::handler::single_task(kernel syclKernel, const functorT &functor)
 
    
 
-   **Returns:** 
+   **Returns:** nameTThe name of the kernel being enqueued functorTThis is the type of the kernel. It will be automatically deduced by the compiler functorThe kernel being enqueued 
 
 ---
 
@@ -62,7 +62,7 @@ void cl::sycl::handler::single_task(kernel syclKernel, const functorT &functor)
 
    
 
-   **Returns:** 
+   **Returns:** nameTThe name of the kernel being enqueued syclKernelThe precompiled kernel to be enqueued functorTThis is the type of the kernel. It will be automatically deduced by the compiler functorThe kernel being enqueued 
 
 ---
 

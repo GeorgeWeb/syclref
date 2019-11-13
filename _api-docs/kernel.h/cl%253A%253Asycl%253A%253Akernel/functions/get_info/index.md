@@ -18,6 +18,6 @@ Query information about the kernel.
 ---
 **Parameters:**
 
-**Returns:** The kernel information requested with param. 
+**Returns:** paramThe kernel information descriptor The kernel information requested with param. 
 
 ---

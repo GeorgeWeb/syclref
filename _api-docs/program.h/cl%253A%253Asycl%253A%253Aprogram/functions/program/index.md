@@ -54,7 +54,7 @@ classes: wide
 
    A list of devices that the program will be associated with. 
 
-   **Returns:** 
+   **Returns:** deviceListA list of devices that the program will be associated with. 
 
 ---
 
@@ -68,13 +68,13 @@ classes: wide
 
   * cl_program clProgram
 
-   The cl_program that the program will be assigned to. 
+   A reference to the context that the cl_program will be associated with. The cl_program that the program will be assigned to. 
 
-   **Returns:** 
+   **Returns:** contextA reference to the context that the cl_program will be associated with. clProgramThe cl_program that the program will be assigned to. 
 
 ---
 
-3. Linker constructor that takes a list of programs and a string specifying link options. Note that calling this constructor is invalid if the cl_program has already been successfully built or linked via either , link(string_class)
+3. Linker constructor that takes a list of programs and a string specifying link options. Note that calling this constructor is invalid if the cl_program has already been successfully built or linked via either link(string_class), build_with_kernel_type(string_class) or program(vector_class<program>, string_class). 
 
    **Parameters:**
 
@@ -86,7 +86,7 @@ classes: wide
 
    
 
-   **Returns:** 
+   **Returns:** Thisconstructor can throw a cl::sycl::exceptionprogramListThe list programs that the cl_program will be constructed from. linkOptionsThe string specifying the link options the cl_program will be linked with. 
 
 ---
 
@@ -98,7 +98,7 @@ classes: wide
 
    The program being copied from. 
 
-   **Returns:** 
+   **Returns:** rhsThe program being copied from. 
 
 ---
 
@@ -110,7 +110,7 @@ classes: wide
 
    The program being copied from. 
 
-   **Returns:** 
+   **Returns:** rhsThe program being copied from. 
 
 ---
 
@@ -122,7 +122,7 @@ classes: wide
 
    A reference to the context that the cl_program will be associated with. 
 
-   **Returns:** 
+   **Returns:** contextA reference to the context that the cl_program will be associated with. 
 
 ---
 

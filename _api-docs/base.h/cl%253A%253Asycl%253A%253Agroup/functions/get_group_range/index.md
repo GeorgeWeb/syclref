@@ -26,7 +26,7 @@ classes: wide
 
    the dimension of the group range to be returned. 
 
-   **Returns:** the value of the group range in the specified dimension. 
+   **Returns:** dimensionthe dimension of the group range to be returned. the value of the group range in the specified dimension. 
 
 ---
 
@@ -34,7 +34,7 @@ classes: wide
 
    **Parameters:**
 
-   **Returns:** the group range for all dimensions 
+   **Returns:** the group range for all dimensions the value of the group range for each dimension of the group. 
 
 ---
 

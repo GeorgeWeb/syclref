@@ -11,7 +11,7 @@ cl::sycl::property::buffer::context_bound::context_bound(const context &boundCon
 ```
 
 
-Constructs a SYCL  property instance with a copy of a SYCL context. context_bound
+Constructs a SYCL context_bound property instance with a copy of a SYCL context. 
 
 
 ---
@@ -20,6 +20,6 @@ Constructs a SYCL  property instance with a copy of a SYCL context. context_boun
  - `context boundContext`
 : Context to be bound to the buffer. 
 
-**Returns:** 
+**Returns:** boundContextContext to be bound to the buffer. 
 
 ---

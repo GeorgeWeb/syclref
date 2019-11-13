@@ -21,6 +21,6 @@ Function that registers a placeholder accessor with the handler.
  - `accessor acc`
 : Placeholder accessor 
 
-**Returns:** Defined in Codeplay Extension CP004. 
+**Returns:** Defined in Codeplay Extension CP004. accPlaceholder accessor 
 
 ---

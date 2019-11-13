@@ -23,6 +23,6 @@ Construct a buffer from an OpenCL object.
  - `a `
 : the user-provided OpenCL object that will be used by the buffer 
 
-**Returns:** 
+**Returns:** mem_objectthe user-provided OpenCL object that will be used by the buffer fromQueuethe queue holding the context associated with the mem_object object available_eventif provided signals that the cl_mem object has been created and is ready to be used 
 
 ---

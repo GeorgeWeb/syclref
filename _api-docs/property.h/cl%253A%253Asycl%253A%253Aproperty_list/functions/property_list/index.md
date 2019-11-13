@@ -31,7 +31,7 @@ cl::sycl::property_list::property_list(propertyTN &&... props)
 
 ---
 
-2. Construct a SYCL  with zero or more properties. property_list
+2. Construct a SYCL property_list with zero or more properties. 
 
    **Parameters:**
 
@@ -39,7 +39,7 @@ cl::sycl::property_list::property_list(propertyTN &&... props)
 
    
 
-   **Returns:** 
+   **Returns:** propertyTNTypes of properties COMPUTECPP_ENABLE_IFThis ensures the constructor only accepts valid property types. propsValues of properties 
 
 ---
 

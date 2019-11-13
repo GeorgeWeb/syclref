@@ -11,7 +11,7 @@ range<dimensions> cl::sycl::nd_range< dimensions >::get_group_range() const
 ```
 
 
-Compute the group . range
+Compute the group range. 
 
 
 ---

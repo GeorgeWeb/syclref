@@ -25,15 +25,15 @@ class cl::sycl::nd_range
 
   | Name |
 | :--- | :--- |
-| [get\_global\_range]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253And_range/functions/get_global_range/index.md %}) | Return the global . range |
+| [get\_global\_range]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253And_range/functions/get_global_range/index.md %}) | Return the global range.  |
 
   | Name |
 | :--- | :--- |
-| [get\_group\_range]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253And_range/functions/get_group_range/index.md %}) | Compute the group . range |
+| [get\_group\_range]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253And_range/functions/get_group_range/index.md %}) | Compute the group range.  |
 
   | Name |
 | :--- | :--- |
-| [get\_local\_range]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253And_range/functions/get_local_range/index.md %}) | Return the local . range |
+| [get\_local\_range]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253And_range/functions/get_local_range/index.md %}) | Return the local range.  |
 
   | Name |
 | :--- | :--- |

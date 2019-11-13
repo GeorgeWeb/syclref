@@ -20,6 +20,6 @@ Specifies whether a specific extension is supported on the device.
  - `string_class extension`
 : A string specifying the extension to check for. 
 
-**Returns:** A boolean specifying whether the extension is supported. 
+**Returns:** extensionA string specifying the extension to check for. A boolean specifying whether the extension is supported. 
 
 ---

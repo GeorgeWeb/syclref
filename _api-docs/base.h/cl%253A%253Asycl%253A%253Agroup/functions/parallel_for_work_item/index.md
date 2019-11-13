@@ -32,7 +32,7 @@ void cl::sycl::group< dimensions >::parallel_for_work_item(const workItemFunctio
 
    
 
-   **Returns:** 
+   **Returns:** workItemFunctionTType of the functor to execute hierarchically flexibleRangeThe logical local range funcThe functor to execute 
 
 ---
 
@@ -44,7 +44,7 @@ void cl::sycl::group< dimensions >::parallel_for_work_item(const workItemFunctio
 
    
 
-   **Returns:** 
+   **Returns:** workItemFunctionTType of the functor to execute hierarchically funcThe functor to execute 
 
 ---
 

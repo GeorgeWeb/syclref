@@ -4,7 +4,7 @@ classes: wide
 ---
 
 
-Identifies an instance of a parallel_for_work_item function object executing at each point in a local range passed to a parallel_for_work_item call. It encapsulates enough information to identify the work-item's local and global items according to the information given to parallel_for_work_group (physical ids) as well as the work-item's logical local items in the flexible range. All returned item objects are offset-less. 
+Identifies an instance of a parallel_for_work_item function object executing at each point in a local range passed to a parallel_for_work_item call. It encapsulates enough information to identify the work-item's local and global items according to the information given to parallel_for_work_group (physical ids) as well as the work-item's logical local items in the flexible range. All returned item objects are offset-less. dimensionsNumber of dimensions of the h_item object 
 
 Defined in base.h
 

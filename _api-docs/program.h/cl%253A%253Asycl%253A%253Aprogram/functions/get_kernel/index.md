@@ -19,7 +19,7 @@ kernel cl::sycl::program::get_kernel() const
 
 ---
 
-1. Retrieve a SYCL  object described by the kernel name. kernel
+1. Retrieve a SYCL kernel object described by the kernel name. 
 
    **Parameters:**
 
@@ -27,15 +27,15 @@ kernel cl::sycl::program::get_kernel() const
 
    The string specifying the kernel name. 
 
-   **Returns:** The kernel that has been created form the kernel name parameter. 
+   **Returns:** kernelNameThe string specifying the kernel name. The kernel that has been created form the kernel name parameter. 
 
 ---
 
-2. Retrieve a SYCL  object described by the typename kernelT. kernel
+2. Retrieve a SYCL kernel object described by the typename kernelT. 
 
    **Parameters:**
 
-   **Returns:** The kernel that has been created from the kernel name parameter. 
+   **Returns:** kernelTTypename specifying the name of the kernel to be returned. The kernel that has been created from the kernel name parameter. 
 
 ---
 

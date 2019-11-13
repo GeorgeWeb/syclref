@@ -24,7 +24,7 @@ class cl::sycl::program
 
   | Name |
 | :--- | :--- |
-| [build\_with\_kernel\_type]({{site.baseurl}}{% link _api-docs/program.h/cl%253A%253Asycl%253A%253Aprogram/functions/build_with_kernel_type/index.md %}) | Build a SYCL kernel using its name and optional custom build options. This function produces a ready-to-run program. Note that calling this member function is invalid if the program has already been successfully compiled, built or linked via either , link(string_class) |
+| [build\_with\_kernel\_type]({{site.baseurl}}{% link _api-docs/program.h/cl%253A%253Asycl%253A%253Aprogram/functions/build_with_kernel_type/index.md %}) | Build a SYCL kernel using its name and optional custom build options. This function produces a ready-to-run program. Note that calling this member function is invalid if the program has already been successfully compiled, built or linked via either link(string_class), compile_with_kernel_type(string_class), build_with_kernel_type(string_class) or program(vector_class<program>, string_class).  |
 
   | Name |
 | :--- | :--- |
@@ -32,7 +32,7 @@ class cl::sycl::program
 
   | Name |
 | :--- | :--- |
-| [compile\_with\_kernel\_type]({{site.baseurl}}{% link _api-docs/program.h/cl%253A%253Asycl%253A%253Aprogram/functions/compile_with_kernel_type/index.md %}) | Compile a SYCL kernel using his name and optional custom compile options. This function produce a ready to link program. Note that calling this member function is invalid if the program has already been successfully compiled, built or linked via either , link(string_class) |
+| [compile\_with\_kernel\_type]({{site.baseurl}}{% link _api-docs/program.h/cl%253A%253Asycl%253A%253Aprogram/functions/compile_with_kernel_type/index.md %}) | Compile a SYCL kernel using his name and optional custom compile options. This function produce a ready to link program. Note that calling this member function is invalid if the program has already been successfully compiled, built or linked via either link(string_class), compile_with_kernel_type(string_class), build_with_kernel_type(string_class) or program(vector_class<program>, string_class).  |
 
   | Name |
 | :--- | :--- |
@@ -96,7 +96,7 @@ class cl::sycl::program
 
   | Name |
 | :--- | :--- |
-| [link]({{site.baseurl}}{% link _api-docs/program.h/cl%253A%253Asycl%253A%253Aprogram/functions/link/index.md %}) | Link all compiled programs using the (optional) link options. This function produce a ready-to-run program using a compiled program. Note that calling this member function is invalid if the cl_program has already been successfully built or linked via either , link(string_class) |
+| [link]({{site.baseurl}}{% link _api-docs/program.h/cl%253A%253Asycl%253A%253Aprogram/functions/link/index.md %}) | Link all compiled programs using the (optional) link options. This function produce a ready-to-run program using a compiled program. Note that calling this member function is invalid if the cl_program has already been successfully built or linked via either link(string_class), build_with_kernel_type(string_class) or program(vector_class<program>, string_class).  |
 
   | Name |
 | :--- | :--- |

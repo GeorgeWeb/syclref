@@ -11,7 +11,7 @@ cl::sycl::item< dimensions, with_offset >::operator id< dimensions >() const
 ```
 
 
-conversion operator from  to item
+conversion operator from item to id
 
 
 ---

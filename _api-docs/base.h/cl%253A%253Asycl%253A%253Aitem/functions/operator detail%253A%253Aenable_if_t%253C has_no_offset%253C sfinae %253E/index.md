@@ -18,6 +18,6 @@ Returns an item representing the same information as the object holds but also i
 ---
 **Parameters:**
 
-**Returns:** This object with an offset added 
+**Returns:** sfinaeDummy type to signal that this conversion is only available if with_offset is false This object with an offset added 
 
 ---

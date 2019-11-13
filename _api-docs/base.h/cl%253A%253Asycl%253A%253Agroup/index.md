@@ -4,7 +4,7 @@ classes: wide
 ---
 
 
-The cl::sycl::group object is a container for all information about a work group. The 
+The cl::sycl::group object is a container for all information about a work group. The cl::sycl::group object is used within the parallel_for_work_group function. The cl::sycl::group object can return information about the local and global sizes of an enqueued nd-range as well as the number of groups and the current group id. 
 
 Defined in base.h
 
@@ -57,7 +57,7 @@ class cl::sycl::group
 
   | Name |
 | :--- | :--- |
-| [wait\_for]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253Agroup/functions/wait_for/index.md %}) | Waits on each given . device_event |
+| [wait\_for]({{site.baseurl}}{% link _api-docs/base.h/cl%253A%253Asycl%253A%253Agroup/functions/wait_for/index.md %}) | Waits on each given device_event.  |
 
 
 ## Friend Functions

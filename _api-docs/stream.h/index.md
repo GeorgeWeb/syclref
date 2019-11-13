@@ -21,30 +21,30 @@ classes: wide
 
   | Name |
 | :--- | :--- |
-| [cl::sycl::stream\_vec]({{site.baseurl}}{% link _api-docs/stream.h/cl%253A%253Asycl%253A%253Astream_vec/index.md %}) | Template struct that contains a function call operator that streams a vec object to a stream object. Class is specialized for each combination of kVecPart specifying the part of a vector to stream and kEnabled specifying whether it streamed or not. This is the default template that does nothing.  |
+| [cl::sycl::stream\_vec]({{site.baseurl}}{% link _api-docs/stream.h/cl%253A%253Asycl%253A%253Astream_vec/index.md %}) | Template struct that contains a function call operator that streams a vec object to a stream object. Class is specialized for each combination of kVecPart specifying the part of a vector to stream and kEnabled specifying whether it streamed or not. This is the default template that does nothing. kVecPartThe part of the vec to be streamed. kEnabledA boolean specifying whether that part of the vec is streamed. elementTThe element type of the vec. kDimensionsThe number of dimensions of the vec.  |
 
 
   | Name |
 | :--- | :--- |
-| [cl::sycl::stream\_vec< 16, true, elementT, kDimensions >]({{site.baseurl}}{% link _api-docs/stream.h/cl%253A%253Asycl%253A%253Astream_vec%253C 16%2C true%2C elementT%2C kDimensions %253E/index.md %}) | Specialization of stream_vec for kVecPart = 16 and kEnabled = true.  |
+| [cl::sycl::stream\_vec< 16, true, elementT, kDimensions >]({{site.baseurl}}{% link _api-docs/stream.h/cl%253A%253Asycl%253A%253Astream_vec%253C 16%2C true%2C elementT%2C kDimensions %253E/index.md %}) | Specialization of stream_vec for kVecPart = 16 and kEnabled = true. stream_vec. elementTThe element type of the vec. kDimensionsThe number of dimensions of the vec.  |
 
 
   | Name |
 | :--- | :--- |
-| [cl::sycl::stream\_vec< 2, true, elementT, kDimensions >]({{site.baseurl}}{% link _api-docs/stream.h/cl%253A%253Asycl%253A%253Astream_vec%253C 2%2C true%2C elementT%2C kDimensions %253E/index.md %}) | Specialization of stream_vec for kVecPart = 2 and kEnabled = true.  |
+| [cl::sycl::stream\_vec< 2, true, elementT, kDimensions >]({{site.baseurl}}{% link _api-docs/stream.h/cl%253A%253Asycl%253A%253Astream_vec%253C 2%2C true%2C elementT%2C kDimensions %253E/index.md %}) | Specialization of stream_vec for kVecPart = 2 and kEnabled = true. stream_vec. elementTThe element type of the vec. kDimensionsThe number of dimensions of the vec.  |
 
 
   | Name |
 | :--- | :--- |
-| [cl::sycl::stream\_vec< 3, true, elementT, kDimensions >]({{site.baseurl}}{% link _api-docs/stream.h/cl%253A%253Asycl%253A%253Astream_vec%253C 3%2C true%2C elementT%2C kDimensions %253E/index.md %}) | Specialization of stream_vec for kVecPart = 3 and kEnabled = true.  |
+| [cl::sycl::stream\_vec< 3, true, elementT, kDimensions >]({{site.baseurl}}{% link _api-docs/stream.h/cl%253A%253Asycl%253A%253Astream_vec%253C 3%2C true%2C elementT%2C kDimensions %253E/index.md %}) | Specialization of stream_vec for kVecPart = 3 and kEnabled = true. stream_vec. elementTThe element type of the vec. kDimensionsThe number of dimensions of the vec.  |
 
 
   | Name |
 | :--- | :--- |
-| [cl::sycl::stream\_vec< 4, true, elementT, kDimensions >]({{site.baseurl}}{% link _api-docs/stream.h/cl%253A%253Asycl%253A%253Astream_vec%253C 4%2C true%2C elementT%2C kDimensions %253E/index.md %}) | Specialization of stream_vec for kVecPart = 4 and kEnabled = true.  |
+| [cl::sycl::stream\_vec< 4, true, elementT, kDimensions >]({{site.baseurl}}{% link _api-docs/stream.h/cl%253A%253Asycl%253A%253Astream_vec%253C 4%2C true%2C elementT%2C kDimensions %253E/index.md %}) | Specialization of stream_vec for kVecPart = 4 and kEnabled = true. stream_vec. elementTThe element type of the vec. kDimensionsThe number of dimensions of the vec.  |
 
 
   | Name |
 | :--- | :--- |
-| [cl::sycl::stream\_vec< 8, true, elementT, kDimensions >]({{site.baseurl}}{% link _api-docs/stream.h/cl%253A%253Asycl%253A%253Astream_vec%253C 8%2C true%2C elementT%2C kDimensions %253E/index.md %}) | Specialization of stream_vec for kVecPart = 8 and kEnabled = true.  |
+| [cl::sycl::stream\_vec< 8, true, elementT, kDimensions >]({{site.baseurl}}{% link _api-docs/stream.h/cl%253A%253Asycl%253A%253Astream_vec%253C 8%2C true%2C elementT%2C kDimensions %253E/index.md %}) | Specialization of stream_vec for kVecPart = 8 and kEnabled = true. stream_vec. elementTThe element type of the vec. kDimensionsThe number of dimensions of the vec.  |
 

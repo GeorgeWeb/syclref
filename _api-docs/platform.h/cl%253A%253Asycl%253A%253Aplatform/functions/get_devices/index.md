@@ -18,8 +18,8 @@ Get a list of devices associated with the platform.
 **Parameters:**
 
  - `info::device_type deviceType`
-: The type of devices to search for, set to  by default info::device_type::all
+: The type of devices to search for, set to info::device_type::all by default 
 
-**Returns:** A vector of device objects. 
+**Returns:** deviceTypeThe type of devices to search for, set to info::device_type::all by default A vector of device objects. 
 
 ---

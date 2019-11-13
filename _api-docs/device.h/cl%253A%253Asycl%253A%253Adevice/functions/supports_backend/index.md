@@ -20,6 +20,6 @@ Checks whether the device supports a given backend.
  - `const detail::device_backend backend`
 : the backend to check for 
 
-**Returns:** true if supported, false otherwise 
+**Returns:** backendthe backend to check for true if supported, false otherwise 
 
 ---

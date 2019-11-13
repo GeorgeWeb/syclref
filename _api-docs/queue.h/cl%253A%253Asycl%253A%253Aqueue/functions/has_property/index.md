@@ -18,6 +18,6 @@ Returns whether this SYCL queue was constructed with the property specified by p
 ---
 **Parameters:**
 
-**Returns:** True if queue constructed with the property 
+**Returns:** propertyTProperty to check for True if queue constructed with the property 
 
 ---

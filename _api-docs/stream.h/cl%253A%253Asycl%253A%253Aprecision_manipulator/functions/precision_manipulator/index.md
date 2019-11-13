@@ -20,6 +20,6 @@ Constructor that takes a precision value and assigns it to the precision field.
  - `int precision`
 : THe precision value to construct the precision _manipulator with. 
 
-**Returns:** 
+**Returns:** precisionTHe precision value to construct the precision _manipulator with. 
 
 ---

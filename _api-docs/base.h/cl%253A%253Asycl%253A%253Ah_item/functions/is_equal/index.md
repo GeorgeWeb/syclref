@@ -20,6 +20,6 @@ Helper function for calling operator==()
  - `h_item rhs`
 : Object to compare to 
 
-**Returns:** True if all member variables are equal to rhs member variables 
+**Returns:** rhsObject to compare to True if all member variables are equal to rhs member variables 
 
 ---

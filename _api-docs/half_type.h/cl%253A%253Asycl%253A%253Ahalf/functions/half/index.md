@@ -34,7 +34,7 @@ classes: wide
 
    the float to be converted to 16 bits 
 
-   **Returns:** 
+   **Returns:** fthe float to be converted to 16 bits 
 
 ---
 

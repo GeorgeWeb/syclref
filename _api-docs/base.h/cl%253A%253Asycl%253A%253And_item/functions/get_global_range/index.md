@@ -18,7 +18,7 @@ classes: wide
 
 ---
 
-1. Get the global range of the enqueued . nd_range
+1. Get the global range of the enqueued nd_range. 
 
    **Parameters:**
 
@@ -34,7 +34,7 @@ classes: wide
 
    of the global range to be returned. Must be in the range [0,2]. 
 
-   **Returns:** the value of the global range for the specified dimension. 
+   **Returns:** dimensionof the global range to be returned. Must be in the range [0,2]. the value of the global range for the specified dimension. 
 
 ---
 

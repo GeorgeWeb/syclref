@@ -22,7 +22,7 @@ classes: wide
 
    **Parameters:**
 
-   **Returns:** the group id for all dimensions of the 
+   **Returns:** the group id for all dimensions of the nd_range
 
 ---
 
@@ -34,7 +34,7 @@ classes: wide
 
    
 
-   **Returns:** the group id for that dimension 
+   **Returns:** thedimension of the nd_range we should return the group ID for the group id for that dimension 
 
 ---
 

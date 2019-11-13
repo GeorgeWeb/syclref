@@ -21,6 +21,6 @@ Creates and returns a reinterpreted SYCL buffer with the type specified by Reint
  - `range reinterpretRange`
 : 
 
-**Returns:** the reinterpreted buffer with the requested parameters 
+**Returns:** ReinterpretTthe type that the reinterpreted buffer will use. ReinterpretDimthe size used by the reinterpreted buffer. reinterpretRangethe range that the new buffer will use. detail::cpp_error_code::INVALID_OBJECT_ERROR(509) if the size of the reinterpreted buffer and the size of the original buffer do not match 
 
 ---

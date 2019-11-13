@@ -17,6 +17,6 @@ get.
 ---
 **Parameters:**
 
-**Returns:** Returns the underlying cl_device_id object and retain it. The caller is responsible for releasing the returned cl_device_id. 
+**Returns:** Returns the underlying cl_device_id object and retain it. The caller is responsible for releasing the returned cl_device_id. The cl_device_id object. 
 
 ---

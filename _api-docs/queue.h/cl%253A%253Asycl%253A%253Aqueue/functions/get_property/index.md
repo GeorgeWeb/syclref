@@ -18,6 +18,6 @@ Returns a copy of the property of type propertyT that this SYCL queue was constr
 ---
 **Parameters:**
 
-**Returns:** Throws an error if the queue was not constructed with the property. 
+**Returns:** Throws an error if the queue was not constructed with the property. propertyTProperty to retrieve Copy of the property 
 
 ---

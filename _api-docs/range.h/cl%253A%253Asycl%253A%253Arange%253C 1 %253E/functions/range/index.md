@@ -32,7 +32,7 @@ classes: wide
 
    The size of the range. 
 
-   **Returns:** 
+   **Returns:** dim1The size of the range. 
 
 ---
 
@@ -44,7 +44,7 @@ classes: wide
 
    The range to copy 
 
-   **Returns:** 
+   **Returns:** rhsThe range to copy 
 
 ---
 

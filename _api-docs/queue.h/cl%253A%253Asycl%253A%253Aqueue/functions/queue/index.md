@@ -80,7 +80,7 @@ classes: wide
 
    List of queue properties 
 
-   **Returns:** 
+   **Returns:** propListList of queue properties 
 
 ---
 
@@ -94,9 +94,9 @@ classes: wide
 
   * property_list propList
 
-   List of queue properties 
+   User defined device_selectorList of queue properties 
 
-   **Returns:** The device selector  is called by the constructor to get the device to construct the queue. device_selector::select_device()
+   **Returns:** The device selector device_selector::select_device() is called by the constructor to get the device to construct the queue. deviceSelectorUser defined device_selectorpropListList of queue properties 
 
 ---
 
@@ -110,13 +110,13 @@ classes: wide
 
   * async_handler asyncHandler
 
-   User defined async_handler
+   User defined device_selectorUser defined async_handler
 
   * property_list propList
 
-   List of queue properties 
+   User defined device_selectorUser defined async_handlerList of queue properties 
 
-   **Returns:** The device selector  is called by the constructor to get the device to construct the queue. device_selector::select_device()
+   **Returns:** The device selector device_selector::select_device() is called by the constructor to get the device to construct the queue. deviceSelectorUser defined device_selectorasyncHandlerUser defined async_handlerpropListList of queue properties 
 
 ---
 
@@ -130,9 +130,9 @@ classes: wide
 
   * property_list propList
 
-   List of queue properties 
+   The device to use to create the queue List of queue properties 
 
-   **Returns:** 
+   **Returns:** devThe device to use to create the queue propListList of queue properties 
 
 ---
 
@@ -146,13 +146,13 @@ classes: wide
 
   * async_handler asyncHandler
 
-   User defined async_handler
+   The device to use to create the queue User defined async_handler
 
   * property_list propList
 
-   List of queue properties 
+   The device to use to create the queue User defined async_handlerList of queue properties 
 
-   **Returns:** 
+   **Returns:** devThe device to use to create the queue asyncHandlerUser defined async_handlerpropListList of queue properties 
 
 ---
 
@@ -166,13 +166,13 @@ classes: wide
 
   * device_selector selector
 
-   Used to get a device from the context 
+   Context in which the queue will be created. Used to get a device from the context 
 
   * property_list propList
 
-   List of queue properties 
+   Context in which the queue will be created. Used to get a device from the context List of queue properties 
 
-   **Returns:** The device selector  is called by the constructor to get the device to construct the queue. device_selector::select_device()
+   **Returns:** The device selector device_selector::select_device() is called by the constructor to get the device to construct the queue. syclContextContext in which the queue will be created. selectorUsed to get a device from the context propListList of queue properties 
 
 ---
 
@@ -186,7 +186,7 @@ classes: wide
 
   * device_selector selector
 
-   Used to get a device from the context 
+   Context in which the queue will be created. Used to get a device from the context 
 
   * async_handler asyncHandler
 
@@ -194,9 +194,9 @@ classes: wide
 
   * property_list propList
 
-   List of queue properties 
+   Context in which the queue will be created. Used to get a device from the context List of queue properties 
 
-   **Returns:** The device selector  is called by the constructor to get the device to construct the queue. device_selector::select_device()
+   **Returns:** The device selector device_selector::select_device() is called by the constructor to get the device to construct the queue. syclContextContext in which the queue will be created. selectorUsed to get a device from the context propListList of queue properties 
 
 ---
 
@@ -210,13 +210,13 @@ classes: wide
 
   * context s_context
 
-   a valid OpenCL context 
+   a valid OpenCL object for a command queue a valid OpenCL context 
 
   * async_handler asyncHandler
 
-   User defined async_handler
+   a valid OpenCL object for a command queue a valid OpenCL context User defined async_handler
 
-   **Returns:** 
+   **Returns:** clQueuea valid OpenCL object for a command queue s_contexta valid OpenCL context asyncHandlerUser defined async_handler
 
 ---
 
@@ -228,7 +228,7 @@ classes: wide
 
    a queue to be copied over to the returned object 
 
-   **Returns:** 
+   **Returns:** rhsa queue to be copied over to the returned object 
 
 ---
 
@@ -254,9 +254,9 @@ classes: wide
 
   * property_list propList
 
-   List of queue properties 
+   User defined async_handlerList of queue properties 
 
-   **Returns:** 
+   **Returns:** asyncHandlerUser defined async_handlerpropListList of queue properties 
 
 ---
 

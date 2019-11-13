@@ -26,7 +26,7 @@ classes: wide
 
    Which value of the ID to retrieve 
 
-   **Returns:** Element of the physical local ID 
+   **Returns:** dimensionWhich value of the ID to retrieve Element of the physical local ID 
 
 ---
 

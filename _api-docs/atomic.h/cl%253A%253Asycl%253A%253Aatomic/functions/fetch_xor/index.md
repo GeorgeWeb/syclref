@@ -21,8 +21,8 @@ Atomically bitwise-xor operand with *m_data.
 : the value to xor with *m_data. 
 
  - `memory_order mem_order`
-: the ordering to use. Can only be memory_order_relaxed. 
+: the value to xor with *m_data. the ordering to use. Can only be memory_order_relaxed. 
 
-**Returns:** the old value of *m_data. 
+**Returns:** operandthe value to xor with *m_data. mem_orderthe ordering to use. Can only be memory_order_relaxed. the old value of *m_data. 
 
 ---

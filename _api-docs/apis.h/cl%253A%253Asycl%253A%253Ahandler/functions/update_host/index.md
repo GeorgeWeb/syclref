@@ -21,6 +21,6 @@ Updates the device data with the current host accessor.
  - `accessor acc`
 : 
 
-**Returns:** 
+**Returns:** AccessorTaccessor 
 
 ---

@@ -26,7 +26,7 @@ classes: wide
 
    The program being assigned from. 
 
-   **Returns:** 
+   **Returns:** rhsThe program being assigned from. 
 
 ---
 
@@ -38,7 +38,7 @@ classes: wide
 
    The program being assigned from. 
 
-   **Returns:** 
+   **Returns:** rhsThe program being assigned from. 
 
 ---
 

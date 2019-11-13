@@ -11,7 +11,7 @@ range<dimensions> cl::sycl::nd_range< dimensions >::get_local_range() const
 ```
 
 
-Return the local . range
+Return the local range. 
 
 
 ---

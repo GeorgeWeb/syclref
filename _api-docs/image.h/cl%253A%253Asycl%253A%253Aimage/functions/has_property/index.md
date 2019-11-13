@@ -18,6 +18,6 @@ Returns whether this SYCL image was constructed with the property specified by p
 ---
 **Parameters:**
 
-**Returns:** True if image constructed with the property 
+**Returns:** propertyTProperty to check for True if image constructed with the property 
 
 ---

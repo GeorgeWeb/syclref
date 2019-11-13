@@ -44,21 +44,21 @@ void cl::sycl::nd_item< dimensions >::codeplay_begin_dma_transfer(const multi_pt
 
   * multi_ptr destination
 
-   The region of memory to write the data to. 
+   The region of memory to copy data from. The region of memory to write the data to. 
 
   * range copyBounds
 
-   The shape of the region. 
+   The region of memory to copy data from. The region of memory to write the data to. The shape of the region. 
 
   * size_t offset
 
-   The offset into the planar region of memory. 
+   The region of memory to copy data from. The region of memory to write the data to. The shape of the region. The offset into the planar region of memory. 
 
   * size_t stride
 
-   The subgroup local memory stride. 
+   The region of memory to copy data from. The region of memory to write the data to. The shape of the region. The offset into the planar region of memory. The subgroup local memory stride. 
 
-   **Returns:** 
+   **Returns:** sourceThe region of memory to copy data from. destinationThe region of memory to write the data to. copyBoundsThe shape of the region. offsetThe offset into the planar region of memory. strideThe subgroup local memory stride. 
 
 ---
 
@@ -72,21 +72,21 @@ void cl::sycl::nd_item< dimensions >::codeplay_begin_dma_transfer(const multi_pt
 
   * accessor destination
 
-   The region of memory to write the data to. 
+   The region of memory to copy data from. The region of memory to write the data to. 
 
   * range copyBounds
 
-   The shape of the region. 
+   The region of memory to copy data from. The region of memory to write the data to. The shape of the region. 
 
   * size_t offset
 
-   The offset into the planar region of memory. 
+   The region of memory to copy data from. The region of memory to write the data to. The shape of the region. The offset into the planar region of memory. 
 
   * size_t stride
 
-   The subgroup local memory stride. 
+   The region of memory to copy data from. The region of memory to write the data to. The shape of the region. The offset into the planar region of memory. The subgroup local memory stride. 
 
-   **Returns:** 
+   **Returns:** sourceThe region of memory to copy data from. destinationThe region of memory to write the data to. copyBoundsThe shape of the region. offsetThe offset into the planar region of memory. strideThe subgroup local memory stride. 
 
 ---
 
@@ -100,21 +100,21 @@ void cl::sycl::nd_item< dimensions >::codeplay_begin_dma_transfer(const multi_pt
 
   * accessor destination
 
-   The region of memory to write the data to. 
+   The region of memory to copy data from. The region of memory to write the data to. 
 
   * range copyBounds
 
-   The shape of the region. 
+   The region of memory to copy data from. The region of memory to write the data to. The shape of the region. 
 
   * size_t offset
 
-   The offset into the planar region of memory. 
+   The region of memory to copy data from. The region of memory to write the data to. The shape of the region. The offset into the planar region of memory. 
 
   * size_t stride
 
-   The subgroup local memory stride. 
+   The region of memory to copy data from. The region of memory to write the data to. The shape of the region. The offset into the planar region of memory. The subgroup local memory stride. 
 
-   **Returns:** 
+   **Returns:** sourceThe region of memory to copy data from. destinationThe region of memory to write the data to. copyBoundsThe shape of the region. offsetThe offset into the planar region of memory. strideThe subgroup local memory stride. 
 
 ---
 
@@ -128,21 +128,21 @@ void cl::sycl::nd_item< dimensions >::codeplay_begin_dma_transfer(const multi_pt
 
   * accessor destination
 
-   The region of memory to write the data to. 
+   The region of memory to copy data from. The region of memory to write the data to. 
 
   * range copyBounds
 
-   The shape of the region. 
+   The region of memory to copy data from. The region of memory to write the data to. The shape of the region. 
 
   * size_t offset
 
-   The offset into the planar region of memory. 
+   The region of memory to copy data from. The region of memory to write the data to. The shape of the region. The offset into the planar region of memory. 
 
   * size_t stride
 
-   The subgroup local memory stride. 
+   The region of memory to copy data from. The region of memory to write the data to. The shape of the region. The offset into the planar region of memory. The subgroup local memory stride. 
 
-   **Returns:** 
+   **Returns:** sourceThe region of memory to copy data from. destinationThe region of memory to write the data to. copyBoundsThe shape of the region. offsetThe offset into the planar region of memory. strideThe subgroup local memory stride. 
 
 ---
 

@@ -26,7 +26,7 @@ classes: wide
 
    List of events to wait 
 
-   **Returns:** Exceptions may be thrown. 
+   **Returns:** Exceptions may be thrown. eventListList of events to wait 
 
 ---
 
@@ -34,7 +34,7 @@ classes: wide
 
    **Parameters:**
 
-   **Returns:** Throws any exception that can be associated with the execution of the event 
+   **Returns:** Throws any exception that can be associated with the execution of the event cl::sycl::exception
 
 ---
 

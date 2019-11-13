@@ -21,10 +21,10 @@ Friend function declaration to give global stream operator access to private mem
 : The output stream. 
 
  - `stream rhs`
-: The stream object to be streamed into the output. 
+: The output stream. The stream object to be streamed into the output. 
 
 
 ---
-**Returns:** 
+**Returns:** outThe output stream. rhsThe stream object to be streamed into the output. 
 
 ---

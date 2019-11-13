@@ -17,6 +17,6 @@ Returns the list of devices from the current context.
 ---
 **Parameters:**
 
-**Returns:** 
+**Returns:** device
 
 ---

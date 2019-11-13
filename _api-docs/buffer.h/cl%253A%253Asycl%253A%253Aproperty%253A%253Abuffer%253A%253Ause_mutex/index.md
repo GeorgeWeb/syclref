@@ -24,7 +24,7 @@ class cl::sycl::property::buffer::use_mutex
 
   | Name |
 | :--- | :--- |
-| [use\_mutex]({{site.baseurl}}{% link _api-docs/buffer.h/cl%253A%253Asycl%253A%253Aproperty%253A%253Abuffer%253A%253Ause_mutex/functions/use_mutex/index.md %}) | Constructs a SYCL  property instance with a reference to mutexRef parameter provided. use_mutex |
+| [use\_mutex]({{site.baseurl}}{% link _api-docs/buffer.h/cl%253A%253Asycl%253A%253Aproperty%253A%253Abuffer%253A%253Ause_mutex/functions/use_mutex/index.md %}) | Constructs a SYCL use_mutex property instance with a reference to mutexRef parameter provided.  |
 
 
 ## Friend Functions

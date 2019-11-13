@@ -18,8 +18,8 @@ Allocate private memory based on the group range.
 **Parameters:**
 
  - `group group`
-: The group instance provided by the . handler::parallel_for_work_group
+: The group instance provided by the handler::parallel_for_work_group. 
 
-**Returns:** 
+**Returns:** groupThe group instance provided by the handler::parallel_for_work_group. 
 
 ---

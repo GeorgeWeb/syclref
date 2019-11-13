@@ -52,7 +52,7 @@ classes: wide
 
    
 
-   **Returns:** Create a copy of another  object. item
+   **Returns:** Create a copy of another item object. 
 
 ---
 

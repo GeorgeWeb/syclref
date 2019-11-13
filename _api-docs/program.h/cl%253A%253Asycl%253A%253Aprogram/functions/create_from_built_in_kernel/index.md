@@ -20,6 +20,6 @@ No description.
  - `string_class kernelName`
 : name 
 
-**Returns:** Creates a valid cl_program from a pre-built kernel provided by the underlying OpenCL implementation. 
+**Returns:** Creates a valid cl_program from a pre-built kernel provided by the underlying OpenCL implementation. kernelname 
 
 ---

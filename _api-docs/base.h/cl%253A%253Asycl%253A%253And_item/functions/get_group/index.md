@@ -22,7 +22,7 @@ classes: wide
 
    **Parameters:**
 
-   **Returns:** A 
+   **Returns:** A group object. 
 
 ---
 
@@ -34,7 +34,7 @@ classes: wide
 
    of the id to be returned. Must be in the range [0,2]. 
 
-   **Returns:** the value of the group range in the specified dimension. 
+   **Returns:** dimensionof the id to be returned. Must be in the range [0,2]. the value of the group range in the specified dimension. 
 
 ---
 
